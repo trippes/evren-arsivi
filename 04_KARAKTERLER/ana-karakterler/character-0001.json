@@ -4,7 +4,7 @@
   "name": "Henüz adlandırılmadı",
   "status": "kanon",
   "summary": "Asırlardır yaşayan, zaman makinesine sahip ve kuantum mekaniğine hükmedebilen çılgın bir bilim insanı. Alternatif evrenler oluşturur; Cem Sultan'ın Fatih Sultan Mehmet'in ölümünden sonra tahta geçmesi hâlinde neler yaşanacağını merak ederek bu tarihsel ihtimali araştırır.",
-  "description": "Bu karakter, anlatının arka planındaki gizemli gücün merkezindeki kişidir. Asırlardır yaşamaktadır. Bir zaman makinesine sahiptir ve kuantum mekaniğine hükmedebilecek ölçüde ileri bir bilimsel güce erişmiştir. Alternatif evrenler oluşturabilmektedir. Cem Sultan'ın babası Fatih Sultan Mehmet'in ölümünden sonra tahta geçmesi durumunda tarihin nasıl gelişeceğini merak eder. Bu merak, Cem Sultan'ın merkezinde olduğu alternatif tarih evreninin oluşturulmasının temel motivasyonudur. Karakterin adı, doğum tarihi, kökeni, görünüşü, kişiliğinin ayrıntıları, bilimsel gücünün sınırları, zaman makinesinin çalışma ilkeleri, alternatif evren oluşturma yönteminin bedelleri ve Cem Sultan ile doğrudan temas kurup kurmadığı henüz belirlenmemiştir. Kişilik yönelimi: Deliliğe yaklaşan bir deha. Zaman ve alternatif evrenlerle uğraşmasının zihni üzerindeki etkisi nedeniyle öngörülemez davranabilir. Bu tercih, karakterin genel kişilik çerçevesidir; somut davranışları ve zihinsel durumunun ayrıntıları henüz belirlenmemiştir. Cem Sultan ile ilişkisi ve ilk karşılaşma: Bilim insanı, Cem Sultan'ı önceden yalnızca tarihsel bir kişilik olarak tanır. Gelecekten geçmişe gelerek Cem Sultan ile şahsen karşılaşır. Cem Sultan ise bu kişiyle hayatında ilk kez karşılaşacaktır; aralarında önceden kurulmuş bir tanışıklık veya kişisel ilişki yoktur.",
+  "description": "Bu karakter, anlatının arka planındaki gizemli gücün merkezindeki kişidir. Asırlardır yaşamaktadır. Bir zaman makinesine sahiptir ve kuantum mekaniğine hükmedebilecek ölçüde ileri bir bilimsel güce erişmiştir. Alternatif evrenler oluşturabilmektedir. Cem Sultan'ın babası Fatih Sultan Mehmet'in ölümünden sonra tahta geçmesi durumunda tarihin nasıl gelişeceğini merak eder. Bu merak, Cem Sultan'ın merkezinde olduğu alternatif tarih evreninin oluşturulmasının temel motivasyonudur. Karakterin adı, doğum tarihi, kökeni, görünüşü, kişiliğinin ayrıntıları, bilimsel gücünün sınırları, zaman makinesinin çalışma ilkeleri, alternatif evren oluşturma yönteminin bedelleri ve Cem Sultan ile doğrudan temas kurup kurmadığı henüz belirlenmemiştir. Kişilik yönelimi: Deliliğe yaklaşan bir deha. Zaman ve alternatif evrenlerle uğraşmasının zihni üzerindeki etkisi nedeniyle öngörülemez davranabilir. Bu tercih, karakterin genel kişilik çerçevesidir; somut davranışları ve zihinsel durumunun ayrıntıları henüz belirlenmemiştir. Cem Sultan ile ilişkisi ve ilk karşılaşma: Bilim insanı, Cem Sultan'ı önceden yalnızca tarihsel bir kişilik olarak tanır. Gelecekten geçmişe gelerek Cem Sultan ile şahsen karşılaşır. Cem Sultan ise bu kişiyle hayatında ilk kez karşılaşacaktır; aralarında önceden kurulmuş bir tanışıklık veya kişisel ilişki yoktur. Cem Sultan'ın karşısına çıktığında kendisini bir 'Zaman Şövalyesi' olarak tanıtacaktır. Bu, Cem Sultan'a sunduğu kimlik ve unvandır; bilim insanının gerçek kimliğini, gelecekten geldiğini veya bilimsel kapasitesini açıklayıp açıklamayacağı henüz belirlenmemiştir.",
   "created_at": null,
   "updated_at": null,
   "sources": [
@@ -17,12 +17,15 @@
   "related_entities": [
     "premise-0002"
   ],
-  "notes": "Karakterin adı henüz belirlenmedi. Proje sahibi kişilik yönelimi olarak 'deliliğe yaklaşan deha' seçeneğini onayladı: zaman ve evrenlerle oynamak zihnini değiştirmiş, öngörülemez davranan bir karakter. 'Çılgın bilim insanı' tanımı klinik bir tanı anlamına gelmez. Belirtilmeyen özellikler varsayılmayacaktır. İlk karşılaşmanın tarihi, yeri, bilim insanının geliş zamanı ve Cem Sultan'a kendisini nasıl tanıttığı henüz belirlenmemiştir.",
+  "notes": "Karakterin adı henüz belirlenmedi. Proje sahibi kişilik yönelimi olarak 'deliliğe yaklaşan deha' seçeneğini onayladı: zaman ve evrenlerle oynamak zihnini değiştirmiş, öngörülemez davranan bir karakter. 'Çılgın bilim insanı' tanımı klinik bir tanı anlamına gelmez. Belirtilmeyen özellikler varsayılmayacaktır. İlk karşılaşmanın tarihi, yeri, bilim insanının geliş zamanı ve Cem Sultan'a kendisini nasıl tanıttığı henüz belirlenmemiştir. Cem Sultan'a kendisini 'Zaman Şövalyesi' olarak tanıtacağı proje sahibi tarafından kesinleştirildi.",
   "relationships": [
     {
       "entity_id": "premise-0002",
       "relation": "anlatının merkezindeki alternatif tarih deneyini başlatan ve Cem Sultan ile gelecekte şahsen karşılaşacak kişi",
       "status": "kanon"
     }
+  ],
+  "aliases": [
+    "Zaman Şövalyesi"
   ]
 }
