@@ -1,0 +1,19 @@
+{
+  "id": "premise-0001",
+  "type": "historical_timeline_premise",
+  "name": "Cem Sultan'ın yaşamını kapsayan alternatif tarih anlatısı",
+  "status": "kanon",
+  "summary": "Cem Sultan'ın doğumuna kadar tarihsel akış gerçek tarihle aynıdır. Hikâye Cem Sultan'ın doğumuyla başlar ve ölümüyle sona erer.",
+  "description": "Anlatının başlangıç eşiğine kadar tarihsel dünya, gerçek tarihteki olaylarla aynı kabul edilir. Hikâyenin kapsadığı dönem Cem Sultan'ın doğumundan ölümüne kadardır. Cem Sultan'ın doğumundan sonraki tarihsel gelişmeler, ayrıca kararlaştırılıp kayda geçirilmedikçe otomatik olarak gerçek tarihle aynı veya farklı kabul edilmez; her olay kendi kanon durumuna göre değerlendirilir.",
+  "created_at": null,
+  "updated_at": null,
+  "sources": [
+    {
+      "type": "project_owner_declaration",
+      "reference": "Bu sohbet içindeki açık evren tanımı",
+      "note": "Proje sahibinin doğrudan belirlediği temel zaman çizgisi kuralı."
+    }
+  ],
+  "related_entities": [],
+  "notes": "Cem Sultan'ın doğum ve ölüm tarihleri bu kayıtta özellikle sabitlenmemiştir; tarihsel kronoloji kayıtları oluşturulurken ayrıca doğrulanacaktır."
+}
