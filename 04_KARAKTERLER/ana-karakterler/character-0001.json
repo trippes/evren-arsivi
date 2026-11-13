@@ -1,0 +1,21 @@
+{
+  "id": "character-0001",
+  "type": "character",
+  "name": "Henüz adlandırılmadı",
+  "status": "kanon",
+  "summary": "Asırlardır yaşayan, zaman makinesine sahip ve kuantum mekaniğine hükmedebilen çılgın bir bilim insanı. Alternatif evrenler oluşturur; Cem Sultan'ın Fatih Sultan Mehmet'in ölümünden sonra tahta geçmesi hâlinde neler yaşanacağını merak ederek bu tarihsel ihtimali araştırır.",
+  "description": "Bu karakter, anlatının arka planındaki gizemli gücün merkezindeki kişidir. Asırlardır yaşamaktadır. Bir zaman makinesine sahiptir ve kuantum mekaniğine hükmedebilecek ölçüde ileri bir bilimsel güce erişmiştir. Alternatif evrenler oluşturabilmektedir. Cem Sultan'ın babası Fatih Sultan Mehmet'in ölümünden sonra tahta geçmesi durumunda tarihin nasıl gelişeceğini merak eder. Bu merak, Cem Sultan'ın merkezinde olduğu alternatif tarih evreninin oluşturulmasının temel motivasyonudur. Karakterin adı, doğum tarihi, kökeni, görünüşü, kişiliğinin ayrıntıları, bilimsel gücünün sınırları, zaman makinesinin çalışma ilkeleri, alternatif evren oluşturma yönteminin bedelleri ve Cem Sultan ile doğrudan temas kurup kurmadığı henüz belirlenmemiştir.",
+  "created_at": null,
+  "updated_at": null,
+  "sources": [
+    {
+      "type": "project_owner_declaration",
+      "reference": "Bu sohbet içindeki karakter tanımı",
+      "note": "Karakterin asırlardır yaşayan bilim insanı olması, zaman makinesi, kuantum mekaniği üzerindeki gücü, alternatif evrenler oluşturması ve Cem Sultan senaryosuna duyduğu merak doğrudan proje sahibi tarafından belirtildi."
+    }
+  ],
+  "related_entities": [
+    "premise-0002"
+  ],
+  "notes": "Karakterin adı henüz belirlenmedi. 'Çılgın bilim insanı' tanımı karakterin temel konseptidir; klinik bir tanı anlamına gelmez. Belirtilmeyen özellikler varsayılmayacaktır."
+}
