@@ -1,21 +1,24 @@
 # Evren Genel Bakışı
 
-> Durum: taslak  
-> Bu dosya henüz evren hakkında kesinleşmiş bilgi içermez.
+> Durum: kanonun temel çerçevesi oluşturuluyor
 
-## Kısa tanım
-TODO: Evrenin bir veya iki paragraflık özeti.
+## Temel zaman çizgisi
+Cem Sultan'ın doğumuna kadar tarihsel akış gerçek tarihle aynıdır. Hikâye Cem Sultan'ın doğumuyla başlar ve ölümüyle sona erer.
+
+Bu kuralın ayrıntılı ve makine tarafından okunabilir kaydı: [temel-zaman-cizgisi.json](temel-zaman-cizgisi.json).
+
+Cem Sultan'ın doğumundan sonraki tarihsel gelişmeler, ayrıca kararlaştırılıp kayda geçirilmedikçe otomatik olarak gerçek tarihle aynı veya farklı kabul edilmez. Her gelişme kendi kanon durumuna göre ele alınır.
 
 ## Kozmoloji
-TODO: Evrenin kökeni, yapısı ve varsa düzlemleri.
+Henüz tanımlanmadı.
 
 ## Doğa ve gerçeklik yasaları
-TODO: Fiziksel, metafizik ve doğaüstü kurallar.
+Henüz tanımlanmadı.
 
 ## Temel temalar
-TODO: Hikâyenin ana temaları.
+Henüz tanımlanmadı.
 
 ## Açık sorular
-- [ ] Evrenin kapsamı ve sınırları nedir?
-- [ ] Doğaüstü güçler veya özel kurallar var mı?
-- [ ] Evrenin başlangıcı biliniyor mu?
+- [ ] Hikâyenin geçtiği tarihsel ve coğrafi kapsam nasıl sınırlandırılacak?
+- [ ] Cem Sultan'ın doğumundan sonra hangi tarihsel olaylar aynen korunacak?
+- [ ] Gerçek tarihten ilk ayrışma hangi olayda gerçekleşecek?
