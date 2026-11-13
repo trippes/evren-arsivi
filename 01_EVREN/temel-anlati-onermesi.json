@@ -1,0 +1,19 @@
+{
+  "id": "premise-0002",
+  "type": "narrative_core_premise",
+  "name": "Cem Sultan'ın tahta çıkışı ve gizemli güç",
+  "status": "kanon",
+  "summary": "Anlatının temel alternatif tarih sorusu, Fatih Sultan Mehmet'in ölümünden sonra Cem Sultan'ın tahta geçmesi hâlinde Osmanlı ve çevresindeki tarihin nasıl şekilleneceğidir. Cem Sultan'ın arkasında, kimliği ve niteliği henüz bilinmeyen gizemli bir güç bulunur.",
+  "description": "Hikâyenin ana karşı-olgusal kırılma noktası, Fatih Sultan Mehmet'in ölümünün ardından Cem Sultan'ın Osmanlı tahtına geçmesidir. Anlatı, bu ihtimalin siyasi, askerî, toplumsal ve tarihsel sonuçlarını ele alır. Cem Sultan'ın arkasında, varlığı anlatının temel gizem unsurlarından biri olan bilinmeyen bir güç vardır. Bu gücün kimliği, yapısı, kökeni, amaçları, imkânları, Cem Sultan ile ilişkisinin niteliği ve olaylara müdahale biçimi henüz belirlenmemiştir. Bu kayıtta söz konusu gücün doğaüstü, dünyevi, kurumsal, bireysel veya başka bir nitelikte olduğu varsayılmaz. Ayrıntılar ancak ayrıca kararlaştırılıp kayda geçirildiğinde kanon kabul edilir.",
+  "created_at": null,
+  "updated_at": null,
+  "sources": [
+    {
+      "type": "project_owner_declaration",
+      "reference": "Bu sohbet içindeki açık hikâye iskeleti tanımı",
+      "note": "Proje sahibinin doğrudan belirlediği ana alternatif tarih sorusu ve gizem unsuru."
+    }
+  ],
+  "related_entities": [],
+  "notes": "Cem Sultan'ın tahta çıkışının gerçekleşme biçimi ve gizemli gücün mahiyeti açık sorulardır. Bunlar mevcut kayıtta bilerek çözümlenmemiştir."
+}
