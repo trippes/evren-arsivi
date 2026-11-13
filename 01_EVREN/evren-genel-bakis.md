@@ -9,6 +9,11 @@ Bu kuralın ayrıntılı ve makine tarafından okunabilir kaydı: [temel-zaman-c
 
 Cem Sultan'ın doğumundan sonraki tarihsel gelişmeler, ayrıca kararlaştırılıp kayda geçirilmedikçe otomatik olarak gerçek tarihle aynı veya farklı kabul edilmez. Her gelişme kendi kanon durumuna göre ele alınır.
 
+## Ana anlatı önermesi
+Ana alternatif tarih sorusu, Fatih Sultan Mehmet'in ölümünden sonra Cem Sultan'ın tahta geçmesi hâlinde neler yaşanacağıdır. Cem Sultan'ın arkasında kimliği ve niteliği henüz bilinmeyen gizemli bir güç bulunur. Bu gücün doğası, amacı ve Cem Sultan ile ilişkisi belirlenmemiştir; bunlar hakkında varsayım yapılmaz.
+
+Ayrıntılı kayıt: [temel-anlati-onermesi.json](temel-anlati-onermesi.json).
+
 ## Kozmoloji
 Henüz tanımlanmadı.
 
