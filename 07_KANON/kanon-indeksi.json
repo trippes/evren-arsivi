@@ -15,6 +15,13 @@
       "name": "Cem Sultan'ın tahta çıkışı ve gizemli güç",
       "status": "kanon",
       "path": "01_EVREN/temel-anlati-onermesi.json"
+    },
+    {
+      "id": "character-0001",
+      "type": "character",
+      "name": "Henüz adlandırılmadı",
+      "status": "kanon",
+      "path": "04_KARAKTERLER/ana-karakterler/character-0001.json"
     }
   ]
 }
