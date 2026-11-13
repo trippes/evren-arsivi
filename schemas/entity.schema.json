@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/evren-arsivi/schemas/entity.schema.json",
+  "title": "Evren Arşivi Varlık Kaydı",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "type", "name", "status", "created_at", "updated_at", "sources"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z]+-[0-9]{4,}$" },
+    "type": { "type": "string", "minLength": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "status": { "enum": ["taslak", "incelemede", "kanon", "reddedildi", "arsiv"] },
+    "summary": { "type": ["string", "null"] },
+    "description": { "type": ["string", "null"] },
+    "created_at": { "type": ["string", "null"], "format": "date-time" },
+    "updated_at": { "type": ["string", "null"], "format": "date-time" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "reference"],
+        "properties": {
+          "type": { "type": "string" },
+          "reference": { "type": "string" },
+          "note": { "type": ["string", "null"] }
+        },
+        "additionalProperties": false
+      }
+    },
+    "related_entities": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "notes": { "type": ["string", "null"] }
+  }
+}
