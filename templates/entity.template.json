@@ -1,0 +1,13 @@
+{
+  "id": "entity-0001",
+  "type": "TODO",
+  "name": "Yeni kayıt adı",
+  "status": "taslak",
+  "summary": null,
+  "description": null,
+  "created_at": null,
+  "updated_at": null,
+  "sources": [],
+  "related_entities": [],
+  "notes": null
+}
