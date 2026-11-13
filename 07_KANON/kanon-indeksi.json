@@ -8,6 +8,13 @@
       "name": "Cem Sultan'ın yaşamını kapsayan alternatif tarih anlatısı",
       "status": "kanon",
       "path": "01_EVREN/temel-zaman-cizgisi.json"
+    },
+    {
+      "id": "premise-0002",
+      "type": "narrative_core_premise",
+      "name": "Cem Sultan'ın tahta çıkışı ve gizemli güç",
+      "status": "kanon",
+      "path": "01_EVREN/temel-anlati-onermesi.json"
     }
   ]
 }
