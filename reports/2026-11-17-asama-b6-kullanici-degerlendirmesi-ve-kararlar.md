@@ -41,6 +41,17 @@ Bu adlandırmanın anlatı içindeki statüsü:
 - Adlandırma tek bir hükümdarın saltanatına değil, üç hükümdarın ortak tarihsel mirasına ve 1451–1550 arasındaki bütün döneme yöneliktir.
 - Dönemin neden “Asr-ı Saadet” sayıldığı; adalet, ilim, refah, siyasi istikrar, askerî güç ve medeniyet düzeni gibi ölçütler üzerinden hikâye içinde gösterilerek temellendirilmelidir. Bu ölçütlerin ayrıntılı içeriği henüz ayrıca kararlaştırılmamıştır.
 
+### B6-K03 — Asr-ı Saadet'in tarihsel mirası ve hatırlanma ölçütleri
+
+Kullanıcı, 1451–1550 arasındaki dönemin sonraki kuşakların hafızasında dört temel boyut üzerinden yer almasını kabul etmiştir:
+
+1. **Toplumsal barış:** İmparatorluk içindeki farklı toplulukların bir arada yaşayabildiği, toplumsal düzenin ve barışın korunduğu bir dönem.
+2. **Ekonomik refah:** Üretim, ticaret, zenginlik ve genel ekonomik yaşamın geliştiği bir dönem.
+3. **İlmî ilerleme:** Bilimsel bilgi, eğitim, düşünce ve çeşitli ilim alanlarında kayda değer ilerlemelerin yaşandığı bir dönem.
+4. **Osmanlı'nın dünya çapında siyasi üstünlüğünün kabulü:** Osmanlı'nın uluslararası siyasi ağırlığının ve üstün konumunun dünyanın farklı güçleri tarafından tanınması.
+
+Bu dört unsur, sonraki kuşakların dönemi “Asr-ı Saadet” olarak anmasının temel tarihsel gerekçeleri olacaktır. “Tüm dünyanın kabulü” ifadesi, her toplumun veya hükümdarın Osmanlı'ya gönüllü bağlılığı şeklinde otomatik olarak yorumlanmamalıdır; siyasi üstünlüğün tanınması, diplomatik kabullenme, güç dengesi ve farklı bölgelerin Osmanlı ile ilişkileri hikâye içinde somutlaştırılmalıdır.
+
 ## 3. B5 bulgularına etkisi
 
 ### B5-01 — Sultan Oğuz'un saltanatı ve anlatı kapsamı
@@ -60,7 +71,7 @@ Oğuz'un alternatif çizgide 1511'de tahta çıkacağı ve 1550'de vefat edeceğ
 - Cem'in 1481'de tahta çıkışının alternatif tarih içindeki somut siyasi koşulları.
 - Ana anlatının Oğuz'un 39 yıllık saltanatını hangi kapsam ve anlatım biçimiyle işleyeceği.
 - “Asr-ı Saadet” adlandırmasının sonraki kuşaklarda hangi tarihçiler, çevreler veya toplumsal hafıza aracılığıyla yaygınlaştığı.
-- Dönemin bu adı hak etmesini sağlayan somut siyasi, toplumsal, ekonomik, ilmî ve kültürel göstergeler.
+- Toplumsal barış, ekonomik refah, ilmî ilerleme ve Osmanlı'nın küresel siyasi üstünlüğünün kabulünün hangi somut kurumlar, gelişmeler ve olaylarla gösterileceği.
 
 ## 5. Değişiklik sınırı
 
@@ -73,7 +84,7 @@ Bu B6 kaydı hazırlanırken aşağıdaki dosyalarda değişiklik yapılmamışt
 - `01_EVREN/temel-anlati-onermesi.json`
 - `04_KARAKTERLER/ana-karakterler/sah-cem-taslak.md`
 
-B6-K01 ve B6-K02 bu raporda kullanıcı tarafından kabul edilmiş ileriye dönük kurgu tercihleri olarak kayıtlıdır; henüz kanon statüsünde değildir.
+B6-K01, B6-K02 ve B6-K03 bu raporda kullanıcı tarafından kabul edilmiş ileriye dönük kurgu tercihleri olarak kayıtlıdır; henüz kanon statüsünde değildir.
 
 ---
 
