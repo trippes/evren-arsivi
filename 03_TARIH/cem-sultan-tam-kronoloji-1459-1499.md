@@ -60,6 +60,17 @@ Bir kaynakta yazması, özellikle konuşmalar, gizli emirler, zehirlenme ve öze
 10. Türk Edebiyatı Eserler Sözlüğü, “Divan-ı Türkî (Cem Sultan)”. Divanın tertibi ve şiirlerin tarihlendirilmesi konusunda karşılaştırmalı edebiyat kaynağı.  
    https://tees.yesevi.edu.tr/madde-detay/divan-i-turki-cem-sultan
 
+11. *Vâkıât-ı Sultân Cem*, [giriş] Mehmed Ârif, Dersaâdet, 1330 (1914); H. 920/1514 tarihli yazma esas alınarak neşredilmiştir. Müellifin Haydar Bey olduğu kabul edilmekle birlikte atıf ihtiyatla kullanılmalıdır. TTK Kütüphanesi katalog no. A.II/1338. Şevket Rado'nun 1969 sadeleştirmesi ayrıca erişilebilir.  
+   Katalog: https://kutuphane.ttk.gov.tr/details?id=483390&materialType=NE&query=Sultan+Cem%2C+1459-1495.  
+   Sadeleştirme: https://makale.isam.org.tr/server/api/core/bitstreams/47e17fbd-e8b5-4af8-98e9-980c85e62aae/content
+
+
+### 2.3. Temel Osmanlı anlatı kaynağı: Vâkıât-ı Sultan Cem
+
+Cem'in maiyetinden bir kişi tarafından 920 H./1514'te yazıldığı kabul edilen Vâkıât-ı Sultan Cem, Avrupa sürgünü için ana Osmanlı anlatı kaynağıdır. Müellifin Haydar Bey olduğu kuvvetle muhtemel görülse de kesin değildir. Halil İnalcık eseri Cem'in hayatına ilişkin en ayrıntılı ve güvenilir Osmanlı anlatısı olarak değerlendirir. Eser olaylardan yaklaşık on dokuz yıl sonra yazıldığı için, özellikle diplomatik niyetler, özel konuşmalar ve ölüm sebebi bağımsız belgelerle karşılaştırılmalıdır. Vâkıât, Kanûnî döneminde yazılan Gurbetnâme-i Sultan Cem ile karıştırılmamalıdır.
+
+Ayrıntılı kaynak tenkidi: [Vâkıât-ı Sultan Cem: Kaynak Değerlendirmesi](vakiat-i-sultan-cem-kaynak-degerlendirmesi.md).
+
 ### 2.2. Kaynak kullanımı hakkında not
 
 TDV maddesi, biyografik omurga için ana başvuru kaynağıdır; ancak her ayrıntı birincil belge niteliğinde değildir. Devlet Arşivleri yayını, Osmanlı istihbarat belgelerini yayımlaması bakımından farklı bir kaynak katmanı sağlar. İnalcık, Eyice ve Uzunçarşılı çalışmaları, özellikle diplomasi, belge ve Avrupa dönemi ayrıntılarında karşılaştırmalı okunmalıdır. TTK makalesindeki geç dönem anlatılar ile arşiv belgesi alıntıları birbirinden ayrılmalıdır.
