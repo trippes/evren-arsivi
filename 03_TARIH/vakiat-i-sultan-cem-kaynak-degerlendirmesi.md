@@ -33,7 +33,7 @@ Bu değerlendirme, eseri özellikle şu başlıklarda birinci derecede başvuru 
 Bununla birlikte eser olaylardan yaklaşık on dokuz yıl sonra yazılmıştır. Müellifin kimliği kesin değildir; anlatı bir maiyet mensubunun bakış açısını taşır. Bu nedenle diplomatik aktörlerin niyetleri, özel konuşmalar ve ölüm sebebi gibi konularda bağımsız kaynaklarla karşılaştırılmalıdır.
 
 
-## 4.1. 1482 Anadolu dönüşü ve Rodos yolculuğu: metnin verdiği ayrıntılar
+## 4. 1482 Anadolu dönüşü ve Rodos yolculuğu: metnin verdiği ayrıntılar
 
 Şevket Rado'nun 1969 tarihli sadeleştirmesinin ilk bölümünde Vâkıât, Cem'in 1482 seferinin safahatını ayrıntılı biçimde aktarır:
 
