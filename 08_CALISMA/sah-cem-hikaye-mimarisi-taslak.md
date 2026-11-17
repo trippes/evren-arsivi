@@ -187,3 +187,54 @@ Zaman Şövalyesi'nin Osmanlı Devleti'nde hangi kamusal kimlikle ve hangi resm�
 ---
 
 **Belge sonu — çalışma taslağıdır, kanon değildir.**
+
+
+## 12. Yeni anlatı taslağı — İlk Kırılma
+
+> **Alt bölüm durumu:** KANON DIŞI, henüz önceki çalışma kararlarıyla uzlaştırılmamıştır. Bu bölüm, yeni sohbet akışında anlatılan olayları korur; önceki bölümlerdeki tarih, yaş ve karakter kararlarını kendiliğinden geçersiz kılmaz.
+
+### 12.1 Zaman Şövalyesi'nin yeni tasarısı ve ilk müdahale
+
+Zaman Şövalyesi, yüzyıllar boyunca yaşadığı maceraların ardından yeni bir tasarıya girişir. Tasarısının çıkış noktası şu sorudur: **“Cem tahta geçerse neler olur?”**
+
+Bu sorunun cevabını araştırmak için, geçmişine daha önce hiç müdahale etmediği ve normal zaman akışında ilerleyen bir evrene gider. Cem'in doğduğu yıl olan **1459'a** ulaşır.
+
+Yanında bulunan tablet bilgisayarda, her dönemde yaşamış atalarının kimlik ve konumlarını içeren bir liste vardır. Bu listeyi, kendi bedensel zaman çizgisinde yüzyıllar önce atalarını öldürmesi gerektiği dönemde yaptığı uzun araştırmalar sonucunda hazırlamıştır.
+
+Listedeki bilgileri kontrol ederek ilgili atasının kimliğini ve dünyadaki konumunu tespit eder. Atasının bulunduğu yere gider ve onu öldürür.
+
+### 12.2 Yeni paralel evren dalının oluşması
+
+Atasının ölümüyle bu evrende bir kırılma yaşanır ve yeni bir paralel evren dalı oluşur. Zaman Şövalyesi artık bu yeni dal üzerinde tasarladığı düzenlemelere girişebilecektir.
+
+Önceden planladığı üzere Anadolu'da gözlerden uzak bir bölge seçer. Bu bölge, gelecekte Konya sancakbeyi olan Şehzade Cem'e biat edecek ordunun yetiştirileceği ordugâhın kurulacağı yerdir.
+
+### 12.3 İşçilerin ve malzemelerin getirilmesi
+
+Zaman Şövalyesi, binlerce paralel evrenden topladığı işçileri ve inşaat malzemelerini kuantum tünelleme yöntemiyle önceden belirlediği bölgeye getirir. İşçiler ve malzemeler tam olarak seçilen noktada zuhur eder.
+
+İşçiler, büyük bir özveriyle Zaman Şövalyesi'nin isteğini yerine getirir ve ordugâhın inşasına başlar. Şehir inşa edilir.
+
+### 12.4 Beş yüz bin atlılık kuvvetin kuruluş hedefi
+
+Şehrin inşasının ardından buraya **500.000 çocuk** ve organizasyondan sorumlu **binlerce yetkili** getirilir. Projenin amacı, tamamen organize edilmiş **500.000 atlıdan oluşan devasa bir ordu** kurmaktır.
+
+Çocukların seçilme koşulları, yaşları, yetiştirilme düzenleri; yetkililerin görev dağılımı ve ordunun teşkilat yapısı bu yeni anlatı taslağında henüz açıklanmamıştır.
+
+### 12.5 Cem'le ilk temas için hazırlık
+
+500.000 atlının yetiştirilme sürecinde Zaman Şövalyesi, Cem'le ilk kez doğrudan temas kurmaya hazırlanır.
+
+Önce Cem'in lalalarını kaçırır. Yerlerine, farklı bir paralel evrenden getirdiği başka versiyonlarını yerleştirir. Bu yeni lalalar eskileriyle birebir aynıdır; ancak Zaman Şövalyesi ile işbirliği içindedir.
+
+Cem, lalalarıyla yalnız olduğu bir sırada Zaman Şövalyesi odasına bir portal açar ve içeri girer. Cem henüz küçük olduğu için bu olağanüstü karşılaşmayı farklı bir oyun gibi düşünür ve eğlenceli bulur. Lalalarına bakar; onların da Zaman Şövalyesi ile anlaşmış olduğunu görünce rahatlar.
+
+Böylece Cem ile Zaman Şövalyesi ilk kez tanışır ve sohbet etmeye başlar. İlk sohbetin içeriği ve Zaman Şövalyesi'nin Cem'e kendisi hakkında ne anlattığı henüz yazılmamıştır.
+
+### 12.6 Uzlaştırma için açık not
+
+Bu yeni anlatı akışındaki **1459 yılında ilk müdahale**, Cem'in “henüz küçük” olduğu ilk karşılaşma ve lalaların değiştirilmesi unsurları, belgenin önceki bölümlerinde yer alan ilk karşılaşmanın yaklaşık **1467–1469** döneminde gerçekleşmesi ve Cem'in yaşıyla ilgili çalışma kararıyla henüz uzlaştırılmamıştır. İki anlatımdan biri diğerinin yerine geçirilmiş değildir. Bu kronoloji, kullanıcıyla yapılacak sonraki düzenlemede karara bağlanacaktır.
+
+---
+
+**Bu bölüm de çalışma taslağıdır; kanon değildir.**
