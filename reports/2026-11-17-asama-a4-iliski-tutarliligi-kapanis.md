@@ -121,7 +121,7 @@ Bunlar Aşama A'nın kapanışını engellemez; ileride ayrı teknik işler olar
 
 ## 9. Kapanış
 
-<**Aşama A — Kayıt Bütünlüğü: TAMAMLANDI**>
+**Aşama A — Kayıt Bütünlüğü: TAMAMLANDI**
 
 Aşama A'nın dört alt aşaması da tamamlanmıştır. Kayıt kimlikleri, esas dosyalar, kanon indeksi, karar günlüğü, ilişkiler, şema ve şablon arasında doğrulanmış bir temel tutarlılık sağlanmıştır.
 
