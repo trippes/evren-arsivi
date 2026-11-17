@@ -190,6 +190,8 @@ II. Bayezid, Cem'in serbest bırakılmasını veya Rumeli'ye geçirilmesini önl
 
 Ayrıntılı kaynak tenkidi: [Vâkıât-ı Sultan Cem kaynak değerlendirmesi](vakiat-i-sultan-cem-kaynak-degerlendirmesi.md).
 
+1481–1491 dönemindeki Osmanlı, Memlük ve Rodos ilişkilerinin diplomatik çözümlemesi için [Osmanlı–Memlük–Rodos Diplomasisi (1481–1491)](../06_OLAYLAR/1481-1491-osmanli-memluk-rodos-diplomasisi.md) kaydına bakınız. Bu dosya Kayıtbay'ın Cem'e desteği hakkındaki ihtilafları ve 7 Aralık 1482 Rodos anlaşmasının ödeme miktarını ayrı kaynak katmanlarıyla ele alır.
+
 ### Rodos anlaşmasının para miktarı: önemli kaynak farkı
 
 - TDV Cem Sultan maddesi, şövalyelere yıllık **40.000 altın** verilmesini aktarır.
