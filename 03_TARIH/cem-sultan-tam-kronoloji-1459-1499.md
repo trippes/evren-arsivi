@@ -161,7 +161,7 @@ Anadolu'daki askerî ve siyasî desteği dağılan Cem'in bölgede tutunma imkâ
 
 ## 12. 29 Temmuz 1482: Rodos'a varış
 
-Cem 29 Temmuz 1482'de Rodos'a ulaştı. Rodos şövalyelerinin büyük üstadı Pierre d'Aubusson tarafından törenle karşılandı.
+Cem'in Rodos'a varış günü kaynaklarda uyuşmazlık gösterir. TDV İslâm Ansiklopedisi ve Semavi Eyice 29 Temmuz 1482 tarihini verirken, Türk Tarih Kurumu'nun yayımladığı anlatı 26 Temmuz 1482 tarihini kaydeder. İki tarih de kaynak gösterilerek korunmalıdır; çağdaş Rodos kayıtlarıyla kesinleştirme henüz yapılmamıştır. Rodos şövalyelerinin büyük üstadı Pierre d'Aubusson tarafından törenle karşılandı.
 
 Cem, şövalyelerin yardımıyla Rumeli'ye geçip taht mücadelesini sürdürmeyi umuyordu. Şövalyeler ise onu Osmanlı Devleti karşısında diplomatik pazarlık unsuru olarak elde tutmayı hesaplıyordu. Böylece Cem'in meselesi, Osmanlı hanedan içi mücadelesinden Avrupa ve Akdeniz diplomasisinin parçasına dönüştü.
 
@@ -322,7 +322,7 @@ Eserlerin yazılış tarihi, nüsha ilişkileri ve aidiyetleri ayrı edebiyat ar
 | 22 Haziran 1481 | Yenişehir yenilgisi | Yaygın tarih; ayrıntı kaynak denetimine açık |
 | 1481–1482 | Memlük ülkesine sığınma ve hac | TDV |
 | 1482 | Kasım Bey ile ittifak ve Konya teşebbüsü | TDV / TTK |
-| 29 Temmuz 1482 | Rodos'a varış | TDV |
+| 26 / 29 Temmuz 1482 | Rodos'a varış | TTK 26 Temmuz; TDV ve Eyice 29 Temmuz; birincil belge denetimi gerekli |
 | 7 Aralık 1482 | Rodos şövalyeleriyle mali anlaşma | İnalcık; yıllık 45.000 altın duka aktarımı |
 | 15 Ekim 1482 | Villefranche'ye götürülüş | TDV; Rodos'tan ayrılış tarihi ayrı |
 | 5 Şubat 1483 | Chambery'ye götürülüş | TDV |
@@ -348,11 +348,23 @@ Eserlerin yazılış tarihi, nüsha ilişkileri ve aidiyetleri ayrı edebiyat ar
 | Cem'in tutulduğu kaleler | Yer ve sıra farklı anlatılabiliyor | Kesin günler yazılmaz | Eyice ve Batı arşiv belgelerinin tek tek karşılaştırılması |
 | Roma'ya geliş | TDV 4 Mart; TTK 13 Mart; 4 Mart tarihli tahminî Osmanlı raporu | Mart 1489, gün uyuşmazlığı | Papalık kayıtları, Venedik raporları, Osmanlı belgesinin tarih notu |
 | Papalık ödemesi | TDV 120.000 altın / üç yıl; diğer düzenlemeler farklı miktar içeriyor | Rodos ve Papalık anlaşmaları ayrılır | İnalcık makalesindeki belge metni ve para birimi |
-| Oğuz Han'ın öldürülmesi | TTK makalesi bir ferman metni aktarır | Belge aktarımı ciddi iddia; bağlam doğrulanmalı | Arşiv belgesinin aslı, tarih, muhatap, belge numarası ve uygulama sonucu |
+| Oğuz Han hakkında ölüm emri | Uzunçarşılı, Topkapı Sarayı Arşivi 11983 A/B olarak verdiği emir ve cevabı yayımlar | Bayezid'in gizli boğdurma emri belgeli; cevabî arz ölümün gerçekleştiğini kesin bildirmez; zehirleme Uzunçarşılı'nın yorumudur | Orijinal belgelerin güncel katalog künyesi, Oğuz Han'ın ölüm ve defin kaydı, hastalık ifadesi |
 | Ölüm nedeni | Zehirlenme rivayetleri ve hastalık ihtimali | Kesin neden bilinmiyor | İtalyan, Fransız, Papalık ve Osmanlı anlatılarının karşılaştırılması |
 | İlk defin / nakil | Gaeta ilk defin; 1499'da farklı duraklar | Aşamalar ayrı tutulur | Eyice'nin kullandığı belgelerin ayrıntılı dökümü |
 
 ---
+
+
+
+### Oğuz Han Çelebi meselesi: arşiv belgesiyle yeni tespit
+
+İ. H. Uzunçarşılı'nın 1965 tarihli Belleten makalesi, II. Bayezid'in İstanbul muhafızı İskender Paşa'ya gönderdiği ve Cem Sultan'ın oğlu Oğuz Han'ın gizlice boğdurulmasını emreden bir mektubu yayımlar. Makalede belge Topkapı Sarayı Arşivi Nr. 11983 A olarak gösterilir. Aynı makalede İskender Paşa'nın cevabî arzı da Nr. 11983 B künyesiyle yayımlanır.
+
+Cevapta Oğuz Han'ın 888 Muharrem ayının 9'unda hastalandığı, 14'ünde durumunun ağır ve ölümünün beklendiği bildirilir. Ancak cevap metni şehzadenin öldüğünü açıkça söylemez; ölürse defin yerinin tayinini ister. Uzunçarşılı, İskender Paşa'nın boğma emrini uygulamayarak zehirleme yoluna gitmiş olabileceğini ileri sürer. Zehirleme, belgenin açık ifadesi değil, araştırmacının yorumudur.
+
+Bu nedenle tarihsel kayıt şu kesinlik düzeyinde tutulmalıdır: **Oğuz Han'ın öldürülmesi için Bayezid'in gizli emir verdiği, Uzunçarşılı'nın yayımladığı arşiv belgesiyle güçlü biçimde belgelenmiştir. Emrin nasıl uygulandığı, Oğuz Han'ın kesin ölüm tarihi ve defin yeri ise henüz bu iki belgeden kesinleştirilemez.**
+
+Ayrıntılı kayıt: [Oğuz Han Çelebi Hakkındaki Boğdurma Emri ve İskender Paşa'nın Cevabı](../06_OLAYLAR/1482-1483-oguz-han-celebi-hakkinda-ferman.md).
 
 ## 25. Şah Cem evreni için tarihsel karakter zemini
 
@@ -366,6 +378,6 @@ Bu yüzden Cem'i yalnızca “tahtını kaybeden mağdur” veya yalnızca “sa
 
 ## 26. Sonuç ve dosya durumu
 
-Bu belge, 1459–1499 döneminin birleştirilmiş araştırma taslağıdır; tamamlanmış akademik monografi veya tüm birincil belgeleri tüketen nihai kronoloji değildir. Özellikle doğum tarihi, Rodos ödemesi, 1482 güzergâhı, Roma'ya geliş günü, Oğuz Han meselesi ve ölüm nedeni açık araştırma başlıklarıdır.
+Bu belge, 1459–1499 döneminin birleştirilmiş araştırma taslağıdır; tamamlanmış akademik monografi veya tüm birincil belgeleri tüketen nihai kronoloji değildir. Özellikle doğum tarihi, Rodos ödemesi, 1482 güzergâhı ve varış günü, Roma'ya geliş günü, Oğuz Han'ın emrinin uygulanma sonucu ve ölüm nedeni açık araştırma başlıklarıdır.
 
 Önceki iki dosya silinmemeli; araştırma geçmişi ve ayrıntılı notlar olarak korunmalıdır. Bu dosya, tüm hayatı tek kronolojide takip etmek için ana başvuru noktası olarak kullanılmalıdır.
