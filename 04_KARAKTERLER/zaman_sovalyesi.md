@@ -1,8 +1,9 @@
 # Zaman Şövalyesi
 
-**Kayıt kimliği:** karakter-zaman-sovalyesi  
-**Durum:** kanon  
-**Tür:** İnsan kökenli, genetik olarak yaşlanması durdurulmuş zaman yolcusu  
+**Belge rolü:** `character-0001` esas kaydını açıklayan eşlik belgesi; bağımsız varlık kaydı değildir.  
+**Kanon kaydı:** `04_KARAKTERLER/ana-karakterler/character-0001.json`  
+**Kanon statüsü:** Bu belgede anlatılan ve esas JSON kaydında yer alan onaylı bilgiler kanondur. Bu belge ayrı bir kayıt kimliği taşımaz.  
+**Tür:** İnsan kökenli, biyolojik yaşlanması durdurulmuş zaman yolcusu  
 **Rol:** Bilim insanı, zaman yolcusu ve paralel zaman çizgileri gözlemcisi
 
 ## Genel Tanım
