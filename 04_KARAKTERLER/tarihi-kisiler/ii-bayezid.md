@@ -58,3 +58,7 @@ Bu kayıt tarihsel kişiyi ve kaynakların aktardığı olguları kapsar. Şah C
 ## Değişiklik notları
 
 - 2026-11-17: İlk araştırma kaydı oluşturuldu; Cem Sultan dosyasıyla doğrudan ilişkili bilgiler önceliklendirildi.
+
+## İlişkili diplomatik süreç
+
+Cem Sultan'ın Mısır'a sığınması, 1482 Anadolu teşebbüsü, Rodos'a geçiş ve Bayezid–Rodos anlaşması bağlamındaki karşılıklı ilişkiler için [Osmanlı–Memlük–Rodos Diplomasisi (1481–1491)](../../06_OLAYLAR/1481-1491-osmanli-memluk-rodos-diplomasisi.md) kaydına bakınız. Bu dosya, bu kişi hakkındaki bilgileri diğer aktörlerin siyasi hesaplarıyla birlikte değerlendirir.
