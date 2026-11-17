@@ -1,3 +1,7 @@
+> **Güncel ana kronoloji:** Bu dosya, 17 Kasım 2026 tarihinde oluşturulan [Cem Sultan'ın Tam Tarihsel Kronolojisi (1459–1499)](cem-sultan-tam-kronoloji-1459-1499.md) ile birlikte okunmalıdır. Yeni ana kronoloji iki dönemi birleştirir ve kaynak uyuşmazlıklarını ayrıca kaydeder. Bu eski dosya, önceki araştırma notlarını ve ayrıntıları korumak amacıyla silinmeden muhafaza edilmektedir.
+
+---
+
 # Cem Sultan — Tarihsel Kronoloji ve Dönem Dosyası
 
 **Dosya türü:** Tarihsel referans / kanon öncesi araştırma belgesi  
