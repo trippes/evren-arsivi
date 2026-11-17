@@ -10,7 +10,7 @@
 Bu taslak, Cem Sultan'ın tarihsel yaşamını alternatif tarih anlatısına bağlayan Zaman Şövalyesi müdahalesinin ana hatlarını kaydeder.
 
 - Cem Sultan'ın gerçek tarihsel yaşamı ve dönemin siyasi gelişmeleri için temel başvuru: `03_TARIH/cem-sultan-tarihsel-kronoloji.md`.
-- Zaman Şövalyesi'nin daha önce kanona alınmış genel geçmişi: `04_KARAKTERLER/zaman_sovalyesi.md`.
+- Zaman Şövalyesi'nin daha önce kanona alınmış genel geçmişi: `04_KARAKTERLER/zaman-sovalyesi.md`.
 - Bu belgede yer alan 500.000 kişilik ordu, gizli askerî şehir ve zaman çizgisine müdahale planı gibi unsurlar **kurgu kararlarıdır**; tarihsel gerçek olarak değerlendirilmemelidir.
 - Tarihsel kronolojideki olaylar, bu taslaktaki kurgu kararlarına uyacak şekilde sessizce değiştirilmemelidir. Gerekli ayrışmalar ayrıca işaretlenmelidir.
 
