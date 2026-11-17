@@ -23,10 +23,12 @@ Cem, 1481'de Yenişehir yenilgisinden sonra Memlük ülkesine sığınmış, hac
 
 ## Olayın gelişimi
 1. Cem, Anadolu'daki askerî girişiminin başarısızlığından sonra maiyetiyle Rodos'a yöneldi.
-2. TDV İslâm Ansiklopedisi ve Semavi Eyice 29 Temmuz 1482 tarihini verir. Türk Tarih Kurumu'nun yayımladığı anlatı ise 26 Temmuz 1482 tarihini kaydeder. Bu iki tarih arasındaki fark henüz çağdaş Rodos/Osmanlı belgeleriyle çözümlenmemiştir.
+2. Vâkıât-ı Sultan Cem'in anlatı metni varış gününü “Cemaziyelâhirin on üçüncü pazartesi günü” olarak verir. Şevket Rado'nun sadeleştirmesindeki harita açıklaması ise Rodos tarihini “18.VII.1482” olarak gösterir; harita tarihinin takvim stili açıklanmamıştır.
+3. TTK'nın yayımladığı anlatı 26 Temmuz 1482, TDV İslâm Ansiklopedisi ve Semavi Eyice ise 29 Temmuz 1482 tarihini verir.
+4. Bu verilerden tek bir kesin miladî gün çıkarmak için Vâkıât'ın hicrî tarihinin takvim dönüşümü ve harita notunun takvim stili incelenmelidir. Çağdaş Rodos/Osmanlı kayıtlarıyla doğrulama henüz yapılmamıştır.
 3. Büyük Üstat Pierre d'Aubusson tarafından törenle karşılandı.
-4. Cem'in Rumeli'ye geçme beklentisi gerçekleşmedi; şövalyeler onun denetimini sıkılaştırdı.
-5. II. Bayezid, Cem'in serbest bırakılmasını önlemek için şövalyeler ve Venedik'le diplomatik/mali temas kurdu.
+5. Cem'in Rumeli'ye geçme beklentisi gerçekleşmedi; şövalyeler onun denetimini sıkılaştırdı.
+6. II. Bayezid, Cem'in serbest bırakılmasını önlemek için şövalyeler ve Venedik'le diplomatik/mali temas kurdu.
 
 ## Sonuçlar
 - Cem'in hayatında uzun Avrupa gözetimi dönemi başladı.
@@ -38,10 +40,12 @@ Cem, 1481'de Yenişehir yenilgisinden sonra Memlük ülkesine sığınmış, hac
 |---|---|---|---|
 | Mahmut H. Şakiroğlu, “Cem Sultan”, TDV İA | Akademik ansiklopedi maddesi | 29 Temmuz 1482 varış, karşılama, Bayezid'in diplomatik tepkisi | Temel biyografik kaynak; TTK'daki 26 Temmuz tarihiyle uyuşmaz |
 | Halil İnalcık, 1979 | Akademik makale | 7 Aralık 1482 anlaşması ve yıllık 45.000 altın duka | Anlaşmanın mali şartlarını tartışmak için temel çalışma |
-| Semavi Eyice, 1973 | Akademik makale | 29 Temmuz varış ve Avrupa dönemi güzergâhı | TTK'daki 26 Temmuz tarihiyle uyuşmaz; kullanılan Batı kaynakları ayrıca izlenmeli |
+| Semavi Eyice, 1973 | Akademik makale | 29 Temmuz varış ve Avrupa dönemi güzergâhı | TTK'daki 26 Temmuz tarihi ve Vâkıât'ın hicrî gün kaydıyla karşılaştırılmalı |
+| *Vâkıât-ı Sultan Cem*, 920 H./1514; Şevket Rado sadeleştirmesi, 1969 | Yakın dönem Osmanlı anlatısı ve modern sadeleştirme | Hicrî gün kaydı, Rodos'a geliş ve ayrılış anlatısı | Takvim dönüşümü ve harita notunun takvim stili ayrıca denetlenmeli |
 | TTK, “Sultan Bayezid ve Cem Sultan Mücadelesi ile Neticesi” | Tarih araştırması | 26 Temmuz 1482 Rodos'a varış anlatısı | Tarih, TDV ve Eyice ile karşılaştırılmalı |
 
 ## Belirsizlikler ve açık sorular
+- [ ] Vâkıât'ın “Cemaziyelâhirin on üçüncü pazartesi günü” ifadesinin takvim karşılığı ve haritadaki 18.VII.1482 tarihinin takvim stili.
 - [ ] 26 Temmuz (TTK) ve 29 Temmuz (TDV, Eyice) tarihlerinden hangisinin varış günü olduğunu doğrulayan çağdaş Rodos/Osmanlı belgesi.
 - [ ] Cem ile şövalyeler arasında yapılan anlaşmanın tam metni ve şartları.
 - [ ] 40.000 altın ile 45.000 altın duka farkının para birimi ve anlaşma aktarımından kaynaklanıp kaynaklanmadığı.
