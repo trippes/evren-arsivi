@@ -1,103 +1,70 @@
 # Zaman Şövalyesi
 
 **Belge rolü:** `character-0001` esas kaydını açıklayan eşlik belgesi; bağımsız varlık kaydı değildir.  
-**Kanon kaydı:** `04_KARAKTERLER/ana-karakterler/character-0001.json`  
-**Kanon statüsü:** Bu belgede anlatılan ve esas JSON kaydında yer alan onaylı bilgiler kanondur. Bu belge ayrı bir kayıt kimliği taşımaz.  
+**Kanon kaydı:** [`04_KARAKTERLER/ana-karakterler/character-0001.json`](ana-karakterler/character-0001.json)  
+**Kanon statüsü:** Bu belgede özetlenen kanon hükümleri esas JSON kaydına tabidir. Bu belge ayrı bir kayıt kimliği taşımaz.  
 **Tür:** İnsan kökenli, biyolojik yaşlanması durdurulmuş zaman yolcusu  
-**Rol:** Bilim insanı, zaman yolcusu ve paralel zaman çizgileri gözlemcisi
+**Rol:** Bilim insanı, zaman yolcusu ve paralel zaman çizgileri üzerinde çalışan araştırmacı
 
 ## Genel Tanım
 
-Zaman Şövalyesi, kuantum fiziği ve zamanın temel mekanikleri üzerine yüzyıllar boyunca çalışmış çılgın bir bilim insanıdır. Kendisini bir **zaman şövalyesi** olarak tanıtır. Bu unvanın kökeni ve tam anlamı henüz kayıt altına alınmamıştır.
+Zaman Şövalyesi, asırlardır yaşayan; zaman makinesi ve kuantum mekaniği üzerinde olağanüstü bilimsel kapasiteye sahip çılgın bir bilim insanıdır. Kendisini Cem Sultan'a **Zaman Şövalyesi** olarak tanıtır. Bu unvanın kökeni ve gerçek adı henüz belirlenmemiştir.
 
-Kendi öznel zamanına göre yüzyıllardır yaşamaktadır. Geçmiş ile gelecek arasında yaptığı yolculuklar sırasında zamanın tek ve değişmez bir çizgi olmadığını keşfetmiştir.
+İnsan kökenlidir. Kendi vücudu üzerinde gerçekleştirdiği DNA kodlaması sayesinde biyolojik yaşlanmasını durdurmuştur. Bu işlem doğaüstü ölümsüzlük değildir; biyolojik yaşlanmanın durdurulmasıdır.
 
-## Yaşlanmanın Durdurulması
+## Zaman Yolculuğu, Paralel Dallar ve Gerçeklik Bilgisi
 
-Zaman Şövalyesi, kendi vücudu üzerinde gerçekleştirdiği DNA kodlaması sayesinde biyolojik yaşlanmasını durdurmuştur.
+Zaman Şövalyesi farklı paralel evrenlerde farklı tarihsel dönemlere yolculuk eder ve bu gerçekliklerin tarihsel akışına müdahalelerde bulunur. Bu yolculuklar ve müdahaleler yeni paralel zaman dallarının oluşmasına yol açar. Her dal kendi tarihsel gelişimini sürdürür; bir dalda yapılan müdahale diğer dalların tarihini kendiliğinden değiştirmez.
 
-Bu işlem onu doğaüstü anlamda ölümsüz yapmaz; ancak yaşlanmanın ilerlemesini engeller. Böylece uzun süreli bilimsel çalışmalarını ve zaman yolculuklarını kendi yaşam süresiyle sınırlı olmadan sürdürebilmiştir.
+Farklı gerçeklikleri bizzat deneyimlemesi ve tarihsel dönemlere müdahale etmesi, ona diğer insanlardan çok daha geniş bir gerçeklik bilgisi kazandırır. Bu bilgi ile zaman hâkimiyeti birbirinin alternatifi değildir. Zaman yolculuğu yapabilmesi ve zaman çizgilerine müdahale edebilmesi, mutlak zaman hâkimiyetinin göstergesidir. Dolayısıyla geniş gerçeklik bilgisi, bu hâkimiyetin farklı zaman dallarında edinilmiş deneyim ve gözlem boyutudur.
 
-## Zaman Yolculuğu ve Paralel Dallar
+## Aynı Daldaki İkinci Versiyonun Önlenmesi
 
-Zaman Şövalyesi'nin geçmişe veya geleceğe yaptığı yolculuklar, mevcut zaman çizgisini basitçe değiştirmez. Her önemli müdahale veya yolculuk, yeni bir **paralel zaman dalının** oluşmasına yol açar.
+Zaman Şövalyesi, müdahale ettiği yeni bir zaman dalında kendi gelecekteki versiyonunun doğmasını önlemeye çalışır. Bunun için o dalda kendi soy zincirinden bir atasını bulup öldürür.
 
-Bu nedenle yaptığı her yolculuk, gerçekliğin yeni bir versiyonunun ortaya çıkması anlamına gelir. Yüzyıllar boyunca gerçekleştirdiği sayısız yolculuk sonucunda çok sayıda paralel evren ve zaman dalı oluşmuştur.
+Öldürülen kişi, Zaman Şövalyesi'nin geldiği ana zaman çizgisindeki atası değildir; yalnızca müdahale edilen paralel dalın soy zincirindeki karşılığıdır. Bu nedenle söz konusu müdahale, ana zaman çizgisindeki Zaman Şövalyesi'nin varlığını geriye dönük olarak ortadan kaldırmaz.
 
-Bu dalların her biri kendi tarihsel gelişimine devam eder.
-
-## Kendi Versiyonları Sorunu
-
-Zaman Şövalyesi'nin karşılaştığı en büyük sorunlardan biri, oluşturduğu her yeni zaman dalında kendi soyunun da var olmaya devam etmesidir.
-
-Bir dal doğal biçimde gelişmeye bırakılırsa, o evrenin tarihsel akışı içinde Zaman Şövalyesi'nin başka bir versiyonu ortaya çıkabilir. Böylece aynı geniş gerçeklik ağında birbirinden farklı kararlar vermiş birden fazla Zaman Şövalyesi oluşma ihtimali doğar.
-
-Zaman Şövalyesi bu durumu kontrol edilemez bir tehdit olarak görür.
-
-Bu nedenle yeni bir zaman dalına girdiğinde, kendi kişisel varlığını silmeden o dalda gelecekte kendi versiyonunun doğmasını engellemeye çalışır. Bunun yöntemi, bulunduğu yüzyılda yaşayan kendi soy zincirindeki bir atasını bulup öldürmektir.
-
-Öldürülen kişi, Zaman Şövalyesi'nin geldiği ana zaman çizgisindeki atası değildir. Yeni oluşmuş paralel dalda yaşayan soy versiyonudur. Bu nedenle yapılan müdahale Zaman Şövalyesi'nin mevcut varlığını geriye dönük olarak ortadan kaldırmaz.
-
-Bu uygulama onun yazılı olmayan temel ilkelerinden birine dönüşmüştür:
+Bu uygulamanın temel ilkesi şöyledir:
 
 > Bir zaman dalında ikinci bir Zaman Şövalyesi doğmamalıdır.
 
 ## Zamandan Bağımsız Merkez
 
-Zaman çizgilerinin sayısı arttıkça Zaman Şövalyesi bunları normal uzay-zaman içinden yönetmenin imkânsız olduğunu fark etmiştir.
+Zaman Şövalyesi, kuantum evreninin ötesinde, bilinen zaman akışından bağımsız bir merkez inşa etmiştir. Bu merkez herhangi bir paralel evrenin geçmişine veya geleceğine bağlı değildir. Zaman Şövalyesi farklı dallara yaptığı yolculuklar arasında bu merkeze dönebilir.
 
-Bu nedenle kuantum evreninin ötesine geçerek, bilinen zaman akışından bağımsız bir mekân inşa etmiştir. Bu merkez, herhangi bir paralel evrenin geçmişine veya geleceğine bağlı değildir.
-
-Zaman Şövalyesi bir zaman dalından merkezine dönebilir, burada gözlem ve hesaplama yapabilir ve ardından başka bir dalın başka bir tarihsel noktasına yolculuk edebilir.
+Merkezin nasıl inşa edildiği, fiziksel/ontolojik niteliği ve erişim mekanizması henüz teknik olarak açıklanmamıştır.
 
 ## Kuantum Bilgisayarı ve Dal Sistemi
 
-Merkezin kalbinde, paralel zaman çizgilerini görsel olarak izlemek için kurulmuş gelişmiş bir kuantum bilgisayarı bulunur.
+Merkezin kalbinde paralel zaman dallarını görsel olarak izleyen dev bir kuantum bilgisayarı bulunur. Bilgisayar, dalları ağ veya dallanan yapı biçiminde gösterir. Zaman Şövalyesi bu sistem aracılığıyla:
 
-Bilgisayar, oluşmuş zaman dallarını bir ağ veya dallanan yapı hâlinde gösterir. Zaman Şövalyesi ekrandan:
-
-- kayıt altındaki zaman dalı sayısını,
-- dalların birbirleriyle olan bağlantılarını,
+- oluşmuş zaman dallarının sayısını,
+- dallar arasındaki bağlantıları,
 - yeni dallanmaları,
-- izlediği belirli gerçeklikleri
+- seçili gerçeklikleri
 
-gözlemleyebilir.
+takip edebilir.
 
-Her zaman dalına benzersiz bir kod atayabilir. Bu kod sistemi, çok sayıdaki paralel gerçekliği birbirinden ayırmasını ve her birini ayrı ayrı takip etmesini sağlar.
+Her zaman dalına benzersiz bir kod atanabilir. Kodların kesin teknik biçimi henüz belirlenmemiştir. Bilgisayarın gözlem, erişim ve işlem sınırları da açık konudur; sistemin bütün gerçekliklerdeki her olayı veya her bireyin kararını mutlak biçimde kontrol ettiği varsayılmamalıdır.
 
-Kodların kesin teknik biçimi henüz belirlenmemiştir.
+## Cem Sultan ile Karşılaşması
 
-## Cem ile Karşılaşması
+Zaman Şövalyesi, Cem Sultan'ı başlangıçta yalnızca tarihsel bir kişilik olarak tanır. Gelecekten Cem'in yaşadığı döneme gelir. Cem ise Zaman Şövalyesi ile hayatında ilk kez karşılaşacaktır; aralarında önceden kurulmuş bir tanışıklık veya kişisel ilişki yoktur.
 
-Zaman Şövalyesi, Cem'i başlangıçta yalnızca tarihsel bir kişilik olarak bilmektedir. Cem'in yaşadığı döneme gelecekten gelir.
+Cem'in yaşadığı zaman dalına geldiğinde, kendi soy zincirindeki ata müdahalesini gerçekleştirir; ardından Cem Sultan'ın karşısına çıkar ve kendisini **Zaman Şövalyesi** olarak tanıtır.
 
-Ancak Cem'in karşısına çıkar çıkmaz kendisini göstermez.
+İlk karşılaşmanın kesin tarihi, yeri ve sahne ayrıntıları henüz belirlenmemiştir.
 
-Bu zaman dalına ulaştığında ilk işi, o dönemde yaşayan kendi soy zincirindeki kişiyi bulmak ve öldürerek bu dalda gelecekte kendi versiyonunun ortaya çıkmasını engellemektir.
+## Açık Konular
 
-Bu işi tamamladıktan sonra Cem'in karşısına çıkar.
+Aşağıdaki ayrıntılar kanon kaydında henüz kesinleştirilmemiştir:
 
-Cem için bu karşılaşma hayatında ilk kez gerçekleşmektedir. Zaman Şövalyesi ise Cem'i tarihsel bilgi ve kendi araştırmaları sayesinde önceden tanımaktadır.
+- Zaman Şövalyesi'nin gerçek adı, doğum tarihi ve unvanının kökeni.
+- Zaman makinesinin çalışma ilkeleri ve teknik sınırları.
+- Zamandan bağımsız merkezin inşa yöntemi ve fiziksel/ontolojik niteliği.
+- Kuantum bilgisayarının gözlem ve işlem sınırları.
+- Zaman yolculuklarının öznel yaşantı süresine nasıl etki ettiği.
+- Cem Sultan'ın zaman çizgisinin Zaman Şövalyesi açısından özel öneminin daha derin nedeni.
+- Cem'le ilk karşılaşmanın kesin tarihi, yeri ve ayrıntıları.
 
-Zaman Şövalyesi, Cem'e kendisini şu kimlikle tanıtacaktır:
-
-> Ben bir zaman şövalyesiyim.
-
-## Karakterin Temel Çelişkisi
-
-Zaman Şövalyesi zamanı anlamaya ve kontrol etmeye çalışırken, her yolculuğuyla gerçekliği daha da karmaşık hâle getirmektedir.
-
-Kuantum bilgisayarı ona zaman dallarını görme ve sınıflandırma gücü verir; ancak bu sistem, paralel evrenlerde yaşayan insanların bütün kararlarını ve sonuçlarını mutlak biçimde kontrol ettiği anlamına gelmez.
-
-Dolayısıyla Zaman Şövalyesi'nin en büyük gücü zaman üzerinde mutlak hâkimiyet değil, diğer insanlardan çok daha geniş bir gerçeklik bilgisidir.
-
-## Bilinmeyenler ve Gelecekteki Kayıtlar
-
-Aşağıdaki konular henüz kesinleştirilmemiştir:
-
-- Zaman Şövalyesi'nin gerçek adı.
-- “Zaman şövalyesi” unvanının kökeni.
-- Zaman makinesinin çalışma biçimi.
-- Zamandan bağımsız merkezin nasıl inşa edildiği.
-- Kuantum bilgisayarının zaman dallarını hangi sınırlar içinde gözlemleyebildiği.
-- Cem'in zaman çizgisinde Zaman Şövalyesi'nin ilgisini çeken asıl neden.
+Bu konularda yeni karar alınmadıkça belirsizlik korunacaktır.
