@@ -167,19 +167,28 @@ Bu sığınma, yalnızca kişisel güvenlik arayışı değildi. Cem, Osmanlı t
 
 Cem, Anadolu'ya döndükten sonra Karamanoğlu Kasım Bey ile anlaştı. Cem'in amacı Osmanlı tahtını ele geçirmek, Kasım Bey'in amacı ise Karaman hanedanının bölgedeki eski nüfuzunu yeniden kurmaktı. Bu nedenle ittifak ortak düşmana karşı kurulmuş olsa da tarafların uzun vadeli hedefleri özdeş değildi.
 
-Cem ve Kasım Bey Konya'yı ele geçirmeye çalıştı; fakat başarılı olamadılar. Türk Tarih Kurumu'nun yayımladığı anlatı 6 Haziran 1482'de Konya kuşatmasını zikreder. Bu gün, bağımsız birincil belgeyle doğrulanana kadar “TTK çalışmasında verilen tarih” olarak kullanılmalıdır.
+Cem ve Kasım Bey Konya'yı ele geçirmeye çalıştı; fakat başarılı olamadılar. TTK'nın yayımladığı anlatı 6 Haziran 1482 tarihini verir. Vâkıât-ı Sultan Cem'in 1514 tarihli anlatısı ise olayları hicrî ay ve günlerle aktarır: Kasım Bey ile buluşma, Konya kuşatması, Ankara yönündeki harekât, Aksaray teşebbüsü ve Taşeli'ne çekilme sırasını ayrıntılandırır. Bu anlatı, Cem'in maiyetinden birine dayandığı için değerlidir; ancak hicrî tarihlerin miladî karşılıkları ayrıca denetlenmelidir.
 
-Anadolu'daki askerî ve siyasî desteği dağılan Cem'in bölgede tutunma imkânı kalmadı. Yaklaşık otuz kişilik maiyetiyle Rodos'a yöneldi.
+Vâkıât'a göre Cem'in Rumeli'ye geçme arzusunu Kasım Bey teşvik etmiş; Frenk Süleyman Bey Rodos şövalyeleriyle temas kurarak gemi ve güvence sağlamıştır. Cem, Kerküs/Korykos ve Anamur kıyıları üzerinden şövalyelerin gemisine geçmiştir. Anadolu'daki askerî ve siyasî desteği dağılan Cem'in bölgede tutunma imkânı kalmadı. Yaklaşık otuz kişilik maiyetiyle Rodos'a yöneldi.
 
 ---
 
 ## 12. 26 / 29 Temmuz 1482: Rodos'a varış
 
-Cem'in Rodos'a varış günü kaynaklarda uyuşmazlık gösterir. TDV İslâm Ansiklopedisi ve Semavi Eyice 29 Temmuz 1482 tarihini verirken, Türk Tarih Kurumu'nun yayımladığı anlatı 26 Temmuz 1482 tarihini kaydeder. İki tarih de kaynak gösterilerek korunmalıdır; çağdaş Rodos kayıtlarıyla kesinleştirme henüz yapılmamıştır. Rodos şövalyelerinin büyük üstadı Pierre d'Aubusson tarafından törenle karşılandı.
+Cem'in Rodos'a varış günü kaynaklarda uyuşmazlık gösterir. TDV İslâm Ansiklopedisi ve Semavi Eyice 29 Temmuz 1482 tarihini verirken, TTK'nın yayımladığı anlatı 26 Temmuz 1482 tarihini kaydeder. Vâkıât-ı Sultan Cem'in sadeleştirilmiş metninde “Cemaziyelâhirin on üçüncü pazartesi günü” ifadesi, aynı yayının harita açıklamasında ise “18.VII.1482” tarihi yer alır. Harita tarihinin takvim stili açık değildir. Bu kayıtlar doğrudan tek bir miladî güne indirgenmemeli; hicrî tarih, haftanın günü, harita notu ve modern araştırmacıların verdiği tarihler ayrı ayrı korunmalıdır. Çağdaş Rodos kayıtlarıyla kesinleştirme henüz yapılmamıştır. Rodos şövalyelerinin büyük üstadı Pierre d'Aubusson tarafından törenle karşılandı.
 
 Cem, şövalyelerin yardımıyla Rumeli'ye geçip taht mücadelesini sürdürmeyi umuyordu. Şövalyeler ise onu Osmanlı Devleti karşısında diplomatik pazarlık unsuru olarak elde tutmayı hesaplıyordu. Böylece Cem'in meselesi, Osmanlı hanedan içi mücadelesinden Avrupa ve Akdeniz diplomasisinin parçasına dönüştü.
 
 II. Bayezid, Cem'in serbest bırakılmasını veya Rumeli'ye geçirilmesini önlemek için Rodos şövalyeleri ve Venedik'le diplomatik temas kurdu.
+
+### Rodos'a varış ve ayrılış tarihleri: kaynak farkı
+
+- Vâkıât'ın anlatı metni Rodos'a varış için “Cemaziyelâhirin on üçüncü pazartesi günü” ifadesini verir.
+- Aynı eserin 1969 sadeleştirmesinde yayımlanan harita açıklaması Rodos tarihini “18.VII.1482” olarak gösterir; takvim stili açıklanmadığından bu tarih otomatik olarak Gregoryen tarih kabul edilmemelidir.
+- TTK 26 Temmuz, TDV ve Eyice 29 Temmuz 1482 tarihini verir.
+- Vâkıât, Rodos'tan ayrılışı “Recebin on yedinci pazarı” olarak kaydeder. Eyice'nin 1 Eylül 1482 tarihiyle bu hicrî gün ayrıca karşılaştırılmalıdır.
+
+Ayrıntılı kaynak tenkidi: [Vâkıât-ı Sultan Cem kaynak değerlendirmesi](vakiat-i-sultan-cem-kaynak-degerlendirmesi.md).
 
 ### Rodos anlaşmasının para miktarı: önemli kaynak farkı
 
@@ -336,7 +345,7 @@ Eserlerin yazılış tarihi, nüsha ilişkileri ve aidiyetleri ayrı edebiyat ar
 | 22 Haziran 1481 | Yenişehir yenilgisi | Yaygın tarih; ayrıntı kaynak denetimine açık |
 | 1481–1482 | Memlük ülkesine sığınma ve hac | TDV |
 | 1482 | Kasım Bey ile ittifak ve Konya teşebbüsü | TDV / TTK |
-| 26 / 29 Temmuz 1482 | Rodos'a varış | TTK 26 Temmuz; TDV ve Eyice 29 Temmuz; birincil belge denetimi gerekli |
+| 26 / 29 Temmuz 1482; Vâkıât'ta 13 Cemaziyelahir ve harita notunda 18.VII.1482 | Rodos'a varış | Tarih ve takvim stili uyuşmaz; birincil anlatı ve modern kaynaklar ayrı tutulur |
 | 7 Aralık 1482 | Rodos şövalyeleriyle mali anlaşma | İnalcık; yıllık 45.000 altın duka aktarımı |
 | 15 Ekim 1482 | Villefranche'ye götürülüş | TDV; Rodos'tan ayrılış tarihi ayrı |
 | 5 Şubat 1483 | Chambery'ye götürülüş | TDV |
@@ -358,7 +367,7 @@ Eserlerin yazılış tarihi, nüsha ilişkileri ve aidiyetleri ayrı edebiyat ar
 |---|---|---|---|
 | Doğum tarihi | TDV 23 Aralık; TEİS/TEES farklı günler | Uyuşmazlık açık tutulur | Hicrî tarih ve takvim dönüşümü, yazma/nüsha kaynakları |
 | 1482 Rodos ödemesi | TDV 40.000 altın; İnalcık 45.000 altın duka | Ayrı anlaşma ve para birimi ihtimali korunur | 7 Aralık 1482 anlaşma metni ve diplomatik kopyalar |
-| Rodos'tan ayrılış / Savoie'ye varış | Eyice 1 Eylül; TDV 15 Ekim Villefranche | Farklı seyahat aşamaları olabilir | Batı kaynakları ve liman kayıtları |
+| Rodos'a varış / Rodos'tan ayrılış / Savoie'ye varış | Vâkıât'ta hicrî günler; harita notunda 18.VII.1482; TTK 26 Temmuz; TDV ve Eyice 29 Temmuz varış; Eyice 1 Eylül ayrılış; TDV 15 Ekim Villefranche | Takvim stili ve seyahat aşamaları ayrılmalı | Vâkıât'ın 1330 neşri ve nüshaları; Batı liman kayıtları; takvim dönüşümü |
 | Cem'in tutulduğu kaleler | Yer ve sıra farklı anlatılabiliyor | Kesin günler yazılmaz | Eyice ve Batı arşiv belgelerinin tek tek karşılaştırılması |
 | Roma'ya geliş | TDV 4 Mart; TTK 13 Mart; 4 Mart tarihli tahminî Osmanlı raporu | Mart 1489, gün uyuşmazlığı | Papalık kayıtları, Venedik raporları, Osmanlı belgesinin tarih notu |
 | Papalık ödemesi | TDV 120.000 altın / üç yıl; diğer düzenlemeler farklı miktar içeriyor | Rodos ve Papalık anlaşmaları ayrılır | İnalcık makalesindeki belge metni ve para birimi |
