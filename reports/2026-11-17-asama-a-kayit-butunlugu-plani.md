@@ -93,6 +93,7 @@ Mevcut iki dosyadaki her iddia, aşağıdaki sınıflardan birine ayrılacaktır
 ## 5. Uygulama alt aşamaları
 
 ### A1 — Kayıt mimarisi ve içerik envanteri
+- **Durum:** Tamamlandı; rapor: `reports/2026-11-17-asama-a1-zaman-sovalyesi-uzlastirma.md`
 - Tek esas kayıt ilkesini kesinleştirecek teknik tasarım.
 - Zaman Şövalyesi JSON/Markdown iddialarının madde madde karşılaştırılması.
 - Kullanıcı onayı gerektiren içeriklerin ayrı listelenmesi.
@@ -101,6 +102,7 @@ Mevcut iki dosyadaki her iddia, aşağıdaki sınıflardan birine ayrılacaktır
 **Çıkış koşulu:** Her ayrıntının kaynağı ve önerilen işlemi görünür; hiçbir yeni kanon kararı verilmemiş olmalı.
 
 ### A2 — Zaman Şövalyesi kaydının birleştirilmesi
+- **Durum:** Tamamlandı; rapor: `reports/2026-11-17-asama-a2-zaman-sovalyesi-birlestirme.md`
 - Kullanıcı tarafından onaylanan ayrıntıları `character-0001.json` kaydına işleme.
 - Markdown belgesini kararlaştırılan türe (türetilmiş açıklama veya taslak/araştırma) dönüştürme.
 - Dosya adı ve bağlantı güncellemelerini yapma.
@@ -109,6 +111,7 @@ Mevcut iki dosyadaki her iddia, aşağıdaki sınıflardan birine ayrılacaktır
 **Çıkış koşulu:** Aynı karakter için ikinci ve bağımsız kanon kimliği kalmamalı; içerik kaybı veya onaysız statü değişikliği olmamalı.
 
 ### A3 — Kanon indeksi ve karar günlüğü
+- **Durum:** Tamamlandı; rapor: `reports/2026-11-17-asama-a3-kanon-indeksi-karar-gunlugu.md`
 - Kanon indeksindeki her girdiyi dosya ve kayıt kimliğiyle karşılaştırma.
 - Doğrulanabilen kararları kaynaklarıyla günlüğe ekleme.
 - Bilinmeyen tarihleri tahmin etmeme.
@@ -117,6 +120,7 @@ Mevcut iki dosyadaki her iddia, aşağıdaki sınıflardan birine ayrılacaktır
 **Çıkış koşulu:** Kanon indeksi ile esas kayıtlar tutarlı; karar günlüğü yalnızca doğrulanmış kararları içeriyor olmalı.
 
 ### A4 — İlişki tutarlılığı ve kapanış
+- **Durum:** Tamamlandı; rapor: `reports/2026-11-17-asama-a4-iliski-tutarliligi-kapanis.md`
 - `relationships` ve `related_entities` kullanımlarının depo genelinde taranması.
 - Tek ilişki modeline geçiş için geriye dönük uyumluluk değerlendirmesi.
 - Kimlik, indeks ve ilişki tutarlılığı denetimi.
@@ -139,6 +143,6 @@ Bu planın eklenmesi dışında mevcut kanon ve taslak dosyalarında değişikli
 
 ---
 
-**Durum:** Aşama A planı — incelemeye hazır.  
-**Kanon etkisi:** Yok.  
-**Sonraki izinli iş:** A1 içerik envanteri ve uzlaştırma tablosu.
+**Durum:** Aşama A — Kayıt Bütünlüğü tamamlandı (A1–A4).  
+**Kanon etkisi:** Yalnızca proje sahibinin açıkça onayladığı kararlar işlendi; teknik planın kendisi kanon kararı değildir.  
+**Kapanış raporu:** `reports/2026-11-17-asama-a4-iliski-tutarliligi-kapanis.md`.
