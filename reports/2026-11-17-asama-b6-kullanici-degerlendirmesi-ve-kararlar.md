@@ -52,6 +52,20 @@ Kullanıcı, 1451–1550 arasındaki dönemin sonraki kuşakların hafızasında
 
 Bu dört unsur, sonraki kuşakların dönemi “Asr-ı Saadet” olarak anmasının temel tarihsel gerekçeleri olacaktır. “Tüm dünyanın kabulü” ifadesi, her toplumun veya hükümdarın Osmanlı'ya gönüllü bağlılığı şeklinde otomatik olarak yorumlanmamalıdır; siyasi üstünlüğün tanınması, diplomatik kabullenme, güç dengesi ve farklı bölgelerin Osmanlı ile ilişkileri hikâye içinde somutlaştırılmalıdır.
 
+
+
+### B6-K04 — Ana anlatının Sultan Oğuz'un vefatına kadar sürmesi
+
+Kullanıcı, ana anlatının Şah Cem'in 1511'deki vefatıyla sona ermemesini; Sultan Oğuz'un 1550'deki vefatına kadar devam etmesini kabul etmiştir. Böylece 1451–1550 arasındaki üç hükümdarlı 99 yıllık dönem, aynı ana anlatının kapsamına girer. Sultan Oğuz'un 1511–1550 arasındaki 39 yıllık saltanatı yalnızca ek kronoloji veya kısa epilog olarak değil, ana anlatının devamı olarak ele alınacaktır.
+
+### B6-K05 — Sultan Oğuz'un tarihsel Oğuz Han Çelebi ile aynı kişi olması
+
+Kullanıcı, Sultan Oğuz'un tarihsel Oğuz Han Çelebi'nin kendisi, yani Şah Cem'in büyük oğlu olduğunu açıkça belirlemiştir.
+
+Gerçek tarihsel kayıtta Oğuz Han Çelebi'nin küçük yaşta öldüğü kabul edilen akıbetinden farklı olarak, alternatif tarih kurgusunda Oğuz hayatta kalır, uzun bir ömür sürer ve 1511–1550 yılları arasında hüküm sürer. Bu, tarihsel biyografinin iddiası değil, kurgu evreninin bilinçli tarihsel ayrışma noktasıdır.
+
+Bu kararla B5-06'da belirtilen kimlik belirsizliği giderilmiştir. Oğuz'un alternatif çizgide nasıl hayatta kaldığına ilişkin olay örgüsü ve tarihsel ayrışmanın somut mekanizması henüz ayrıca tasarlanmamıştır.
+
 ## 3. B5 bulgularına etkisi
 
 ### B5-01 — Sultan Oğuz'un saltanatı ve anlatı kapsamı
@@ -62,14 +76,12 @@ Bununla birlikte ana anlatının Cem'in 1511'deki vefatıyla mı sona ereceği, 
 
 ### B5-06 — Sultan Oğuz ile tarihsel Oğuz Han Çelebi arasındaki ilişki
 
-Oğuz'un alternatif çizgide 1511'de tahta çıkacağı ve 1550'de vefat edeceği belirlenmiştir. Ancak tarihsel Oğuz Han Çelebi ile alternatif Sultan Oğuz arasındaki kimlik, soy bağı ve tarihsel ayrışma noktası henüz çözülmemiştir. Bu tercih, söz konusu tarihsel sorunu kendiliğinden çözmüş sayılmaz.
+**Çözüldü (B6-K05):** Sultan Oğuz, tarihsel Oğuz Han Çelebi'nin kendisidir ve Şah Cem'in büyük oğludur. Alternatif tarih çizgisinde küçük yaşta ölmez; hayatta kalır, uzun yaşar ve 1511–1550 arasında hüküm sürer. Hayatta kalmasını sağlayan olay ve tarihsel ayrışmanın somut mekanizması hikâye tasarımına bırakılmıştır.
 
 ## 4. Açık kalan konular
 
 - Sultan Oğuz'un doğum yılı ve 1511'deki kesin yaşı.
-- Tarihsel Oğuz Han Çelebi'nin akıbeti ile alternatif Sultan Oğuz'un ortaya çıkışını sağlayan ayrışma noktası.
 - Cem'in 1481'de tahta çıkışının alternatif tarih içindeki somut siyasi koşulları.
-- Ana anlatının Oğuz'un 39 yıllık saltanatını hangi kapsam ve anlatım biçimiyle işleyeceği.
 - “Asr-ı Saadet” adlandırmasının sonraki kuşaklarda hangi tarihçiler, çevreler veya toplumsal hafıza aracılığıyla yaygınlaştığı.
 - Toplumsal barış, ekonomik refah, ilmî ilerleme ve Osmanlı'nın küresel siyasi üstünlüğünün kabulünün hangi somut kurumlar, gelişmeler ve olaylarla gösterileceği.
 
@@ -84,7 +96,7 @@ Bu B6 kaydı hazırlanırken aşağıdaki dosyalarda değişiklik yapılmamışt
 - `01_EVREN/temel-anlati-onermesi.json`
 - `04_KARAKTERLER/ana-karakterler/sah-cem-taslak.md`
 
-B6-K01, B6-K02 ve B6-K03 bu raporda kullanıcı tarafından kabul edilmiş ileriye dönük kurgu tercihleri olarak kayıtlıdır; henüz kanon statüsünde değildir.
+B6-K01–B6-K05 bu raporda kullanıcı tarafından kabul edilmiş ileriye dönük kurgu tercihleri olarak kayıtlıdır; henüz kanon statüsünde değildir.
 
 ---
 
