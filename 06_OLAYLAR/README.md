@@ -10,6 +10,7 @@ Yeni tarihsel olay kayıtlarında `templates/historical-event.template.md` şabl
 
 Cem Sultan araştırmasının ilk olay kayıtları:
 - [1481 Osmanlı Taht Krizi](1481-osmanli-taht-krizi.md)
+- [Osmanlı–Memlük–Rodos Diplomasisi (1481–1491)](1481-1491-osmanli-memluk-rodos-diplomasisi.md)
 - [Cem Sultan'ın Anadolu'ya Dönüşü ve İkinci Taht Teşebbüsü (1482)](1482-cem-sultan-anadoluya-donus-ve-ikinci-tesebbus.md)
 - [Cem Sultan'ın Rodos'a Varışı (1482)](1482-cem-sultan-rodos-a-varis.md)
 - [Oğuz Han Çelebi Hakkındaki Boğdurma Emri (1482–1483)](1482-1483-oguz-han-celebi-hakkinda-ferman.md)
