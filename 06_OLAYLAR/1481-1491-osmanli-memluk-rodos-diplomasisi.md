@@ -7,7 +7,7 @@
 - **Tarih kesinliği:** süreç tarihleri kaynaklara göre yüksek / bazı alt tarihler tartışmalı
 - **Yer:** Kahire, Hicaz, Anadolu'nun güneyi, Rodos, Doğu Akdeniz ve Roma
 - **Aktörler:** II. Bayezid; Cem Sultan; Memlük Sultanı Kayıtbay; Karamanoğlu Kasım Bey; Pierre d'Aubusson; Aziz Yuhanna Şövalyeleri; Memlük emirleri ve Halep valiliği
-- **İlgili kayıtlar:** person-ottoman-bayezid-ii; person-karamanid-kasim-bey; person-pierre-daubusson; person-mamluk-qaytbay; event-1482-cem-sultan-second-anatolian-attempt; event-1482-cem-sultan-arrival-rhodes
+- **İlgili kayıtlar:** person-ottoman-bayezid-ii; person-karamanid-kasim-bey; person-pierre-daubusson; person-mamluk-qaytbay; event-1482-cem-anatolia-campaign; event-1482-cem-rhodes
 - **Son güncelleme:** 2026-11-17
 
 ## Kısa özet
