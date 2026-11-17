@@ -16,7 +16,7 @@ Semavi Eyice, eserin Haydar Bey tarafından yazıldığının sanıldığını v
 - **Basılı neşir:** *Vâkıât-ı Sultân Cem*, [giriş] Mehmed Ârif, Dersaâdet/İstanbul, 1330 (1914), Târîh-i Osmânî Encümeni Mecmûası ilavesi.
 - **Katalog:** Türk Tarih Kurumu Kütüphanesi, yer numarası A.II/1338.
 - **Nüsha notu:** İlk neşrin, Said Paşa kütüphanesinde bulunan nüshadan istinsah edildiği belirtilir; Viyana'da başka bir yazmanın bulunduğu da kaydedilmiştir.
-- **Modern aktarım:** Şevket Rado'nun sadeleştirerek yayımladığı “Vakı'at-ı Sultan Cem” başlıklı metin, *Hayat Tarih Mecmuası* 1969, cilt 1, sayı 5, s. 2–8 olarak İSAM makale arşivinde dijital metin biçiminde erişilebilmektedir. Bu sadeleştirme, Osmanlıca metnin yerine geçmez; kontrol ve okuma kolaylığı sağlayan ikincil aktarım olarak kullanılmalıdır.
+- **Modern aktarım:** Şevket Rado'nun sadeleştirerek yayımladığı “Vakı'at-ı Sultan Cem: 2 / Sultan Cem'in Başına Gelenler” başlıklı metin, *Hayat Tarih Mecmuası*, sayı 2, Mart 1969'da yayımlanmıştır. İSAM makale arşivinde dijital metin biçiminde erişilebilmektedir. Bu sadeleştirme, Osmanlıca metnin yerine geçmez; kontrol ve okuma kolaylığı sağlayan ikincil aktarım olarak kullanılmalıdır.
 
 ## 3. Kaynağın değeri
 
@@ -89,7 +89,7 @@ Vâkıât'ın Avrupa sürgünü anlatısı, Oğuz Han Çelebi hakkındaki 1482�
 3. Türk Tarih Kurumu Kütüphanesi katalog kaydı, *Vâkıât-ı Sultân Cem*, A.II/1338.  
    https://kutuphane.ttk.gov.tr/details?id=483390&materialType=NE&query=Sultan+Cem%2C+1459-1495.
 
-4. Şevket Rado, sadeleştiren, “Vakı'at-ı Sultan Cem”, *Hayat Tarih Mecmuası*, 1969, cilt 1, sayı 5, s. 2–8.  
+4. Şevket Rado, sadeleştiren, “Vakı'at-ı Sultan Cem: 2 / Sultan Cem'in Başına Gelenler”, *Hayat Tarih Mecmuası*, sayı 2, Mart 1969.  
    https://makale.isam.org.tr/server/api/core/bitstreams/47e17fbd-e8b5-4af8-98e9-980c85e62aae/content
 
 5. İ. H. Uzunçarşılı, “Değerli Vezir Gedik Ahmed Paşa II. Bayezid Tarafından Niçin Katledildi?”, *Belleten*, XXIX/115 (1965). Oğuz Han belgeleri için.  
