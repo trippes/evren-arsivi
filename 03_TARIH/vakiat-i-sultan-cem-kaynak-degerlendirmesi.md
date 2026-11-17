@@ -32,7 +32,28 @@ Bu değerlendirme, eseri özellikle şu başlıklarda birinci derecede başvuru 
 
 Bununla birlikte eser olaylardan yaklaşık on dokuz yıl sonra yazılmıştır. Müellifin kimliği kesin değildir; anlatı bir maiyet mensubunun bakış açısını taşır. Bu nedenle diplomatik aktörlerin niyetleri, özel konuşmalar ve ölüm sebebi gibi konularda bağımsız kaynaklarla karşılaştırılmalıdır.
 
-## 4. Vâkıât ve Gurbetnâme ayrımı
+
+## 4.1. 1482 Anadolu dönüşü ve Rodos yolculuğu: metnin verdiği ayrıntılar
+
+Şevket Rado'nun 1969 tarihli sadeleştirmesinin ilk bölümünde Vâkıât, Cem'in 1482 seferinin safahatını ayrıntılı biçimde aktarır:
+
+- Cem'in Adana'da Karamanoğlu Kasım Bey ile buluşması ve ittifakın yenilenmesi;
+- Konya kuşatması ve Ankara yönündeki harekât;
+- Aksaray teşebbüsü ve Taşeli'ne çekilme;
+- Kasım Bey'in Rumeli'ye geçme önerisi;
+- Frenk Süleyman Bey'in Rodos'tan gemi ve güvence getirmesi;
+- Kerküs/Korykos ve Anamur üzerinden Rodos gemisine geçiş;
+- Rodos'a varış, Pierre d'Aubusson'un karşılama ve ağırlaması;
+- Cem'in Rodos'tan ayrılışı ve Fransa/Puglia yönündeki deniz güzergâhı;
+- Villefranche ve Nice'e varış; veba sebebiyle daha sonra başka bir yere nakil.
+
+Metinde Rodos'a varış için “Cemaziyelâhirin on üçüncü pazartesi günü” ifadesi yer alır. Aynı sadeleştirmenin harita açıklamasında Rodos tarihi “18.VII.1482” olarak gösterilmiştir. Bu tarihlerin hangi takvim stiliyle verildiği açıklığa kavuşturulmadan modern miladî tarihle bire bir eşitlenmemelidir. TTK anlatısı 26 Temmuz, TDV ve Eyice ise 29 Temmuz 1482 tarihini verir. Dolayısıyla varış günü uyuşmazlığı artık yalnızca iki modern kaynak arasındaki fark değildir; Vâkıât'ın hicrî gün kaydı ve 1969 sadeleştirmesinin harita notu da ayrı ayrı incelenmelidir.
+
+Vâkıât, Rodos'tan ayrılış için de “Recebin on yedinci pazarı” ifadesini kullanır. Bu bilgi, Eyice'nin 1 Eylül 1482 olarak verdiği Rodos'tan ayrılış tarihiyle karşılaştırılmalıdır. Cem'in Rodos'tan ayrılış tarihi ile Rodos'a ilk varış tarihi birbirine karıştırılmamalıdır.
+
+**Yöntem kararı:** Ham metindeki hicrî tarih ve haftanın günü aynen kaydedilecek; sadeleştirme editörünün miladî karşılığı ayrıca aktarılacak; TDV, Eyice ve TTK'nın verdiği tarihler kaynak bazında korunacaktır. Takvim dönüşümü ve tarih stili kontrol edilmeden tek bir “kesin gün” ilan edilmeyecektir.
+
+## 5. Vâkıât ve Gurbetnâme ayrımı
 
 Vâkıât-ı Sultan Cem, Kanûnî Sultan Süleyman döneminde kaleme alınan *Gurbetnâme-i Sultan Cem* ile karıştırılmamalıdır. Semavi Eyice ve Halil İnalcık, Gurbetnâme'nin Vâkıât'tan farklı bir metin olduğunu; Vâkıât anlatısını kullandığını, fakat özellikle Cem'in ölümü ve Papa ile dinî tartışması gibi bölümlerde farklı/sonradan eklenmiş bir anlatı sunduğunu belirtir.
 
@@ -41,7 +62,7 @@ Bu sebeple:
 - Gurbetnâme'de bulunan Papa-Cem dinî münazarası, doğrudan çağdaş tutanak gibi kullanılmamalıdır.
 - Cem'in ölümüne ilişkin farklı anlatılar karşılaştırılırken hangi metnin kullanıldığı açıkça belirtilmelidir.
 
-## 5. Çapraz kontrol yöntemi
+## 6. Çapraz kontrol yöntemi
 
 Vâkıât'tan alınan bilgiler şu kaynak türleriyle karşılaştırılmalıdır:
 
@@ -53,11 +74,11 @@ Vâkıât'tan alınan bilgiler şu kaynak türleriyle karşılaştırılmalıdı
 
 Bir geç dönem kroniğinin Vâkıât'tan aldığı bilgiyi tekrar etmesi, iki bağımsız tanıklık varmış gibi sayılmamalıdır.
 
-## 6. Oğuz Han dosyasıyla ilişkisi
+## 7. Oğuz Han dosyasıyla ilişkisi
 
 Vâkıât'ın Avrupa sürgünü anlatısı, Oğuz Han Çelebi hakkındaki 1482–1483 arşiv belgelerinin yerine geçmez. Oğuz Han meselesinde temel kanıt, II. Bayezid'in İskender Paşa'ya gönderdiği emir ile İskender Paşa'nın cevabî arzının Uzunçarşılı tarafından yayımlanmış metinleridir. Vâkıât, bu belgelerle aynı türden doğrudan bir kanıt olarak kullanılmamalıdır.
 
-## 7. Kaynakça ve erişim
+## 8. Kaynakça ve erişim
 
 1. Halil İnalcık, “A Case Study in Renaissance Diplomacy: The Agreement between Innocent VIII and Bāyezīd II on Djem Sultan”, *Journal of Turkish Studies*, III (1979), s. 209–230.  
    https://isamveri.org/pdfsbv/D00825/1979_3/1979_3_INALCIKH.pdf
@@ -74,7 +95,7 @@ Vâkıât'ın Avrupa sürgünü anlatısı, Oğuz Han Çelebi hakkındaki 1482�
 5. İ. H. Uzunçarşılı, “Değerli Vezir Gedik Ahmed Paşa II. Bayezid Tarafından Niçin Katledildi?”, *Belleten*, XXIX/115 (1965). Oğuz Han belgeleri için.  
    https://belleten.gov.tr/tam-metin/3226/tur
 
-## 8. Açık araştırma görevleri
+## 9. Açık araştırma görevleri
 
 - [ ] 1330 tarihli Osmanlıca neşrin tam metni üzerinden 1482 Anadolu dönüşü ve Rodos'a yolculuk bölümlerini yeniden kontrol et.
 - [ ] Vâkıât'ın Viyana nüshası ile 1330 neşrinin metin farklarına dair katalog/araştırma bul.
@@ -82,6 +103,6 @@ Vâkıât'ın Avrupa sürgünü anlatısı, Oğuz Han Çelebi hakkındaki 1482�
 - [ ] Vâkıât'tan alınan bilgi ile Sadeddin'in tekrarladığı bilgiyi tek tanıklık olarak say.
 - [ ] Gurbetnâme'deki ek anlatıları ayrı bir kaynak dosyasında değerlendir.
 
-## 9. Kullanım kararı
+## 10. Kullanım kararı
 
 Vâkıât-ı Sultan Cem, Cem'in hayatının özellikle 1481–1495 dönemini yeniden kurarken ana Osmanlı anlatı kaynağı olarak kullanılacaktır. Bununla birlikte eser “olay anında tutulmuş günlük” değildir; 1514'te yazılmış, muhtemelen Cem'in maiyetinden bir kişinin hatıra/anlatı metnidir. Belgeyle doğrulanan bilgi, anlatıdaki yorum ve sonraki kroniklerin tekrarı ayrı ayrı işaretlenmelidir.
