@@ -48,13 +48,16 @@ Bir kaynakta yazması, özellikle konuşmalar, gizli emirler, zehirlenme ve öze
 6. İ. Hakkı Uzunçarşılı, “Cem Sultan'a Dair Beş Orijinal Vesika”, *Belleten*, XXIV/95 (1960), s. 457–483. Cem'e ilişkin arşiv belgeleri için.  
    https://dergipark.org.tr/tr/download/article-file/2995584
 
-7. Türk Tarih Kurumu, “Sultan Bayezid ve Cem Sultan Mücadelesi ile Neticesi”. 1481–1482 askerî ve siyasî mücadele için kullanılmalı; makaledeki arşiv belgesi aktarımları, mümkün olduğunda belge künyesiyle ayrıca kontrol edilmelidir.  
+7. İ. Hakkı Uzunçarşılı, “Değerli Vezir Gedik Ahmed Paşa II. Bayezid Tarafından Niçin Katledildi?”, *Belleten*, XXIX/115 (1965). Oğuz Han Çelebi hakkında II. Bayezid'in emri ve İskender Paşa'nın cevabî arzının neşri için.  
+   https://belleten.gov.tr/tam-metin/3226/tur
+
+8. Türk Tarih Kurumu, “Sultan Bayezid ve Cem Sultan Mücadelesi ile Neticesi”. 1481–1482 askerî ve siyasî mücadele için kullanılmalı; makaledeki arşiv belgesi aktarımları, mümkün olduğunda belge künyesiyle ayrıca kontrol edilmelidir.  
    https://ttk.gov.tr/sultan-bayezid-ve-cem-sultan-mucadelesi-ile-neticesi/
 
-8. T.C. Başbakanlık Devlet Arşivleri Genel Müdürlüğü, *Arşiv Belgelerine Göre Osmanlı'da İstihbarat*, İstanbul 2017. Cem'in Rodos, Savoie ve Roma'daki durumuna ilişkin Osmanlı istihbarat kayıtlarının yayımlandığı belge derlemesi. Özellikle “Cem Sultan'ın Roma'ya gelişi, karşılanışı ve ikameti hakkında alınan haberler” başlıklı belge önemlidir.  
+9. T.C. Başbakanlık Devlet Arşivleri Genel Müdürlüğü, *Arşiv Belgelerine Göre Osmanlı'da İstihbarat*, İstanbul 2017. Cem'in Rodos, Savoie ve Roma'daki durumuna ilişkin Osmanlı istihbarat kayıtlarının yayımlandığı belge derlemesi. Özellikle “Cem Sultan'ın Roma'ya gelişi, karşılanışı ve ikameti hakkında alınan haberler” başlıklı belge önemlidir.  
    https://www.devletarsivleri.gov.tr/varliklar/dosyalar/eskisiteden/yayinlar/osmanli-arsivi-yayinlar/Osmanlida_Istihbarat.pdf
 
-9. Türk Edebiyatı Eserler Sözlüğü, “Divan-ı Türkî (Cem Sultan)”. Divanın tertibi ve şiirlerin tarihlendirilmesi konusunda karşılaştırmalı edebiyat kaynağı.  
+10. Türk Edebiyatı Eserler Sözlüğü, “Divan-ı Türkî (Cem Sultan)”. Divanın tertibi ve şiirlerin tarihlendirilmesi konusunda karşılaştırmalı edebiyat kaynağı.  
    https://tees.yesevi.edu.tr/madde-detay/divan-i-turki-cem-sultan
 
 ### 2.2. Kaynak kullanımı hakkında not
