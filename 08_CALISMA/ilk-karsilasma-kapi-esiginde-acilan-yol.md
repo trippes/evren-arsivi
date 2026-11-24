@@ -2,8 +2,9 @@
 
 > **Durum:** ÇALIŞMA TASLAĞI — KANON DEĞİLDİR  
 > **Bağlam:** “İlk Kırılma” taslağının devamı. Cem'in lalalarının paralel evrenden getirilen muadilleriyle değiştirilmesinden sonra gerçekleşen ilk doğrudan karşılaşma.  
-> **Zaman:** Cem'in çocukluk dönemi. Kesin tarih ve yaşı henüz sabitlenmemiştir.  
-> **Süreklilik ilkesi:** Cem, karşısındaki kişiyi doğaüstü bir varlık olarak görmez. Onu, olağanüstü araçlara ve henüz anlayamadığı bir teknolojiye sahip gizemli bir yabancı olarak algılar.
+> **Zaman:** 1468 yılı; Cem'in Kastamonu'ya gitmesinden kısa süre önce.  
+> **Süreklilik ilkesi:** Cem, karşısındaki kişiyi doğaüstü bir varlık olarak görmez. Onu, olağanüstü araçlara ve henüz anlayamadığı bir teknolojiye sahip gizemli bir yabancı olarak algılar.  
+> **Lalalar:** Kara Süleyman Bey ve Nasuh Bey. Fatih Sultan Mehmet tarafından Cem'in sancak beyliği sürecinde ona rehberlik etmeleri ve lalalık görevini üstlenmeleri için görevlendirilmişlerdir. Her ikisi de Zaman Şövalyesi'ni önceden tanır ve onunla işbirliği yapar.
 
 ## Sahne
 
@@ -11,7 +12,7 @@ Akşam, odanın penceresinden içeri ağır ağır süzülüyordu. Güneş, ufku
 
 Cem, önündeki küçük ahşap kutuyla uğraşıyordu. Kutunun kapağını açıp kapatıyor, içindeki parçaları sıraya diziyor, sonra yeniden bozuyordu. Bir süredir lalalarından biriyle konuştuğu bir meseleyi düşünüyordu; fakat aklı, önündeki oyuncağa değil, biraz önce duyduğu bir hikâyeye takılmıştı.
 
-Lalalarından biri pencereye yakın yerde oturuyor, diğeri ise odanın girişine yakın bir sedirde bekliyordu. İkisi de her zamanki hâlindeydi. Cem'in alışık olduğu sesleri, yüz ifadeleri ve davranışlarıyla oradaydılar. Onların yanında kendisini güvende hissediyordu.
+Kara Süleyman Bey pencereye yakın yerde oturuyor, Nasuh Bey ise odanın girişine yakın bir sedirde bekliyordu. Fatih Sultan Mehmet, Cem'in Kastamonu'ya gönderilmesinden ve sancak beyliği vazifesine başlamasından önce, ona rehberlik etmeleri ve lalalık yapmaları için bu iki tecrübeli ismi görevlendirmişti. Cem, babasının seçtiği lalalarının yanında kendisini güvende hissediyordu. İkisinin de Zaman Şövalyesi'yle önceden tanıştığını ve onunla işbirliği yaptığını ise henüz bilmiyordu.
 
 Tam o sırada kapının bulunduğu yerde, odanın sessizliğine ait olmayan bir değişiklik meydana geldi.
 
@@ -27,7 +28,7 @@ Cem elindeki parçayı bıraktı.
 
 “Lala…” dedi, gözlerini geçitten ayırmadan. “Kapı mı açıldı?”
 
-Lalalarından biri ayağa kalktı. Diğeri de başını kaldırmış, geçidin ardındaki görüntüyü dikkatle izliyordu. İkisinin yüzünde de şaşkınlık yoktu.
+Kara Süleyman Bey ayağa kalktı. Nasuh Bey de başını kaldırmış, geçidin ardındaki görüntüyü dikkatle izliyordu. İkisinin yüzünde de şaşkınlık yoktu; bu gelişten haberdardılar.
 
 Geçidin içinden bir adam çıktı.
 
@@ -123,7 +124,7 @@ Bu cevap Cem'in hoşuna gitti. Yine de yabancının sözlerini hemen kabul edece
 
 “Lalalarım seni tanıyor mu?”
 
-Zaman Şövalyesi, odanın girişine yakın duran iki kişiye baktı. Onlar da başlarıyla hafifçe selam verdiler.
+Zaman Şövalyesi önce Kara Süleyman Bey'e, ardından Nasuh Bey'e baktı. İkisi de başlarıyla hafifçe selam verdiler.
 
 “Evet. Daha önce görüştük.”
 
@@ -131,9 +132,9 @@ Cem hemen lalalarına döndü.
 
 “Ne zaman görüştünüz? Bana neden söylemediniz?”
 
-Lalalarından biri öne çıktı.
+Kara Süleyman Bey öne çıktı.
 
-“Şehzadem, bu zatla görüşmemiz sizin güvenliğiniz ve iyiliğiniz için önceden kararlaştırılmıştı. Size uygun bir vakitte tanıştırılmanız düşünülüyordu.”
+“Şehzadem, Nasuh Bey'le birlikte bu zatı önceden tanıyoruz. Kendisiyle bir süredir görüşür ve işbirliği yaparız. Sizinle tanışmasının uygun olacağı vakti bekliyorduk.”
 
 “Kim kararlaştırdı?”
 
@@ -141,7 +142,7 @@ Zaman Şövalyesi söze girdi.
 
 “Ben teklif ettim. Onlar da kabul ettiler.”
 
-Cem, lalalarının yüzlerine tek tek baktı. Onlarda bir endişe veya zorlanma belirtisi görmedi. Sonra yeniden yabancıya döndü.
+Cem, önce Kara Süleyman Bey'in, sonra Nasuh Bey'in yüzüne baktı. Onlarda bir endişe veya zorlanma belirtisi görmedi. Sonra yeniden yabancıya döndü.
 
 “Benden ne istiyorsun?”
 
@@ -319,7 +320,7 @@ Zaman Şövalyesi odadaki boş sediri işaret etti.
 
 “Yanına oturabilir miyim?”
 
-Cem, lalalarına baktı. Onlardan biri hafifçe başını eğdi. Cem de eliyle sediri gösterdi.
+Cem, Kara Süleyman Bey ile Nasuh Bey'e baktı. Kara Süleyman Bey hafifçe başını eğdi. Cem de eliyle sediri gösterdi.
 
 “Otur.”
 
@@ -561,13 +562,15 @@ Sonra lalalarına döndü.
 
 “Gerçekten başka bir yerden mi geldi?”
 
-Lalalarından biri cevap verdi:
+Nasuh Bey cevap verdi:
 
-“Evet, Şehzadem.”
+“Evet, Şehzadem. Kendisinin geliş yolu bizim bildiğimiz yollar gibi değildir.”
 
 “Bu nasıl mümkün olabilir?”
 
-“Bunu en iyi kendisi anlatabilir.”
+Kara Süleyman Bey cevap verdi:
+
+“Bunu en iyi kendisi anlatabilir. Vakti geldiğinde size daha fazlasını gösterecektir.”
 
 Cem bir süre düşündü.
 
@@ -579,7 +582,7 @@ Cem bir süre düşündü.
 
 Lalası hemen cevap vermedi.
 
-“Her yeni tanıştığınız kişiye hemen güvenmemeniz iyi olur, Şehzadem. Onu zaman içinde tanıyacaksınız.”
+“Her yeni tanıştığınız kişiye hemen güvenmemeniz iyi olur, Şehzadem. Zaman Şövalyesi'ni de zaman içinde tanıyacaksınız. Biz onu tanıyoruz; fakat yine de kendi kanaatinizi kendiniz oluşturmalısınız.”
 
 Cem, bu cevabı beğendi. Çünkü Zaman Şövalyesi de ona hemen güvenmek zorunda olmadığını söylemişti.
 
@@ -610,8 +613,9 @@ Ve Zaman Şövalyesi, bu çocuğun kararlarını elinden almak için değil, bir
 - Zaman Şövalyesi portalı odanın ortasında değil, kapı eşiğinde açar; geçit yalnızca giriş alanında belirir ve odanın fiziksel düzenini bozmaz.
 - Cem, Zaman Şövalyesi'ni doğaüstü bir varlık olarak değerlendirmez. Onu ileri teknoloji kullanan gizemli bir yabancı olarak görür.
 - Zaman Şövalyesi kendisini “Zaman Şövalyesi” olarak tanıtır; gerçek kimliğinin ve kapasitesinin bütün ayrıntılarını açıklamaz.
-- Cem'in lalaları yabancıyı tanır ve onunla önceden anlaşmış olduklarını belli eder. Cem bu durum sayesinde rahatlar.
+- Cem'in lalaları Kara Süleyman Bey ve Nasuh Bey'dir. Fatih Sultan Mehmet tarafından Cem'in Kastamonu'ya gitmesinden ve sancak beyliği vazifesine başlamasından önce rehberlik ve lalalık için görevlendirilmişlerdir.
+- Kara Süleyman Bey ile Nasuh Bey, Zaman Şövalyesi'ni önceden tanır ve onunla işbirliği yapar. Cem, ilk görüşmede bu bağlantıyı öğrenir.
 - İlk görüşmede Cem ile Zaman Şövalyesi arasında yeniden görüşme, soru sorma, öğrenme ve görüşmelerin gizliliği üzerine geçici bir anlaşma kurulur.
 - Zaman Şövalyesi Cem'in gelecekteki tarihsel kaderini açıklamaz; onu belirli bir tahta çıkış veya savaş hakkında yönlendirmez.
-- Cem'in kesin yaşı, görüşmenin kesin tarihi, odanın saray içindeki konumu ve Zaman Şövalyesi'nin kullandığı aracın teknik ayrıntıları açık bırakılmıştır.
+- Görüşmenin kesin günü, Cem'in tam yaşı, odanın saray içindeki konumu ve Zaman Şövalyesi'nin kullandığı aracın teknik ayrıntıları açık bırakılmıştır. Görüşmenin yılı ve Kastamonu yolculuğuna göre konumu belirlenmiştir: 1468, Kastamonu'ya gitmesinden kısa süre önce.
 - Bu sahne, önceki lalaların değiştirilmesi olayını kanonlaştıran dosyanın devamı niteliğinde olsa da kendi başına henüz kanon değildir.
