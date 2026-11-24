@@ -29,6 +29,13 @@
       "name": "Cem'in lalalarının paralel evrenden getirilen muadilleriyle değiştirilmesi",
       "status": "kanon",
       "path": "06_OLAYLAR/cemin-lalalarinin-degistirilmesi.md"
+    },
+    {
+      "id": "event-0002",
+      "type": "narrative_event",
+      "name": "Askerî şehrin kuruluşu ve 500.000 süvarinin yetiştirilmesi",
+      "status": "kanon",
+      "path": "06_OLAYLAR/askeri-sehrin-kurulusu-ve-500-bin-suvarinin-yetistirilmesi.md"
     }
   ]
 }
