@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated_at": null,
+  "updated_at": "2026-11-24",
   "entries": [
     {
       "id": "premise-0001",
@@ -22,6 +22,13 @@
       "name": "Henüz adlandırılmadı",
       "status": "kanon",
       "path": "04_KARAKTERLER/ana-karakterler/character-0001.json"
+    },
+    {
+      "id": "event-0001",
+      "type": "narrative_event",
+      "name": "Cem'in lalalarının paralel evrenden getirilen muadilleriyle değiştirilmesi",
+      "status": "kanon",
+      "path": "06_OLAYLAR/cemin-lalalarinin-degistirilmesi.md"
     }
   ]
 }
