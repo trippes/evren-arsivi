@@ -15,7 +15,9 @@ Bu nedenle burada birkaç odak karakter ve bunların çevresinde şekillenen top
 ### 1.1. Korunacak temel ilkeler
 
 - Her çocuk asker olmak zorunda değildir.
-- 500.000 çocuk ile 500.000 atlı hedefi arasında bire bir bağ kurulmuş değildir.
+- 500.000 atlı kuvvet için yetiştirilen çocuk havuzunun tamamı erkeklerden oluşacaktır. Bu, söz konusu askerî hedefin temel insan kaynağı kuralıdır.
+- Bu kural, gizli şehirde yaşayan bütün çocukların veya sivil nüfusun erkek olması gerektiği anlamına gelmez. Aileleriyle gelen kız çocukları ve kadınlar şehir toplumunda bulunabilir; ancak 500.000 atlı hedefi için ayrılan yetiştirme grubuna dâhil değildir.
+- 500.000 çocuk ile 500.000 atlı hedefi arasında bire bir bağ kurulmuş değildir; erkek çocukların tamamının süvari olacağı da henüz kesinleştirilmemiştir.
 - Çocukların geldikleri paralel evrenler, aile durumları ve yaşları henüz kesinleştirilmemiştir.
 - Bir çocuğun belirli bir alana yatkınlık göstermesi, o alana mecbur bırakılacağı anlamına gelmez.
 - Karakterler farklı evrenlerden gelseler bile tek bir kültürel kalıba indirgenmemelidir.
@@ -23,7 +25,15 @@ Bu nedenle burada birkaç odak karakter ve bunların çevresinde şekillenen top
 - Bu taslaktaki karakterler tarihî Osmanlı şahsiyetleri değildir; gerçek kişilerle karıştırılmamalıdır.
 - 1468'de Cem'le temas edecek kişilerin bu çocuklar arasından seçilip seçilmeyeceği henüz kararlaştırılmamıştır.
 
-### 1.2. Karakter tasarımında kullanılacak yöntem
+### 1.2. Askerî hedef grubunun cinsiyet ve kapsam kuralı
+
+500.000 atlı kuvvetin yetiştirilmesi amacıyla seçilen ve bu hedefin insan kaynağı havuzunu oluşturan çocukların tamamı erkektir. Bu karar, hedeflenen kuvvetin süvari niteliği ve hikâyenin askerî kuruluş planı bakımından esas alınacaktır. Bu gruptan yetişecek herkesin mutlaka atlı birliklerde görev alacağı ise ayrıca kararlaştırılmalıdır; ordunun ihtiyaç duyduğu destek ve uzmanlık görevleri de bulunacaktır.
+
+Gizli şehrin genel nüfusu bu askerî havuzla aynı şey değildir. Şehirde aileleriyle gelen kız çocukları, kadınlar ve askerî hedefin dışında kalan sivil kişiler yaşayabilir. Dolayısıyla “askerî hedef için yetiştirilen çocukların tamamı erkek” ilkesi, “şehirde hiç kız çocuk bulunmaz” şeklinde genişletilmemelidir.
+
+Bu belgede yer alan altı odak karakter, 500.000 atlı hedefi için yetiştirilen erkek çocuk kuşağının adayları olarak ele alınır. Kadın karakterler şehir toplumunun başka alanlarında ileride tasarlanabilir; ancak bu askerî çocuk grubunun üyesi olarak gösterilmez.
+
+### 1.3. Karakter tasarımında kullanılacak yöntem
 
 Her aday için şu başlıklar ele alınacaktır:
 
@@ -125,11 +135,11 @@ Onun için fiziksel başarı, kendini kanıtlamanın bir yoludur. Fakat bu iste�
 
 **Açık noktalar:** Atlarla ilk karşılaşması, rekabet duygusunu değiştirecek olay ve askerî eğitim isteyip istemeyeceği belirlenmemiştir.
 
-### 3.3. Elif — bakım ve şifa alanına ilgi duyan çocuk
+### 3.3. Efe — bakım ve şifa alanına ilgi duyan çocuk
 
 **Temel çizgi:** Duyarlı, dikkatli, başkalarının ihtiyaçlarını fark eden; canlılara karşı şefkatli bir karakter adayı.
 
-Elif çalışma adıyla anılan çocuk, bir arkadaşının yaralandığını veya üzüldüğünü çoğu zaman diğerlerinden önce fark eder. Küçük hayvanlara, bitkilere ve bahçedeki canlılara ilgi gösterebilir. Bir canlının neden hastalandığını veya bir yaranın nasıl iyileştiğini merak eder.
+Efe çalışma adıyla anılan çocuk, bir arkadaşının yaralandığını veya üzüldüğünü çoğu zaman diğerlerinden önce fark eder. Küçük hayvanlara, bitkilere ve bahçedeki canlılara ilgi gösterebilir. Bir canlının neden hastalandığını veya bir yaranın nasıl iyileştiğini merak eder.
 
 Bu ilgi, onun gelecekte kesinlikle hekim olacağı anlamına gelmez. Çocukların merakı zamanla değişebilir. Ancak yetişkinler bu merakı güvenli ve yaşına uygun biçimde destekleyebilir.
 
@@ -144,7 +154,7 @@ Bu ilgi, onun gelecekte kesinlikle hekim olacağı anlamına gelmez. Çocukları
 - Kendi ihtiyaçlarını geri plana atma.
 - Sonuç alamadığı durumlarda üzülme.
 
-**İlişkileri:** Elif, farklı yaşlardan çocuklarla kolay iletişim kurabilir. Ancak arkadaşlarının her sorununu çözmek zorunda olmadığını öğrenmesi gerekir. Sağlık biriminde çalışan bir yetişkinin yanında gözlem yapması, onun merakını besleyebilir.
+**İlişkileri:** Efe, farklı yaşlardan çocuklarla kolay iletişim kurabilir. Ancak arkadaşlarının her sorununu çözmek zorunda olmadığını öğrenmesi gerekir. Sağlık biriminde çalışan bir yetişkinin yanında gözlem yapması, onun merakını besleyebilir.
 
 **1461–1468 gelişimi:** Önce bitkileri ve hayvanları tanımaya ilgi duyar. Daha sonra temel temizlik, ilk yardım ve sağlık bilgisi derslerinde dikkat çekebilir. 1468'e doğru hastalık ve bakım konularında sorular sorması, bir hekimin dikkatini çekebilir.
 
@@ -152,11 +162,11 @@ Bu ilgi, onun gelecekte kesinlikle hekim olacağı anlamına gelmez. Çocukları
 
 **Açık noktalar:** Ailesinin sağlık geçmişi, geçmiş dünyasında yaşadığı deneyimler ve şifa merakının kaynağı belirlenmemiştir.
 
-### 3.4. Narin — el becerisi ve üretime meraklı çocuk
+### 3.4. Nadir — el becerisi ve üretime meraklı çocuk
 
 **Temel çizgi:** Sabırlı, yaratıcı, nesnelerin nasıl çalıştığını merak eden; elleriyle öğrenmeyi seven bir karakter adayı.
 
-Narin çalışma adıyla anılan çocuk, kırılmış bir oyuncağı atmak yerine nasıl onarabileceğini düşünür. Tahta parçalarını birleştirir, ipleri düğümler ve küçük düzenekler kurmaya çalışır. Bir eşyanın yalnızca ne işe yaradığını değil, nasıl yapıldığını da merak eder.
+Nadir çalışma adıyla anılan çocuk, kırılmış bir oyuncağı atmak yerine nasıl onarabileceğini düşünür. Tahta parçalarını birleştirir, ipleri düğümler ve küçük düzenekler kurmaya çalışır. Bir eşyanın yalnızca ne işe yaradığını değil, nasıl yapıldığını da merak eder.
 
 Atölyelerde uzun süre kalmak isteyebilir. Ancak tehlikeli aletler ve üretim alanlarıyla ilişkisi her zaman yetişkin gözetiminde ve yaşına uygun olmalıdır.
 
@@ -171,7 +181,7 @@ Atölyelerde uzun süre kalmak isteyebilir. Ancak tehlikeli aletler ve üretim a
 - İşine dalıp çevresini unutma.
 - Düşüncesini sözlü olarak açıklama.
 
-**İlişkileri:** Narin, Aras'la birlikte gözlem ve çizim yapabilir; Demir'in oyunlarda kullandığı araçları onarmaya çalışabilir. Bir marangoz veya demircinin yanında gördüklerini zihninde biriktirebilir.
+**İlişkileri:** Nadir, Aras'la birlikte gözlem ve çizim yapabilir; Demir'in oyunlarda kullandığı araçları onarmaya çalışabilir. Bir marangoz veya demircinin yanında gördüklerini zihninde biriktirebilir.
 
 **1461–1468 gelişimi:** İlk dönemde basit çizimler ve oyuncaklarla uğraşır. Zamanla ölçü, malzeme ve bağlantı biçimleri hakkında sorular sorar. İlerleyen yıllarda atölye ziyaretleri ve güvenli el işi çalışmalarıyla becerileri gelişebilir.
 
@@ -206,11 +216,11 @@ Bu özellikleri onu yalnızca konuşkan biri yapmaz. İnsanların aynı olayı f
 
 **Açık noktalar:** Hangi dilleri bildiği, geldiği evrenin kültürü ve ileride resmî görev isteyip istemeyeceği belirlenmemiştir.
 
-### 3.6. Sera — uyum sağlayan ama geçmişini koruyan çocuk
+### 3.6. Selim — uyum sağlayan ama geçmişini koruyan çocuk
 
 **Temel çizgi:** Dışarıdan uyumlu görünen, çevresindeki insanları dikkatle tartan; geçmişine ait hatıraları kendine saklayan bir karakter adayı.
 
-Sera çalışma adıyla anılan çocuk, yeni kuralları diğer bazı çocuklardan daha çabuk öğrenebilir. İnsanların davranışlarını gözlemler, hangi durumda nasıl hareket edilmesi gerektiğini anlamaya çalışır. Fakat bu uyum, geçmişini unuttuğu anlamına gelmez.
+Selim çalışma adıyla anılan çocuk, yeni kuralları diğer bazı çocuklardan daha çabuk öğrenebilir. İnsanların davranışlarını gözlemler, hangi durumda nasıl hareket edilmesi gerektiğini anlamaya çalışır. Fakat bu uyum, geçmişini unuttuğu anlamına gelmez.
 
 Kimi akşamlar eski dünyasına ait bir kelimeyi veya şarkıyı hatırlayabilir. Bunu başkalarıyla paylaşmak istemediği zamanlar olabilir. Kendi hatıralarını korumak, onun için güven duygusunun bir parçasıdır.
 
@@ -226,7 +236,7 @@ Kimi akşamlar eski dünyasına ait bir kelimeyi veya şarkıyı hatırlayabilir
 - Yardım istemek.
 - Kendi istekleriyle çevresinin beklentilerini ayırmak.
 
-**İlişkileri:** Sera başlangıçta küçük bir arkadaş çevresine bağlı kalabilir. Zaman içinde Yusuf'un iletişim kurma çabası ve Elif'in dikkatli yaklaşımıyla daha fazla açılabilir. Aras'la sessiz bir dostluk kurması da mümkündür.
+**İlişkileri:** Selim başlangıçta küçük bir arkadaş çevresine bağlı kalabilir. Zaman içinde Yusuf'un iletişim kurma çabası ve Efe'in dikkatli yaklaşımıyla daha fazla açılabilir. Aras'la sessiz bir dostluk kurması da mümkündür.
 
 **1461–1468 gelişimi:** İlk yıllarda çevresini izleyerek kuralları öğrenir. Sonraki yıllarda arkadaşlarına güvenmeye başlasa da geçmişine ait bazı hatıraları kendine saklar. 1468'de şehirle bağ kurmuş olması, eski dünyasını unutmuş olması anlamına gelmez.
 
@@ -238,29 +248,29 @@ Kimi akşamlar eski dünyasına ait bir kelimeyi veya şarkıyı hatırlayabilir
 
 Bu altı adayın bir araya gelmesi, hikâyeye yalnızca altı ayrı biyografi değil, birbirini etkileyen bir arkadaşlık ağı kazandırabilir.
 
-### 4.1. Aras ve Narin: gözlem ile üretimin birlikteliği
+### 4.1. Aras ve Nadir: gözlem ile üretimin birlikteliği
 
-Aras bir nesnenin nasıl kullanıldığını ve nerede bulunduğunu dikkatle incelerken Narin onun parçalarını anlamaya çalışır. Birlikte basit bir düzenek kurabilirler. Aras ölçüleri ve ayrıntıları tarif eder; Narin bunları bir modele dönüştürür.
+Aras bir nesnenin nasıl kullanıldığını ve nerede bulunduğunu dikkatle incelerken Nadir onun parçalarını anlamaya çalışır. Birlikte basit bir düzenek kurabilirler. Aras ölçüleri ve ayrıntıları tarif eder; Nadir bunları bir modele dönüştürür.
 
-Bu ilişki, iki çocuğun farklı yeteneklerinin birbirini tamamlamasını gösterir. Ancak her zaman uyumlu olmaları gerekmez. Aras'ın uzun uzun düşünmesi Narin'i sabırsızlandırabilir; Narin'in aceleyle deneme yapması Aras'ın dikkatini dağıtabilir.
+Bu ilişki, iki çocuğun farklı yeteneklerinin birbirini tamamlamasını gösterir. Ancak her zaman uyumlu olmaları gerekmez. Aras'ın uzun uzun düşünmesi Nadir'i sabırsızlandırabilir; Nadir'in aceleyle deneme yapması Aras'ın dikkatini dağıtabilir.
 
-### 4.2. Demir ve Narin: güç ile becerinin çatışması
+### 4.2. Demir ve Nadir: güç ile becerinin çatışması
 
-Demir, oyunlarda kullanılan araçların sağlam olmasını ister. Narin ise yaptığı şeyin nasıl çalıştığını açıklamaya çalışır. Demir bazen bir nesneyi düşünmeden kullanıp kırabilir; Narin buna öfkelenebilir.
+Demir, oyunlarda kullanılan araçların sağlam olmasını ister. Nadir ise yaptığı şeyin nasıl çalıştığını açıklamaya çalışır. Demir bazen bir nesneyi düşünmeden kullanıp kırabilir; Nadir buna öfkelenebilir.
 
-Bu küçük anlaşmazlık, iki çocuğun birbirinin emeğine saygı duymayı öğrenmesi için kullanılabilir. Demir gücünü ölçülü kullanmayı, Narin ise yaptığı işin başkalarının kullanımına açık olduğunu anlamayı öğrenebilir.
+Bu küçük anlaşmazlık, iki çocuğun birbirinin emeğine saygı duymayı öğrenmesi için kullanılabilir. Demir gücünü ölçülü kullanmayı, Nadir ise yaptığı işin başkalarının kullanımına açık olduğunu anlamayı öğrenebilir.
 
-### 4.3. Elif ve Demir: cesaret ile ihtiyat
+### 4.3. Efe ve Demir: cesaret ile ihtiyat
 
-Demir bazen tehlikeyi küçümseyerek hareket eder. Elif ise yaralanma ihtimalini önceden fark etmeye çalışır. Bu nedenle aralarında tartışmalar yaşanabilir.
+Demir bazen tehlikeyi küçümseyerek hareket eder. Efe ise yaralanma ihtimalini önceden fark etmeye çalışır. Bu nedenle aralarında tartışmalar yaşanabilir.
 
-Elif'in sürekli uyarıda bulunması Demir'e korkaklık gibi görünebilir. Demir'in dikkatsizliği ise Elif'i kaygılandırabilir. Zamanla cesaretin tedbirsizlik, ihtiyatın da korkaklık olmadığını anlamaları mümkündür.
+Efe'in sürekli uyarıda bulunması Demir'e korkaklık gibi görünebilir. Demir'in dikkatsizliği ise Efe'i kaygılandırabilir. Zamanla cesaretin tedbirsizlik, ihtiyatın da korkaklık olmadığını anlamaları mümkündür.
 
-### 4.4. Yusuf ve Sera: konuşmak ile susmak
+### 4.4. Yusuf ve Selim: konuşmak ile susmak
 
-Yusuf insanlarla kolayca konuşur; Sera ise güvenmeden kendini açmaz. Yusuf'un soruları bazen Sera'yı rahatsız edebilir. Sera'nın sessizliği de Yusuf tarafından yanlış anlaşılabilir.
+Yusuf insanlarla kolayca konuşur; Selim ise güvenmeden kendini açmaz. Yusuf'un soruları bazen Selim'yı rahatsız edebilir. Selim'nın sessizliği de Yusuf tarafından yanlış anlaşılabilir.
 
-Bu ilişki, herkesin duygularını aynı biçimde ifade etmediğini gösterir. Yusuf zamanla dinlemeyi, Sera ise güvendiği insanlarla bazı hatıralarını paylaşmayı öğrenebilir.
+Bu ilişki, herkesin duygularını aynı biçimde ifade etmediğini gösterir. Yusuf zamanla dinlemeyi, Selim ise güvendiği insanlarla bazı hatıralarını paylaşmayı öğrenebilir.
 
 ### 4.5. Aras ve Yusuf: bilgi ile anlatı
 
@@ -268,9 +278,9 @@ Aras ayrıntıları kaydetmeye, Yusuf ise onları anlatmaya yatkındır. Birlikt
 
 Yusuf'un anlatımı bazen renklenebilir; Aras ayrıntıların doğruluğunu sorgulayabilir. Bu karşıtlık, doğru bilgi ile etkileyici anlatı arasındaki farkı işlemek için kullanılabilir.
 
-### 4.6. Elif ve Sera: güvenin yavaş kurulması
+### 4.6. Efe ve Selim: güvenin yavaş kurulması
 
-Elif, Sera'nın konuşmak istemediği zamanlarda onu zorlamadan yanında bulunabilir. Sera da Elif'in yardım etme isteğinin bir merak veya denetim aracı olmadığını zamanla anlayabilir.
+Efe, Selim'nın konuşmak istemediği zamanlarda onu zorlamadan yanında bulunabilir. Selim da Efe'in yardım etme isteğinin bir merak veya denetim aracı olmadığını zamanla anlayabilir.
 
 Bu dostluk, geçmişte yaşanan kayıpların hemen anlatılmak zorunda olmadığını ve güvenin zamana yayıldığını gösterebilir.
 
@@ -329,19 +339,19 @@ Bu aşamada yetişkinlerin isimlerini ve ayrıntılı geçmişlerini kesinleşti
 
 ### 6.1. Sabırlı öğretmen
 
-Çocukların aynı hızda öğrenmediğini bilen, soru sormayı teşvik eden bir öğretmen adayıdır. Başarıyı yalnızca ezber veya sınavla ölçmez. Aras'ın gözlemlerini, Yusuf'un dil merakını ve Narin'in uygulamalı öğrenme isteğini fark edebilir.
+Çocukların aynı hızda öğrenmediğini bilen, soru sormayı teşvik eden bir öğretmen adayıdır. Başarıyı yalnızca ezber veya sınavla ölçmez. Aras'ın gözlemlerini, Yusuf'un dil merakını ve Nadir'in uygulamalı öğrenme isteğini fark edebilir.
 
 Bu öğretmen, çocukları erken yaşta tek bir mesleğe yönlendirmemesiyle önem kazanır.
 
 ### 6.2. Usta zanaatkâr
 
-Atölyesinde çocuklara güvenli gözlem imkânı sunan, işin inceliklerini anlatan bir usta adayıdır. Narin'in merakını destekleyebilir. Demir'e de bir nesneyi kırmanın kolay, üretmenin ise emek istediğini gösterebilir.
+Atölyesinde çocuklara güvenli gözlem imkânı sunan, işin inceliklerini anlatan bir usta adayıdır. Nadir'in merakını destekleyebilir. Demir'e de bir nesneyi kırmanın kolay, üretmenin ise emek istediğini gösterebilir.
 
 Usta, çocukları ucuz iş gücü olarak kullanmamalıdır. Eğitim amacıyla yapılan basit uygulamalar yaş ve güvenlik şartlarına bağlı olmalıdır.
 
 ### 6.3. Hekim veya sağlık görevlisi
 
-Çocukların sağlık kayıtlarını ve bakım süreçlerini takip eden bir yetişkin adayıdır. Elif'in merakını fark edebilir; fakat ona yaşının üzerinde sorumluluk yüklemez.
+Çocukların sağlık kayıtlarını ve bakım süreçlerini takip eden bir yetişkin adayıdır. Efe'in merakını fark edebilir; fakat ona yaşının üzerinde sorumluluk yüklemez.
 
 Bu karakterin temel niteliği yalnızca tıbbi bilgisi değil, çocuklarla güven ilişkisi kurabilmesidir.
 
@@ -369,7 +379,7 @@ Bu nedenle öğretmenler ve bakım sorumluları gözlemlerini kaydetmeli; fakat 
 
 ### 7.2. Birden fazla yeteneğe izin verilmesi
 
-Bir çocuğun yalnızca tek bir alanda başarılı olması beklenmemelidir. Narin hem el işlerine hem çizime ilgi duyabilir. Yusuf dil öğrenirken tarih ve coğrafyaya da merak salabilir. Demir fiziksel etkinliklerin yanında strateji oyunlarında da başarılı olabilir.
+Bir çocuğun yalnızca tek bir alanda başarılı olması beklenmemelidir. Nadir hem el işlerine hem çizime ilgi duyabilir. Yusuf dil öğrenirken tarih ve coğrafyaya da merak salabilir. Demir fiziksel etkinliklerin yanında strateji oyunlarında da başarılı olabilir.
 
 ### 7.3. İstek ve yeterlilik ayrımı
 
@@ -402,7 +412,7 @@ Bu hatıraların hangilerinin gerçekten yaşandığı daha sonra belirlenebilir
 
 Eğitim faaliyetlerinin başlamasıyla çocuklar yeni sınıflarına, yaşam gruplarına ve öğretmenlerine alışır. Odak karakter adayları bu dönemde henüz belirgin birer uzmanlık sahibi değildir. Kişilikleri küçük davranışlar ve gündelik tercihler üzerinden görünür hâle gelir.
 
-Aras daha çok gözlemler; Demir oyunlarda öne çıkar; Elif başkalarının ihtiyaçlarını fark eder; Narin nesnelerle uğraşır; Yusuf iletişim kurar; Sera ise çevresini tartar. Bu özellikler kesin ve değişmez kişilik etiketleri değil, ilk izlenimlerdir.
+Aras daha çok gözlemler; Demir oyunlarda öne çıkar; Efe başkalarının ihtiyaçlarını fark eder; Nadir nesnelerle uğraşır; Yusuf iletişim kurar; Selim ise çevresini tartar. Bu özellikler kesin ve değişmez kişilik etiketleri değil, ilk izlenimlerdir.
 
 ### 1462: Arkadaşlıkların kurulması
 
@@ -418,9 +428,9 @@ Bu gözlemler, meslek seçimi değil, ilerideki eğitim imkânlarını tanımak 
 
 ### 1464–1465: İlgi alanlarının gelişmesi
 
-Çocukların bazı alanlara yönelik merakı belirginleşebilir. Narin atölye çalışmalarına, Elif sağlık ve doğa konularına, Yusuf dil ve anlatıya, Aras kayıt ve gözleme daha fazla zaman ayırabilir.
+Çocukların bazı alanlara yönelik merakı belirginleşebilir. Nadir atölye çalışmalarına, Efe sağlık ve doğa konularına, Yusuf dil ve anlatıya, Aras kayıt ve gözleme daha fazla zaman ayırabilir.
 
-Demir fiziksel etkinliklerde gelişirken Sera'nın sosyal ilişkileri ve kişisel güveni üzerinde durulabilir. Ancak hiçbir karakterin gelişimi tek yönlü olmamalıdır.
+Demir fiziksel etkinliklerde gelişirken Selim'nın sosyal ilişkileri ve kişisel güveni üzerinde durulabilir. Ancak hiçbir karakterin gelişimi tek yönlü olmamalıdır.
 
 ### 1466–1467: Sorumluluk ve öz güven
 
@@ -438,27 +448,27 @@ Bu kuşak, ileride şehrin askerî, ekonomik ve idari yapısında görev alabile
 
 Aşağıdaki sahne, karakterlerin ilişkilerini göstermek amacıyla yazılmış kanon dışı bir örnektir.
 
-Öğle dersleri bitmiş, çocuklar avluya dağılmıştı. Güneş taş duvarların üzerinden eğilmiş, gölgeler oyun alanının bir ucundan diğerine uzamaya başlamıştı. Narin, sabah atölye ziyaretinde gördüğü küçük tahta parçalarını bir araya getirerek basit bir düzenek yapmaya çalışıyordu. Aras yanına çömelmiş, parçaların yerlerini dikkatle inceliyordu.
+Öğle dersleri bitmiş, çocuklar avluya dağılmıştı. Güneş taş duvarların üzerinden eğilmiş, gölgeler oyun alanının bir ucundan diğerine uzamaya başlamıştı. Nadir, sabah atölye ziyaretinde gördüğü küçük tahta parçalarını bir araya getirerek basit bir düzenek yapmaya çalışıyordu. Aras yanına çömelmiş, parçaların yerlerini dikkatle inceliyordu.
 
 Demir koşarak yanlarına geldi. Elindeki küçük topu düzeneğin yanına bıraktı.
 
 “Bunu biraz daha uzağa atabilir miyiz?” diye sordu.
 
-Narin başını kaldırmadan cevap verdi:
+Nadir başını kaldırmadan cevap verdi:
 
 “Önce bunun dengede durmasını sağlamalıyım.”
 
 Demir, beklemekten hoşlanmadı. Tahta parçalarından birini eline alıp yerine yerleştirmeye çalıştı. Düzenek yana yattı ve parçalar dağıldı.
 
-Narin'in yüzü gerildi. “Daha bitmemişti.”
+Nadir'in yüzü gerildi. “Daha bitmemişti.”
 
 Demir, yaptığı şeyin bu kadar önemli olduğunu anlamamış gibi omuz silkti. Aras ise yere düşen parçaları toplamaya başladı.
 
-Biraz ötede Yusuf, olanları izliyordu. Sera'nın yanına gidip bir şey söylemek istedi, fakat Sera onun konuşmasını beklemeden avluya baktı. Elif de yaklaşmıştı. Narin'in ellerinin titrediğini fark etti.
+Biraz ötede Yusuf, olanları izliyordu. Selim'nın yanına gidip bir şey söylemek istedi, fakat Selim onun konuşmasını beklemeden avluya baktı. Efe de yaklaşmıştı. Nadir'in ellerinin titrediğini fark etti.
 
-“Yeniden yapabiliriz,” dedi Elif.
+“Yeniden yapabiliriz,” dedi Efe.
 
-“Her şeyi yeniden yapmak zorunda değiliz,” diye karşılık verdi Narin.
+“Her şeyi yeniden yapmak zorunda değiliz,” diye karşılık verdi Nadir.
 
 Demir önce cevap vermedi. Sonra yere çömeldi ve dağılan parçaları toplamaya başladı. Bu kez hiçbirini aceleyle birleştirmedi. Aras, parçaların önceki yerlerini hatırladığını söyledi. Yusuf da düzeneğin nasıl çalışacağını kendi sözleriyle anlatmaya koyuldu.
 
@@ -497,8 +507,8 @@ Bu konuda kesin karar verilmeden Zaman Şövalyesi'ne çocukların hayatını y�
 ## 12. Açık kararlar ve kullanıcı onayı bekleyen noktalar
 
 1. **Odak karakter sayısı:** Altı aday yeterli mi, yoksa daha az sayıda karaktere daha derin biyografiler mi ayrılmalı?
-2. **İsimler:** Aras, Demir, Elif, Narin, Yusuf ve Sera çalışma adları korunacak mı? İsimler geldikleri evrenlerin kültürlerine göre mi belirlenecek?
-3. **Cinsiyet dağılımı:** İlk kuşağın karakter dağılımı ve eğitim imkânları nasıl tasarlanmalı?
+2. **İsimler:** Aras, Demir, Efe, Nadir, Yusuf ve Selim çalışma adları korunacak mı? İsimler geldikleri evrenlerin kültürlerine göre mi belirlenecek?
+3. **Sivil çocukların kapsamı:** 500.000 atlı hedefi için yetiştirilen çocukların tamamı erkek olacaktır. Bunun dışında şehirde yaşayan ailelerin kız çocuklarının sayısı, eğitim imkânları ve toplumsal konumu ayrıca belirlenecektir.
 4. **Yaşlar:** Her karakterin 1461 ve 1468 yıllarındaki kesin yaşı ne olacak?
 5. **Kökenler:** Her karakter hangi paralel evrenden gelecek? Evrenler arasındaki tarih ve kültür farkları ne ölçüde belirgin olacak?
 6. **Aile bağları:** Hangi karakter ailesiyle gelecek, hangisi ailesinden ayrı olacak?
