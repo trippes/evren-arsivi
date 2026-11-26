@@ -19,8 +19,8 @@ Bu taslak, Cem Sultan'ın tarihsel yaşamını alternatif tarih anlatısına ba�
 ### 2.1 Kararlaştırılan çerçeve
 
 - Zaman Şövalyesi, Cem'in Osmanlı taht mücadelesinde ve iktidara geliş sürecinde bilinçli biçimde müdahalede bulunmayı planlar.
-- İlk karşılaşma Cem çocukken gerçekleşir.
-- Cem'in ilk karşılaşma sırasındaki yaşı yaklaşık **8–10** olarak belirlenmiştir. Bu, yaklaşık **1467–1469** dönemine karşılık gelir; kesin sahne tarihi henüz belirlenmemiştir.
+- İlk karşılaşma **1468 yılında**, Cem henüz Kastamonu'ya gitmeden önce gerçekleşir.
+- İlk karşılaşmanın yılı ve Kastamonu öncesinde gerçekleşeceği kesinleştirilmiştir; sahnenin günü ve Cem'in o günkü kesin yaşı ayrıca belirtilmemiştir.
 - Zaman Şövalyesi kendisini doğrudan **“Zaman Şövalyesi”** olarak tanıtır.
 - Kimliğinin, geldiği çağın, yeteneklerinin ve zaman yolculuğu mekanizmasının ayrıntılarını Cem'e bir anda açıklamaz; bunları aşamalı biçimde açığa çıkarır.
 - Cem, Zaman Şövalyesi ile karşılaşmadan önce onu tanımaz. Zaman Şövalyesi ise Cem'i tarihsel bir kişilik olarak önceden bilmektedir.
@@ -46,7 +46,7 @@ Zaman Şövalyesi'nin hazırlıkları Cem'in doğumundan sonra, Cem **0–5 yaş
 
 - Zaman Şövalyesi farklı paralel evrenlere ve bu evrenlerin 9. yüzyıldan 17. yüzyıla uzanan tarihsel dönemlerine seyahat eder.
 - Bu farklı zaman çizgilerinden toplam **500.000 çocuk** toplar.
-- Çocuklar seçildiklerinde yaklaşık **5–8 yaşlarındadır**.
+- İlk kuşağın eğitim programı **1461 yılında** başlar; programa alınan 500.000 erkek çocuğun yaşı **5–6** olarak belirlenmiştir.
 - Çocukların tamamı savaşçı olarak yetiştirilecektir; başlangıç tasarımında savaşçı ve savaşçı olmayan sınıflara ayrılmaları öngörülmemiştir.
 - Çocukların yetiştirilmesi, bakımı, eğitimi, idaresi ve askerî hazırlığı için ayrıca **binlerce yetişkin** toplanır.
 - Yetişkinlerin görev dağılımı, uzmanlıkları, komuta yapısı ve kendi aralarındaki yetki ilişkileri henüz tasarlanmamıştır.
@@ -62,6 +62,7 @@ Zaman Şövalyesi'nin hazırlıkları Cem'in doğumundan sonra, Cem **0–5 yaş
 
 ## 4. Cem'in gizli yapılanmadan haberdar oluşu
 
+- 500.000 kişilik kuvvetin **1481 yılında hazır olması** ve II. Mehmed'in ölüm haberinin Cem'e ulaşmasının ardından Cem'in emrine verilmesi, bu çalışma kronolojisinde kesinleşmiş karardır; henüz kanonik dosyalara aktarılmamıştır.
 - Cem, çocukluk döneminde gizli yapılanmanın **varlığından** haberdar olacaktır.
 - Ancak bu aşamada yapılanmanın gerçek ölçeğini ve **500.000 kişilik süvari kuvvetini** öğrenmeyecektir.
 - Kampın büyüklüğü, insan sayısı, askerî kapasitesi ve stratejik kapsamı Cem'e çok daha ileri bir aşamada açıklanacaktır.
