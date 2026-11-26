@@ -1,161 +1,222 @@
 # Zaman Şövalyesi'nin Gelişi ve Atasını Öldürmesi
 
-> **Belge türü:** Ayrıntılı anlatı taslağı  
+> **Belge türü:** Ayrıntılı anlatı taslağı ve açılış bölümü  
 > **Durum:** KANON DIŞI — kullanıcı onayı bekliyor  
-> **Dönem:** 23 Aralık 1459 sonrasında; kesin gün ve saat belirlenmedi  
+> **Dönem:** 23 Aralık 1459 sonrasında; kesin gün henüz belirlenmedi  
+> **Coğrafya:** 15. yüzyıl İran coğrafyasında adı henüz belirlenmemiş bir köy  
 > **Bağlam:** Şah Cem — Birinci Ana Bölüm: 1459–1468, Kuruluş, Teşkilatlanma ve Cem'in Çocukluğu
 
-## 1. Kanonik çerçeve ve sınırlar
+## 1. Bölümün amacı ve anlatım ilkeleri
 
-Bu anlatının dayandığı, daha önce kararlaştırılmış temel noktalar şunlardır:
+Bu bölüm, okurun Zaman Şövalyesi ile ilk kez karşılaştığı sahnedir. Dolayısıyla yalnızca bir zaman yolculuğunu veya bir cinayeti anlatmakla kalmamalı; karakterin görünüşü, tavırları, düşünme biçimi ve dünyaya yaklaşımı hakkında ilk izlenimi de oluşturmalıdır.
 
-- Zaman Şövalyesi, Cem'in doğumundan sonra, 1459 yılı içinde müdahaleye başlar.
-- Müdahale ettiği yer, kendi geçmişine daha önce dokunmadığı ve olağan akışında ilerleyen bir paralel evren dalıdır.
-- Öldürdüğü kişi ana evrenin veya Osmanlı hanedanının atası değildir. Bu kişi, Zaman Şövalyesi'nin kendi soy zincirindeki atalarından biridir.
-- Cinayetin temel amacı, aynı zaman dalında Zaman Şövalyesi'nin ikinci bir versiyonunun dünyaya gelmesini engellemektir.
-- Zaman Şövalyesi, kendi bedensel zaman çizgisinde yüzyıllar boyunca yaşamıştır. Kuantum fiziğine dayalı zaman yolculuğu yapar ve DNA kodlaması sayesinde yaşlanmaz.
-- Atanın adı, yaşadığı dönem ve evren, kesin konumu, öldürülme yöntemi ve olayın kişisel geçmişteki bütün sonuçları henüz kararlaştırılmamıştır.
+Bununla birlikte Zaman Şövalyesi'nin gerçek gücü, kökeni, sahip olduğu imkânlar ve arkasındaki teşkilat bu aşamada açıklanmayacaktır. Okur onun nereden geldiğini, nasıl yolculuk yaptığını, hangi imkânlara sahip olduğunu ve neden bu kişiyi hedef aldığını tam olarak bilmeyecektir. Bu bilgiler ilerleyen bölümlerde, hikâyenin ihtiyaç duyduğu noktada açığa çıkarılacaktır.
 
-Aşağıdaki sahne, bu sınırlar içinde hazırlanmış edebî bir öneridir. Belirlenmemiş kimlikler ve teknik ayrıntılar bilerek kesinleştirilmemiştir.
+**Ana anlatım tercihi:** Okur, Zaman Şövalyesi'ni önce gizemli bir yabancı olarak tanıyacaktır. Onun hakkında bilgi, açıklayıcı bir biyografi paragrafıyla değil; dış görünüşü, hareketleri, çevresini inceleyişi, kararları ve davranışları aracılığıyla verilecektir.
 
-## 2. Cem'in doğumundan sonra
+Bu bölümün açılış sahnesinde ana üsten, ana üssün varlığından, teşkilatın personelinden veya paralel evrenleri koordine eden merkezî yapıdan söz edilmeyecektir. Bunlar ileride açıklanacak büyük bir sırrın parçalarıdır. İlk bölümdeki anlatıcı da okura bu sırrı ima edecek ayrıntılı açıklamalar yapmamalıdır.
 
-**23 Aralık 1459.**
+## 2. Tarihsel ve kurgusal çerçeve
 
-Anadolu'nun üzerinde kış hüküm sürüyordu. Geceler uzamış, gündüzün solgun ışığı erken saatlerde dağların ve bozkırın üzerinden çekilmeye başlamıştı. İstanbul'da, Osmanlı sarayında yeni doğmuş bir şehzadenin dünyaya gelişi hanedanın geleceğine eklenen yeni bir ihtimal olarak karşılanıyordu. Şehzade Cem henüz dünyayı tanımıyor, kendisi hakkında kurulacak planlardan, ileride adının çevresinde yaşanacak mücadelelerden ve onu bekleyen ihtimallerden habersiz bulunuyordu.
+- Zaman Şövalyesi'nin müdahalesi, Şehzade Cem'in 23 Aralık 1459 tarihindeki doğumundan sonra gerçekleşir.
+- Hedef, Osmanlı dünyasından ayrı bir paralel evrendir. Bu evrende de 15. yüzyılın İran coğrafyasında sıradan insanların yaşadığı bir köy bulunmaktadır.
+- Zaman Şövalyesi'nin hedefi, bu köyde yaşayan, henüz evlenmemiş ve çocuk sahibi olmamış kurgusal bir erkektir.
+- Bu kişi, hedef evrende Zaman Şövalyesi'nin ileride doğabilecek başka bir versiyonuna uzanan soy zincirinin halkasıdır.
+- Öldürülen kişi Osmanlı hanedanının, Şehzade Cem'in veya ana hikâyedeki tarihsel kişilerin atası değildir.
+- Kişinin adı, yaşı, köyün adı, kesin tarih ve aralarındaki soy bağının derecesi henüz kararlaştırılmamıştır. Daha önce önerilmiş isimler, kullanıcı tarafından onaylanmadıkça kesin bilgi sayılmaz.
+- Cinayetin amacı, Zaman Şövalyesi'nin kendi köken evrenindeki varlığını ortadan kaldırmak değil; hedef paralel evrende kendisinin ikinci bir versiyonunun doğmasını engellemektir.
 
-Fakat bu doğum, başka bir yerde, başka bir ölçekte yeni bir hesabın başlangıcı olmuştu.
+İran coğrafyası ifadesi bu taslakta geniş anlamda kullanılmıştır. 15. yüzyıldaki siyasi sınırlar ve bölgesel hâkimiyetler kesin yer seçimi yapılırken ayrıca değerlendirilecektir. Köyün adı belirlenene kadar gerçek bir yerleşim yeri veya belirli bir hükümdarın idaresi kesinmiş gibi gösterilmemelidir.
 
-Zaman Şövalyesi, Cem'in doğumunu öğrendiğinde hemen harekete geçmedi. Önce gözlemledi. Önündeki seçenekleri değerlendirdi; birbirine benzeyen, fakat küçük farklılıklarla ayrılan zaman dallarını inceledi. Bu defa seçtiği evren, kendi geçmişine daha önce müdahale etmediği, kendi soyunun doğal akışında ilerlediği bir daldı.
+## 3. Açılış — Gecenin içindeki yabancı
 
-Bu ayrım önemliydi. Çünkü Zaman Şövalyesi, Cem'in hikâyesine müdahale edeceği yeni bir tarihsel zemin ararken, kendi varlığının kaynağını da kontrol altına almak istiyordu. Kendi geçmişine yapılacak gelişigüzel bir müdahale, yalnızca bir insanın hayatını değil, kendi varoluşunun dayandığı bütün neden-sonuç zincirini etkileyebilirdi.
+Gece, İran coğrafyasının iç kesimlerindeki küçük bir köyün üzerine ağır ağır iniyordu.
 
-Bu nedenle önce kendi soy zincirine yöneldi.
+Gün boyunca güneşin altında çalışan köylüler, akşam serinliği bastırınca evlerine çekilmişti. Toprak damlı evlerin arasından yükselen ince dumanlar, akşam yemeklerinin hazırlandığını haber veriyordu. Bir evin avlusunda su taşıyan kadın son testiyi de içeri götürmüş, başka bir evin önünde hayvanların yemliği doldurulmuştu. Dar sokaklarda çocuk sesleri çoktan kesilmişti.
 
-## 3. Zamandan bağımsız merkez
+Köyün çevresindeki tarlalar karanlığa gömülürken uzaktaki tepelerin çizgisi, bulutsuz gökyüzünün altında belli belirsiz seçiliyordu. Gece olağandı. Köy halkı için ertesi gün de diğer günler gibi başlayacaktı.
 
-Zaman Şövalyesi'nin hareket noktası, sıradan anlamda bir yer değildi. Kuantum evreninin ötesinde, zamanın olağan akışına bağlı olmayan bir merkez inşa etmişti. Burada geçmiş, şimdi ve gelecek, insanların yaşadığı dünyadaki gibi birbirini izleyen tek bir çizgi olarak algılanmıyordu.
+Ancak köyün biraz dışında, taşlı ve seyrek otlarla kaplı bir arazide, gecenin sessizliğini bozan tuhaf bir değişim meydana geldi.
 
-Merkezin kalbinde devasa bir kuantum bilgisayar bulunuyordu. Bilgisayarın ekranlarında paralel zaman dalları izlenebiliyor; dalların oluşumu, ayrışması ve birbirlerinden farklılaşması takip edilebiliyordu. Zaman Şövalyesi bu sistemi yalnızca geçmişi seyretmek için kullanmıyordu. Hangi dalın hangi müdahaleye açık olduğunu, bir değişikliğin hangi ihtimalleri doğurabileceğini ve hangi sonuçların kendi planını tehlikeye sokabileceğini anlamaya çalışıyordu.
+Önce havada belli belirsiz bir titreşim oluştu. Yakındaki otların uçları, esen bir rüzgâr olmamasına rağmen aynı anda eğildi. Ardından karanlığın ortasında, ince ve soluk bir ışık çizgisi belirdi. Çizgi genişledi; çevresindeki görüntü, sıcak havada uzaktan görülen bir manzara gibi dalgalanmaya başladı. Birkaç kalp atımı kadar kısa süren bu değişimin ardından karanlığın içinde insan boyutlarında bir açıklık oluştu.
 
-Merkezin sessizliği, dışarıdaki evrenlerin gürültüsünden bütünüyle farklıydı. Burada rüzgâr esmiyor, mevsimler değişmiyor, gün ışığı doğup batmıyordu. Zamanın geçişini bildiren bir güneş veya saat yoktu. Yalnızca sistemin yüzeylerinde beliren dallar, işaretler ve veriler vardı.
+Açıklıktan bir adam çıktı.
 
-Zaman Şövalyesi, bu merkezdeki ekranlardan birine yaklaştı. Önünde açılan kayıt, kendi soy zincirine aitti.
+Arkasındaki ışık bir süre daha titredi, sonra hiçbir iz bırakmadan kayboldu. Gece yeniden sessizliğe büründü.
 
-## 4. Soy zincirinin izini sürmek
+Adam acele etmedi. Önce bulunduğu yeri gözleriyle taradı. Sonra başını hafifçe çevirerek köyün yönünü, çevredeki yükseltileri ve uzak yolları inceledi. Sanki yabancı bir yere gelmiş bir yolcu gibi şaşkınlıkla etrafına bakmıyordu. Aksine, karşısındaki manzarayı önceden bildiği bir bilgiyi doğrulamak için kontrol ediyor gibiydi.
 
-Yanında taşıdığı tablet bilgisayarda, farklı dönemlerde yaşamış atalarının kimlik ve konum bilgilerini içeren bir liste bulunuyordu. Bu liste bir anda hazırlanmış değildi. Zaman Şövalyesi, kendi bedensel zaman çizgisinde yüzyıllar boyunca yaptığı araştırmalar sonucunda soyunun izini sürmüş; farklı dönemlerde yaşamış kişilerin kayıtlarını bir araya getirmişti.
+Üzerindeki kıyafetler köy halkının giydiklerine benzemiyordu. Koyu renkli, vücuduna düzgün oturan giysisi ne bir tüccarın yol elbisesine ne de bölgedeki askerlerin zırhlarına benziyordu. Kumaşın dokusu uzaktan bile alışılmadık görünüyordu. Üzerinde gereksiz süs, gösterişli işaret veya zenginliğini sergileyecek bir takı yoktu. Her parça işlevi düşünülerek seçilmiş gibiydi.
 
-Liste, onun için sıradan bir aile ağacından çok daha fazlasıydı. Her isim, kendi varoluşuna uzanan nedenler zincirinin bir halkasını temsil ediyordu. Bir kişinin doğumu, başka birinin hayatta kalması, bir evliliğin gerçekleşmesi veya bir soy kolunun devam etmesi, yüzyıllar sonra dünyaya gelecek bir insanın varlığını mümkün kılabilirdi.
+Boyu bulunduğu çevredeki insanların çoğundan uzun sayılabilirdi. Omuzları dik, duruşu dengeliydi. Hareketlerinde ne telaş ne de kararsızlık vardı. Yürürken ağırlığını gereksiz yere bir ayağından diğerine aktarmıyor, çevresini kontrol ederken başını küçük ve ölçülü hareketlerle çeviriyordu. Bir asker kadar dikkatli, uzun süre emir vermeye alışmış biri kadar kendinden emindi.
 
-Zaman Şövalyesi listedeki kayıtları dikkatle karşılaştırdı. Aradığı kişi, kendi soy zincirinde belirli bir noktada duruyordu. Bu kişinin hayatta kalması, seçtiği zaman dalında kendisinin başka bir versiyonunun doğmasına giden yolu açık bırakıyordu.
+Yüzü ilk bakışta kolayca hatırlanabilecek türden değildi; fakat bu, sıradan veya silik olduğu anlamına gelmiyordu. Hatları belirgindi. Bakışları, karşısındaki insanı yalnızca görmekle kalmayıp onu ölçüp tartıyormuş izlenimi veriyordu. Gözlerinde öfke veya heyecan yoktu. Yüzündeki ifade, uzun zamandır alışık olduğu bir işi yeniden yapmaya başlamış bir insanın soğukkanlılığını taşıyordu.
 
-Aradığı atayı bulduğunda bir süre ekrana baktı.
+Yaşı ise kesin olarak kestirilemiyordu. Genç bir adamın çevikliğine sahipti; buna karşılık bakışlarında ve yüzünün ifadesinde, çok daha uzun bir hayat yaşamış insanlarda görülebilecek bir ağırlık vardı. Onu ilk kez gören biri, görünüşüne bakarak belirli bir yaş söylemekte zorlanırdı.
 
-Bu, bir düşman ordusunun komutanı değildi. Kendisini avlayan bir hükümdar veya gelecekte planlarını bozacak bir rakip de değildi. Onu ortadan kaldırmasının nedeni, kişisel bir intikam değildi. Mesele, soy zincirinin devam etmesi hâlinde ortaya çıkacak ikinci bir Zaman Şövalyesi ihtimaliydi.
+Adam, bileğine yerleştirilmiş küçük ve koyu renkli bir düzeneğe baktı. Başparmağını yüzeyin üzerinde gezdirdi. Düzeneğin üzerinde birkaç ışık belirdi. Adamın yüzüne yansıyan soluk parıltı, çevresindeki karanlıkla keskin bir tezat oluşturuyordu.
 
-Aynı zaman dalında kendisinin bir başka versiyonunun doğması, yalnızca dünyada kendisine benzeyen ikinci bir insanın bulunması anlamına gelmiyordu. Bu ikinci versiyon, aynı kökenden gelen fakat farklı bir hayat yaşayacak; farklı kararlar alabilecek ve kendi zaman yolculuğu imkânlarına ulaştığında bambaşka bir güç odağına dönüşebilecekti.
+Ekrana kısa süre baktı. Ardından gözlerini köye çevirdi.
 
-Zaman Şövalyesi, bu ihtimali kabul etmiyordu.
+“Doğru yer,” diye mırıldandı.
 
-## 5. Karar
+Sesi alçak, sakin ve ölçülüydü. Kendi kendine konuşurken bile kelimelerini gereksiz yere uzatmıyordu.
 
-Ekrandaki soy kaydı bir süre daha açık kaldı.
+Bir süre daha cihazındaki işaretleri inceledi. Sonra onu kapattı ve köye doğru yürümeye başladı.
 
-Zaman Şövalyesi'nin önünde iki yol vardı. Ya seçtiği zaman dalında kendi soy zincirinin doğal biçimde devam etmesine izin verecek ve gelecekte ikinci bir versiyonun doğma ihtimalini göze alacaktı ya da henüz kendi varoluşunun ikinci bir kopyasına dönüşmemiş bu ihtimali ortadan kaldıracaktı.
+## 4. Yabancının karakteri
 
-Kararı, uzun bir tereddüdün sonunda verilmedi. Bu mesele üzerinde yüzyıllar boyunca düşünmüş, gerekli kayıtları toplamış ve müdahalenin sonuçlarını incelemişti. Şimdi yaptığı şey, daha önce zihninde tamamladığı planı uygulamaya koymaktı.
+Zaman Şövalyesi'nin ilk sahnedeki davranışları, okura onun kişiliği hakkında bazı ipuçları vermelidir. Bu ipuçları doğrudan açıklanmak yerine sahnenin içine dağıtılmalıdır.
 
-Tablet bilgisayardaki kaydı kapattı. Ardından seçtiği zaman dalına geçiş hazırlığını başlattı.
+**Soğukkanlılık:** Bilinmeyen bir çevreye gelmiş olmasına rağmen korku veya şaşkınlık göstermez. Beklenmedik bir durumla karşılaşırsa önce gözlemler, sonra karar verir.
 
-Bu yolculuk onun için bilinmeyene atılan bir adım değildi. Hangi evrene gideceğini, hangi soy kaydını takip edeceğini ve orada hangi sonucu elde etmek istediğini biliyordu. Yine de bu müdahalenin ardından o dalın artık eskisi gibi kalmayacağının farkındaydı.
+**Kontrol ihtiyacı:** Çevresini rastgele incelemez. İnsanları, yolları ve yapıları belli bir amaca göre değerlendirir. Her hareketi bir sonraki adımına hizmet eder.
 
-## 6. Atayla karşılaşma
+**Sabır:** Hedefine hemen ulaşmak için acele etmez. Gerekli bilgiyi doğrulamadan harekete geçmez.
 
-Zaman Şövalyesi, atasının bulunduğu yere ulaştığında kendisini sıradan bir yolcu gibi göstermeye çalışmadı. Onun gözünde bu karşılaşma, iki insanın tesadüfen aynı yerde bulunması değildi. Biri, diğerinin var olmasına giden soy zincirinin halkasıydı; öteki ise bu zincirin gelecekteki sonucuydu.
+**Mesafe:** İnsanlara karşı ilk yaklaşımı sıcak veya dostane değildir. Karşısındakileri kendi amaçları açısından değerlendirir. Bununla birlikte her zaman kaba davranması gerekmez; gerektiğinde sakin ve ikna edici konuşabilir.
 
-Atanın kimliği ve yaşadığı çevre henüz belirlenmediği için bu taslakta belirli bir şehir, yapı, tarihsel unvan veya aile adı kullanılmamaktadır. Sahnenin merkezinde coğrafi ayrıntıdan çok, iki kişi arasındaki zaman dışı bağ bulunur.
+**Kesin irade:** Bir karar verdiğinde onu uygulamak için harekete geçer. Kendi planının önündeki engelleri duygusal tereddütle değil, sonuçları üzerinden değerlendirir.
 
-Karşısındaki insan, önünde duran yabancının kim olduğunu bilmiyordu. Onun yüzyıllar sonrasından geldiğini, kendi soyunun gelecekte hangi sonuçlara ulaşacağını veya bu karşılaşmanın henüz doğmamış bir insanın varlığıyla ilgili olduğunu bilmesi mümkün değildi.
+Bu özellikler, Zaman Şövalyesi'ni ilk karşılaşmada bütünüyle kötü veya iyi olarak sınıflandırmayı zorlaştırmalıdır. Okur onun tehlikeli olabileceğini sezmeli; fakat bütün amaçlarını ve ahlaki sınırlarını henüz öğrenmemelidir.
 
-Zaman Şövalyesi ise karşısındaki kişiyi bir isimden ibaret görmüyordu. Onun yaşadığı hayat, kendi varoluşuna uzanan zincirin bir parçasıydı. Bu nedenle karşılaşma, dışarıdan bakıldığında kısa sürebilecek olsa bile Zaman Şövalyesi'nin zihninde çok daha uzun bir anlam taşıyordu.
+## 5. Hedefin belirlenmesi
 
-Atasının yüzünde korku, şaşkınlık veya öfke belirmiş olabilir; ancak bunların hangisinin yaşanacağı, atanın karakteri ve sahnenin kesin koşulları belirlendiğinde yazılacaktır. Aynı şekilde aralarında bir konuşma geçip geçmeyeceği de açık bırakılmıştır.
+Köyde yaşayan adam, o sırada kendi hayatının olağan akışı içindeydi.
 
-Zaman Şövalyesi'nin kararını değiştirecek bir şey olmadı.
+Henüz evlenmemişti. Kendi geçimini sağlayacak kadar çalışıyor, ailesi ve köydeki diğer insanlarla gündelik ilişkilerini sürdürüyordu. Geleceğe dair beklentileri, yaşadığı dönemin sıradan bir köylüsünün beklentilerinden farklı değildi. Bir gün evlenmek, bir aile kurmak, çocuk sahibi olmak ve ömrünü bildiği topraklarda geçirmek istiyordu.
 
-## 7. Cinayet ve zaman dalındaki kırılma
+Tarihte adının anılmasını sağlayacak bir makamı veya başarısı yoktu. Bir hükümdarın danışmanı, bir ordunun komutanı ya da büyük bir servetin sahibi değildi. Yaşadığı çevrede onu tanıyanlar için sıradan bir insandı.
 
-Öldürme anı, bu anlatının en önemli fakat henüz teknik ayrıntıları belirlenmemiş noktasıdır. Bu nedenle kullanılan silah, yöntem, fiziksel hareket veya teknoloji burada kesin bir olay gibi tarif edilmemektedir.
+Fakat Zaman Şövalyesi'nin gözünde sıradan değildi.
 
-Kesin olan, Zaman Şövalyesi'nin atasını öldürmesidir.
+Adam, hedefinin bulunduğu yeri ve kimliğini son kez doğrulamak için cihazına yeniden baktı. Kayıtlar, karşısındaki kişinin aradığı soy zincirinde bulunduğunu gösteriyordu. Bu kişi henüz evlenmemiş ve çocuk sahibi olmamıştı. Dolayısıyla soyun devam etmesini sağlayacak sonraki halkalar henüz oluşmamıştı.
 
-Bu ölüm, seçtiği zaman dalında soy zincirinin devamını kesecek bir müdahaledir. Böylece aynı dalda, o soy zincirinin doğal devamından doğabilecek ikinci Zaman Şövalyesi versiyonunun dünyaya gelmesi engellenir.
+Zaman Şövalyesi'nin aradığı fırsat buydu.
 
-Cinayetin ardından Zaman Şövalyesi'nin çevresinde bir ışık patlaması yaşanması veya dünyanın gözle görülür biçimde parçalanması gerekmez. Zamanın kırılması, insanların günlük hayatlarında fark edebileceği bir felaket şeklinde ortaya çıkmak zorunda değildir. Asıl değişiklik, neden-sonuç ilişkilerinin ve gelecekteki olasılıkların yeniden düzenlenmesidir.
+Onun amacı bir düşmanı cezalandırmak, geçmişte uğradığı bir haksızlığın intikamını almak veya bir siyasi mücadelede üstünlük sağlamak değildi. Karşısındaki adamın kişisel olarak kendisine karşı işlediği hiçbir suç yoktu. Bu adam, kendi hayatını yaşamakta ve geleceğini kurmaya çalışmaktaydı.
 
-Bir insanın ölümü, o kişinin ardından gelebilecek doğumları, karşılaşmaları ve kararları etkiler. Bu müdahalenin sonucunda seçilen dalın geleceği artık önceki olasılıkla aynı değildir. Zaman Şövalyesi'nin hedeflediği ikinci versiyonun doğumuna giden yol kapanmıştır.
+Zaman Şövalyesi ise onu, başka bir paralel evrende doğabilecek ikinci bir kendisinin soy zincirindeki halka olarak görüyordu.
 
-Bu, onun açısından bir zaferden çok, planının önündeki belirli bir belirsizliğin ortadan kaldırılmasıdır.
+Bu düşünce, iki insan arasındaki uçurumu ortaya koyuyordu. Biri kendi hayatının içindeydi; diğeri ise bir insan hayatına, henüz gerçekleşmemiş bir geleceğin ihtimalleri arasından bakıyordu.
 
-## 8. Yeni dalın seçilmesi
+## 6. Soy zincirine müdahale kararı
 
-Zaman Şövalyesi yeniden zamandan bağımsız merkezine döndüğünde kuantum bilgisayarın ekranlarında seçtiği dalı takip etti. Müdahalenin ardından oluşan yeni olasılıkları inceledi. Soy zincirinin gelecekte nasıl ilerleyeceğini ve ikinci bir versiyonun doğmasına yol açabilecek ihtimalin ortadan kalkıp kalkmadığını kontrol etti.
+Zaman Şövalyesi, kendi varlığının başka bir evrende yeniden ortaya çıkmasını istemiyordu.
 
-Artık önünde, kendi geçmişine daha önce dokunmadığı evrenden ayrılmış yeni bir zaman dalı bulunuyordu. Bu dalın tarihsel akışı, Osmanlı dünyasının kendi iç dinamikleriyle ilerlemeye devam edecekti; fakat Zaman Şövalyesi bundan sonra bu dal üzerinde yeni müdahalelerde bulunabilecekti.
+Kendi köken evreninde doğmuş, kendi hayatını yaşamış ve zaman yolculuğuna ulaşmıştı. Ancak başka bir paralel evrende, aynı soy zinciri doğal akışında devam ederse kendisinin başka bir versiyonunun dünyaya gelmesi mümkündü. O ikinci kişi, aynı başlangıçtan gelse bile aynı hayatı yaşamak zorunda değildi. Farklı şartlarda yetişebilir, farklı kararlar alabilir ve zamanla kendi gücünü oluşturabilirdi.
 
-Onun için önemli olan, geçmişi gelişigüzel değiştirmek değildi. Müdahale edeceği evreni seçmiş, kendi soy zinciriyle ilgili riski sınırlandırmış ve şimdi asıl planına geçebileceği bir zemin hazırlamıştı.
+Zaman Şövalyesi böyle bir ihtimali kontrolsüz bırakmayı kabul etmiyordu.
 
-Ekranda Osmanlı dünyasına ait zaman çizgisi belirginleşti.
+Bu nedenle hedef evrende soy zincirinin devam etmesini sağlayacak halkalardan birini, henüz çocuk sahibi olmadan ortadan kaldırmaya karar vermişti. Böylece o dalın doğal akışında kendisinin ikinci bir versiyonunun doğmasına giden yol kapanacaktı.
 
-Zaman Şövalyesi'nin dikkatini artık tek bir soru çekiyordu:
+Bu kararın arkasında kişisel bir öfke bulunmuyordu. Zaman Şövalyesi'nin soğukluğu da tam olarak burada görünür hâle geliyordu: Karşısındaki insanın hayalleri, ailesi, korkuları veya yaşayabileceği gelecek, onun hesabında belirleyici değildi. Önemli olan, kendi varlığı açısından doğabilecek ihtimalin ortadan kaldırılmasıydı.
 
-**Cem tahta geçerse neler olur?**
+## 7. Köye yaklaşma
 
-Bu soru, 1459'da başlayan büyük tasarının merkezinde duruyordu. Cem'in doğumu, Osmanlı hanedanının geleceğinde yeni bir ihtimal yaratmıştı. Zaman Şövalyesi bu ihtimalin gerçekleşmesini beklemekle yetinmeyecek; onu destekleyecek, güçlendirecek ve kendi tasarısının merkezine yerleştirecekti.
+Zaman Şövalyesi köye yaklaştıkça evlerden gelen sesleri duyabiliyordu. Bir yerde kap kacak sesi, başka bir yerde alçak sesli bir konuşma vardı. Köpeklerden biri yabancının yaklaşmasını fark edip kısa süre havladı; sonra yeniden sustu.
 
-Ancak bunun için önce Anadolu'da, dış dünyanın gözlerinden uzak bir merkez kurulmalıydı.
+Adam yürüyüşünü değiştirmedi.
 
-Atasının ölümüyle ilgili müdahale tamamlanmıştı. Şimdi sıra, gelecekte Cem'in emrine verilecek gücün temelini oluşturmaya geliyordu.
+Köyün girişinde bir an durdu. Etrafına baktı. Yapıları, sokakların genişliğini ve evlerin birbirine göre konumunu inceledi. Burası onun için bir yuva, bir hatıra veya tanıdık bir çevre değildi. Yalnızca aradığı kişinin yaşadığı yerdi.
 
-## 9. Sahnenin anlatısal işlevi
+Bir evin önünden geçerken kapı aralığından kendisine bakan yaşlı bir adamla göz göze geldi. Zaman Şövalyesi bakışını kaçırmadı; fakat durup konuşmaya da çalışmadı. Yabancıya bakan köylü, onun kıyafetlerini ve alışılmadık duruşunu anlamlandırmaya çalıştı. Bir şey soracak gibi oldu, sonra vazgeçti.
 
-Bu açılış bölümü üç işlev taşır:
+Zaman Şövalyesi yoluna devam etti.
 
-1. **Zaman Şövalyesi'nin iradesini gösterir.** O, zaman çizgilerini yalnızca izleyen değil, kendi varoluşunu korumak için soy zincirine müdahale edebilen bir karakterdir.
-2. **Cem'in doğumunu büyük planın başlangıç noktası yapar.** Cem'in dünyaya gelişi, Zaman Şövalyesi'nin Osmanlı tarihine yönelmesinin tetikleyicisidir; ancak Cem bu aşamada henüz planın farkında değildir.
-3. **Gizli şehrin kuruluşuna geçiş sağlar.** Atanın öldürülmesi, kendi başına bütün plan değildir. Bu müdahaleden sonra Zaman Şövalyesi, Anadolu'da askerî ve toplumsal bir yapılanma kurmaya yönelir.
+Köyde kimse onun nereden geldiğini bilmiyordu. Kimse arkasında bıraktığı yolculuğu görmemişti. Kimse, bu yabancının birkaç saat içinde yaşanacak olayların ötesinde, yüzyıllara yayılan bir hesabın parçası olduğunu anlayamazdı.
 
-## 10. Süreklilik ve neden-sonuç açıklaması
+## 8. Atayla karşılaşma ve cinayet
 
-Bu bölümdeki olay örgüsünün bundan sonraki metinlerde korunması gereken mantıksal çerçevesi şöyledir:
+Bu bölümün ilk taslağında hedef kişinin adı, yaşı, evi ve Zaman Şövalyesi'yle kesin soy bağı henüz belirlenmemiştir. Bu nedenle karşılaşmanın bütün ayrıntıları kesinleştirilmemelidir.
 
-1. **Müdahalenin zamanı:** Zaman Şövalyesi, Cem'in 23 Aralık 1459'daki doğumundan sonra harekete geçer. Cinayet, hedef evrenin zaman akışında bu tarihten sonraki bir anda gerçekleşir. Böylece müdahale Cem'in doğumunu ortadan kaldırmaz.
-2. **Hedef evren:** Zaman Şövalyesi, kendi soy geçmişine daha önce müdahale etmediği, kendi doğal tarihsel akışında ilerleyen başka bir paralel evren dalını seçer. Bu dal, onun geldiği köken evren değildir.
-3. **Öldürülen kişi:** Öldürülen kişi Osmanlı hanedanından veya Cem'in soyundan biri değildir. Zaman Şövalyesi'nin kendi soy zincirinde, hedef dalda kendisinin ikinci bir versiyonunun doğmasına imkân verecek atadır.
-4. **Müdahalenin amacı:** Zaman Şövalyesi kendi kökenindeki varlığını silmeye çalışmaz. Hedef dalda kendisinin ikinci bir versiyonunun doğmasını önler. Bu nedenle kendi geçmişi ile hedef evrendeki soy zinciri birbirine karıştırılmamalıdır.
-5. **Dalın sonucu:** Atanın öldürülmesi hedef evrenin gelecekteki neden-sonuç zincirini değiştirir ve bu müdahalenin devamında yeni bir paralel dal oluşur. Zaman Şövalyesi bundan sonra askerî şehir ve ordu projesini bu yeni dalda yürütür.
-6. **Cem'in tarihi:** Müdahale Cem'in doğumunu ve 1459'daki tarihsel başlangıcını silmez. Alternatif tarih, Cem'in doğumundan sonra başlar; sonraki olaylar bu yeni dalın gelişmeleridir.
-7. **Bilgi sınırı:** Zaman Şövalyesi'nin atasının adı, soy bağının ayrıntısı, öldürme yöntemi ve sahnenin kişisel/duygusal tonu henüz belirlenmiş değildir. Bu ayrıntılar, mevcut neden-sonuç çerçevesiyle çelişmeyecek biçimde daha sonra kararlaştırılacaktır.
+Zaman Şövalyesi hedefini bulduğunda, karşısındaki adam onun kim olduğunu bilmiyordu. Önünde duran yabancının başka bir çağdan geldiğini, kendisini uzun süredir araştırdığını veya kendi soyunun geleceği hakkında bilgi sahibi olduğunu düşünmesi mümkün değildi.
 
-Bu açıklamalar, önceki taslaktaki iki muğlaklığı giderir: Müdahalenin Cem'in doğumundan önce gerçekleştiği izlenimi verilemez; ayrıca öldürülen ata Cem'in veya Osmanlı hanedanının atası gibi anlatılamaz.
+Karşılaşmanın nasıl başlayacağı, hedefin evinde mi yoksa köyün başka bir yerinde mi gerçekleşeceği ve aralarında konuşma geçip geçmeyeceği daha sonra kararlaştırılacaktır.
 
-## 11. Kanonlaştırılmadan önce cevaplanması gereken sorular
+Ancak sahnenin temel dramatik karşıtlığı korunmalıdır:
 
-Aşağıdaki ayrıntılar hâlâ açık kalmalıdır; mevcut bilgiler bunları kesinleştirmeye yetmez:
+- Hedef, kendi hayatının sıradan bir gününü yaşamaktadır.
+- Zaman Şövalyesi, bu insanın hayatına kendi geleceğine ilişkin bir hesabı tamamlamak için müdahale etmektedir.
+- Hedefin Zaman Şövalyesi'ne karşı kişisel bir suçu yoktur.
+- Zaman Şövalyesi, hedefin evlenip çocuk sahibi olmasını beklemeden onu öldürmeyi planlamıştır.
+- Cinayet, hedef evrendeki soy zincirinin devamını kesmeyi amaçlamaktadır.
 
-- [ ] Atanın adı ve Zaman Şövalyesi'yle kesin soy bağı nedir?
-- [ ] Ata, hedef evrende 23 Aralık 1459'dan sonra hangi tarihsel tarihte ve nerede yaşamaktadır? (Cinayet, Cem'in doğumundan sonra gerçekleşeceği için hedef tarihte hayatta olmalıdır.)
-- [ ] Zaman Şövalyesi atayı hangi somut koşullarda bulur?
-- [ ] Cinayet hangi yöntemle gerçekleştirilir?
-- [ ] Atayla konuşur mu; konuşursa ona gerçeği açıklar mı?
-- [ ] Atanın ölümü, hedef dalda Zaman Şövalyesi'nin ikinci versiyonunun doğmasını hangi soy bağlantısı üzerinden engeller?
-- [ ] Yeni paralel dalın oluşumu hedef evrenin hangi zaman/kuantum kuralıyla açıklanır? (Mevcut anlatı, dalın oluştuğunu kabul eder; mekanizmanın teknik açıklaması henüz yazılmamıştır.)
-- [ ] Zaman Şövalyesi ikinci versiyonun doğma ihtimalinin ortadan kalktığını hangi verilerle doğrular?
-- [ ] Bu müdahalenin Zaman Şövalyesi üzerinde duygusal veya psikolojik bir etkisi var mıdır?
+Cinayetin yöntemi henüz belirlenmediğinden bu taslakta silah, teknoloji veya fiziksel hareket kesinleştirilmemiştir. Sahnenin yazımında gereksiz gösterişten kaçınılmalı; olayın ağırlığı, hedefin sıradan hayatı ile Zaman Şövalyesi'nin soğuk kararı arasındaki karşıtlıktan doğmalıdır.
+
+## 9. Ölümün ardından
+
+Hedefin ölümüyle birlikte, o paralel evrende gelecekte yaşanabilecek olayların bir bölümü artık gerçekleşemeyecektir. Adamın evlenmesi, çocuk sahibi olması ve soyunun devam etmesi mümkün olmayacaktır. Böylece Zaman Şövalyesi'nin ikinci bir versiyonunun doğmasına giden soy zinciri kesilecektir.
+
+Bu değişiklik köy halkı açısından sıradan bir ölüm veya açıklanması gereken bir cinayet olarak görülebilir. İnsanlar olayın nedenini anlamaya çalışabilir; fakat yüzyıllar sonrasına uzanan sonucu kavrayamazlar.
+
+Zaman Şövalyesi içinse müdahalenin anlamı çok daha büyüktür. O, hedef evrendeki kendi ikinci versiyonunun doğma ihtimalini ortadan kaldırmak üzere harekete geçmiştir.
+
+Cinayetten sonra ne yaptığı — köyden nasıl ayrıldığı, geçiş düzeneğini nerede kullandığı ve müdahalenin sonucunu nasıl doğruladığı — sahnenin kesin mekânı ve cinayet yöntemi belirlendikten sonra ayrıntılandırılacaktır.
+
+## 10. Açılış bölümünün okurda bırakması gereken izlenim
+
+Bölümün sonunda okur aşağıdaki bilgileri edinmiş olmalıdır:
+
+1. Karşılaştığı kişi sıradan bir yolcu değildir.
+2. Zaman Şövalyesi alışılmadık bir teknolojiye sahiptir.
+3. Bilinmeyen bir yöntemle başka bir yere gelmiştir.
+4. İnsanları ve çevresini dikkatle inceleyen, soğukkanlı ve planlı bir karakterdir.
+5. Kendisini ilgilendiren bir amaç uğruna masum sayılabilecek bir insanın hayatına son vermekten çekinmemektedir.
+6. Yaptığı müdahalenin sıradan bir cinayetten daha büyük sonuçları vardır.
+
+Buna karşılık okur henüz şu soruların yanıtını alamamalıdır:
+
+- Zaman Şövalyesi nereden gelmektedir?
+- Yolculuk ettiği yer veya düzenek nedir?
+- Bu teknolojiyi kim geliştirmiştir?
+- Zaman Şövalyesi tek başına mı hareket etmektedir?
+- Başka paralel evrenler var mıdır; varsa bunları kim veya ne yönetmektedir?
+- Zaman Şövalyesi'nin gerçek amacı nedir?
+- Neden başka bir versiyonunun doğmasını istememektedir?
+- İran'daki adamla arasındaki soy bağı tam olarak nedir?
+- Bu cinayet, ileride Şehzade Cem'in hikâyesiyle nasıl birleşecektir?
+
+Bu soruların tamamı aynı anda cevaplanmamalıdır. Bilgiler, hikâyenin ilerleyişine ve karakterlerin karşılaşmalarına uygun biçimde açığa çıkarılmalıdır.
+
+## 11. İleride açıklanacak büyük sır — yazar notu
+
+> **Bu bölüm okura açıklanmayacak bilgi:** Zaman Şövalyesi, yolculuğa çıktığı sırada bütün paralel evrenlerden bağımsız, kendisine ait özel bir ana üsten hareket etmektedir. Bu ana üs, onun kurduğu ve koordine ettiği evrenlerin hiçbirinin içinde yer almaz. Farklı paralel evrenlerden seçilip getirilen personel burada görev yapar ve Zaman Şövalyesi bütün bu teşkilatın tartışmasız hükümdarıdır.
+>
+> Ana üs; plaza benzeri büyük bir kompleks, kontrol ve kuantum bilgisayar odaları, gözlem alanları, toplantı ve dinlenme odaları, laboratuvarlar, tutsak hücreleri ve sorgu odaları gibi farklı bölümlerden oluşur.
+>
+> **Bu bilgiler açılış sahnesine eklenmeyecek, anlatıcı tarafından açıklanmayacak ve Zaman Şövalyesi'nin düşüncelerinde okura doğrudan aktarılmayacaktır.** İleride uygun bir olay örgüsü noktasında ortaya çıkarıldığında, okur başlangıçta gördüğü yabancının arkasında ne kadar büyük bir yapı bulunduğunu geriye dönük olarak anlayacaktır.
+
+## 12. Süreklilik ve neden-sonuç kuralları
+
+1. **Tarih:** Müdahale 23 Aralık 1459'dan sonra gerçekleşir. Kesin gün belirlenene kadar metinde kesin bir tarih kullanılmamalıdır.
+2. **Hedef evren:** Olay, Zaman Şövalyesi'nin köken evreninden farklı bir paralel evrende geçer.
+3. **Hedef kişi:** İran coğrafyasında yaşayan, evlenmemiş ve çocuk sahibi olmamış kurgusal bir erkektir.
+4. **Soy bağı:** Bu kişi hedef evrende, gelecekte doğabilecek ikinci Zaman Şövalyesi'nin soy zincirinde yer alır. Kesin kuşak ve akrabalık derecesi henüz belirlenmemiştir.
+5. **Köken evren:** Zaman Şövalyesi'nin kendi varlığı, hedef evrendeki cinayetten etkilenmez. Kendi köken evrenindeki geçmişi silinmez.
+6. **Hedef:** Cinayet, hedef evrende ikinci bir Zaman Şövalyesi'nin doğmasını sağlayacak soy zincirini kesmek amacıyla işlenir.
+7. **Cem'in doğumu:** Müdahale, Cem'in doğumunu ortadan kaldırmaz. Şah Cem'in alternatif tarihinin başlangıç noktası korunur.
+8. **Ana üs sırrı:** Açılış bölümünde ana üsten veya teşkilattan söz edilmez. Bunlar ileride açıklanacak anlatı sırlarıdır.
+9. **Kanon durumu:** Bu belge, kullanıcı onayı verilene kadar kanon dışı taslak olarak kalır.
+
+## 13. Sonraki yazım aşamasında kararlaştırılacak ayrıntılar
+
+- [ ] İran coğrafyasındaki köyün hangi bölgede bulunduğu.
+- [ ] Köyün gerçek bir tarihsel yerleşim mi yoksa kurgusal bir yer mi olacağı.
+- [ ] Hedef kişinin adı, yaşı, ailesi ve gündelik hayatı.
+- [ ] Hedefin Zaman Şövalyesi'yle kesin soy bağı.
+- [ ] Zaman Şövalyesi'nin fiziksel görünüşünde kalıcı olarak kullanılacak ayrıntılar.
+- [ ] Kıyafetlerinin tasarımı ve döneme göre nasıl gizlendiği.
+- [ ] Yolculuk düzeneğinin görünüşü ve çalışma biçimi — açılışta açıklanmadan.
+- [ ] Hedefle karşılaşmanın yeri ve konuşmanın içeriği.
+- [ ] Cinayetin yöntemi.
+- [ ] Cinayetten sonra köyde yaşanacaklar.
+- [ ] Zaman Şövalyesi'nin olay yerinden ayrılışı.
+- [ ] Müdahalenin yeni paralel dal üzerindeki sonucunun nasıl doğrulanacağı.
+- [ ] Bu olaydan gizli askerî şehrin kuruluşuna geçişin nasıl kurulacağı.
 
 ---
 
-**Süreklilik notu:** Bu dosya kanon dışı taslaktır. Yukarıdaki açıklamalar, daha önce kararlaştırılmış “Cem'in doğumundan sonra müdahale” ve “Zaman Şövalyesi'nin kendi atasını öldürmesi” kararlarını tutarlı bir neden-sonuç düzenine yerleştirir; atanın kimliği, cinayet yöntemi veya yeni fizik kuralları hakkında kullanıcı adına karar vermez.
+**Süreklilik notu:** Bu dosya, Zaman Şövalyesi'nin okurla ilk karşılaşmasını ve atasını öldürme müdahalesini aynı açılış bölümü içinde ele alan kanon dışı taslaktır. Ana üs ve teşkilat hakkındaki bilgiler yalnızca yazar notunda, ileride kullanılacak bir sır olarak tutulmuştur. Hedef kişinin adı, köyün konumu, kesin soy bağı ve cinayet yöntemi kullanıcı onayı olmadan kesinleştirilmemelidir.
 
 **Belge sonu — kanon dışı ayrıntılı anlatı taslağıdır. Kullanıcı onayı olmadan kanon kayıtlarına aktarılmamalıdır.**
