@@ -46,13 +46,13 @@ Arkasındaki ışık bir süre daha titredi, sonra hiçbir iz bırakmadan kaybol
 
 Adam acele etmedi. Önce bulunduğu yeri gözleriyle taradı. Sonra başını hafifçe çevirerek köyün yönünü, çevredeki yükseltileri ve uzak yolları inceledi. Sanki yabancı bir yere gelmiş bir yolcu gibi şaşkınlıkla etrafına bakmıyordu. Aksine, karşısındaki manzarayı önceden bildiği bir bilgiyi doğrulamak için kontrol ediyor gibiydi.
 
-Üzerindeki kıyafetler köy halkının giydiklerine benzemiyordu. Koyu renkli, vücuduna düzgün oturan giysisi ne bir tüccarın yol elbisesine ne de bölgedeki askerlerin zırhlarına benziyordu. Kumaşın dokusu uzaktan bile alışılmadık görünüyordu. Üzerinde gereksiz süs, gösterişli işaret veya zenginliğini sergileyecek bir takı yoktu. Her parça işlevi düşünülerek seçilmiş gibiydi.
+Üzerindeki kıyafetler köy halkının giydiklerine benzemiyordu. Siyah ve koyu gri tonlarının hâkim olduğu modern, sade bir kıyafet giymişti. Kesimi temiz, çizgileri yalındı; üzerinde gösterişli arma, mücevher veya dikkat çekmek için tasarlanmış süsler bulunmuyordu. Kumaşın ve dikişlerin görünümü, dönemin insanlarının bildiği giysilerden belirgin biçimde farklıydı. Kıyafet, sahibinin zenginliğini sergilemekten çok rahat hareket etmesini ve işini engellenmeden yapmasını sağlayacak şekilde tasarlanmış gibiydi.
 
-Boyu bulunduğu çevredeki insanların çoğundan uzun sayılabilirdi. Omuzları dik, duruşu dengeliydi. Hareketlerinde ne telaş ne de kararsızlık vardı. Yürürken ağırlığını gereksiz yere bir ayağından diğerine aktarmıyor, çevresini kontrol ederken başını küçük ve ölçülü hareketlerle çeviriyordu. Bir asker kadar dikkatli, uzun süre emir vermeye alışmış biri kadar kendinden emindi.
+İlk bakışta otuz beş ile kırk yaşları arasında görünüyordu. Koyu renk saçları düzenli ve bakımlıydı. Atletik vücudu, güçlü fakat aşırı iri olmayan bir yapıya sahipti. Omuzları dengeli, duruşu dikti. Yüz hatları belirgin, ifadesi ölçülüydü. Görünüşünde dikkat çeken şey yalnızca fiziksel gücü değil, kendiliğinden oluşan karizmasıydı; bunu sağlamak için gösterişli davranışlara veya sert bakışlara ihtiyaç duymuyordu.
 
-Yüzü ilk bakışta kolayca hatırlanabilecek türden değildi; fakat bu, sıradan veya silik olduğu anlamına gelmiyordu. Hatları belirgindi. Bakışları, karşısındaki insanı yalnızca görmekle kalmayıp onu ölçüp tartıyormuş izlenimi veriyordu. Gözlerinde öfke veya heyecan yoktu. Yüzündeki ifade, uzun zamandır alışık olduğu bir işi yeniden yapmaya başlamış bir insanın soğukkanlılığını taşıyordu.
+Gözleri çevresindeki ayrıntıları hızla seçiyor, karşısındaki insanı incelerken aceleci bir yargıya varmıyormuş izlenimi veriyordu. Bakışlarında öfke veya heyecan yoktu. Sakin, zeki ve gizemli bir ifade taşıyordu. Yüzünde, ne düşündüğünü kolayca ele veren bir mimik belirmiyordu.
 
-Yaşı ise kesin olarak kestirilemiyordu. Genç bir adamın çevikliğine sahipti; buna karşılık bakışlarında ve yüzünün ifadesinde, çok daha uzun bir hayat yaşamış insanlarda görülebilecek bir ağırlık vardı. Onu ilk kez gören biri, görünüşüne bakarak belirli bir yaş söylemekte zorlanırdı.
+Hareketlerinde ne telaş ne de kararsızlık vardı. Yürürken ağırlığını gereksiz yere bir ayağından diğerine aktarmıyor, çevresini kontrol ederken başını küçük ve ölçülü hareketlerle çeviriyordu. Atletik yapısı hareketlerine doğal bir çeviklik kazandırıyordu; buna rağmen hiçbir hareketi aceleci veya gösterişli değildi. Onu ilk kez gören biri, karşısında kendine güvenen, ne yaptığını bilen ve kolay kolay okunamayan bir adam bulunduğunu hissederdi.
 
 Adam, bileğine yerleştirilmiş küçük ve koyu renkli bir düzeneğe baktı. Başparmağını yüzeyin üzerinde gezdirdi. Düzeneğin üzerinde birkaç ışık belirdi. Adamın yüzüne yansıyan soluk parıltı, çevresindeki karanlıkla keskin bir tezat oluşturuyordu.
 
@@ -68,13 +68,17 @@ Bir süre daha cihazındaki işaretleri inceledi. Sonra onu kapattı ve köye do
 
 Zaman Şövalyesi'nin ilk sahnedeki davranışları, okura onun kişiliği hakkında bazı ipuçları vermelidir. Bu ipuçları doğrudan açıklanmak yerine sahnenin içine dağıtılmalıdır.
 
+**Dış görünüş:** Otuz beş ile kırk yaşları arasında görünen, koyu saçlı, atletik ve karizmatik bir adamdır. Siyah ve koyu gri tonlarında modern, sade kıyafetler giyer. Bu görünüş, onun ilk karşılaşmada hem dikkat çekmesini hem de kimliğini ele vermemesini sağlar.
+
 **Soğukkanlılık:** Bilinmeyen bir çevreye gelmiş olmasına rağmen korku veya şaşkınlık göstermez. Beklenmedik bir durumla karşılaşırsa önce gözlemler, sonra karar verir.
 
-**Kontrol ihtiyacı:** Çevresini rastgele incelemez. İnsanları, yolları ve yapıları belli bir amaca göre değerlendirir. Her hareketi bir sonraki adımına hizmet eder.
+**Zekâ ve gözlem:** Çevresini rastgele incelemez. İnsanları, yolları ve yapıları belli bir amaca göre değerlendirir. Ayrıntıları hızla fark eder; fakat elde ettiği bilgiyi aceleyle açığa vurmaz.
+
+**Gizemli tavır:** Ne düşündüğünü yüzünden okumak kolay değildir. Gereksiz konuşmaz, kendisi hakkında bilgi vermez ve sorulara yalnızca gerektiği kadar cevap verir.
 
 **Sabır:** Hedefine hemen ulaşmak için acele etmez. Gerekli bilgiyi doğrulamadan harekete geçmez.
 
-**Mesafe:** İnsanlara karşı ilk yaklaşımı sıcak veya dostane değildir. Karşısındakileri kendi amaçları açısından değerlendirir. Bununla birlikte her zaman kaba davranması gerekmez; gerektiğinde sakin ve ikna edici konuşabilir.
+**Mesafe ve karizma:** İnsanlara karşı ilk yaklaşımı ölçülü ve mesafelidir. Kaba davranmaya ihtiyaç duymaz; sakin konuşması ve kendinden emin tavrı doğal bir otorite oluşturur.
 
 **Kesin irade:** Bir karar verdiğinde onu uygulamak için harekete geçer. Kendi planının önündeki engelleri duygusal tereddütle değil, sonuçları üzerinden değerlendirir.
 
@@ -205,8 +209,9 @@ Bu soruların tamamı aynı anda cevaplanmamalıdır. Bilgiler, hikâyenin ilerl
 - [ ] Köyün gerçek bir tarihsel yerleşim mi yoksa kurgusal bir yer mi olacağı.
 - [ ] Hedef kişinin adı, yaşı, ailesi ve gündelik hayatı.
 - [ ] Hedefin Zaman Şövalyesi'yle kesin soy bağı.
-- [ ] Zaman Şövalyesi'nin fiziksel görünüşünde kalıcı olarak kullanılacak ayrıntılar.
-- [ ] Kıyafetlerinin tasarımı ve döneme göre nasıl gizlendiği.
+- [x] Zaman Şövalyesi'nin temel fiziksel görünüşü: 35–40 yaşlarında görünen, koyu saçlı, atletik ve karizmatik.
+- [x] Temel giyim tarzı: modern, siyah ve koyu gri tonlarında sade kıyafet.
+- [ ] Kıyafetlerinin 15. yüzyıl köyünde nasıl dikkat çekmeden kullanılacağı veya yabancı görünmesinin bilinçli bir tercih olup olmadığı.
 - [ ] Yolculuk düzeneğinin görünüşü ve çalışma biçimi — açılışta açıklanmadan.
 - [ ] Hedefle karşılaşmanın yeri ve konuşmanın içeriği.
 - [ ] Cinayetin yöntemi.
