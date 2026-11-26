@@ -126,21 +126,36 @@ Bu açılış bölümü üç işlev taşır:
 2. **Cem'in doğumunu büyük planın başlangıç noktası yapar.** Cem'in dünyaya gelişi, Zaman Şövalyesi'nin Osmanlı tarihine yönelmesinin tetikleyicisidir; ancak Cem bu aşamada henüz planın farkında değildir.
 3. **Gizli şehrin kuruluşuna geçiş sağlar.** Atanın öldürülmesi, kendi başına bütün plan değildir. Bu müdahaleden sonra Zaman Şövalyesi, Anadolu'da askerî ve toplumsal bir yapılanma kurmaya yönelir.
 
-## 10. Kanonlaştırılmadan önce cevaplanması gereken sorular
+## 10. Süreklilik ve neden-sonuç açıklaması
 
-Aşağıdaki başlıklar açık kalmalıdır:
+Bu bölümdeki olay örgüsünün bundan sonraki metinlerde korunması gereken mantıksal çerçevesi şöyledir:
 
-- [ ] Atanın adı ve Zaman Şövalyesi'yle soy bağı tam olarak nedir?
-- [ ] Ata hangi evrende ve hangi tarihsel dönemde yaşamaktadır?
-- [ ] Ata 1459 yılında mı yaşamaktadır, yoksa Zaman Şövalyesi 1459'dan sonra başka bir döneme mi gitmektedir?
-- [ ] Zaman Şövalyesi atayı nerede bulur?
+1. **Müdahalenin zamanı:** Zaman Şövalyesi, Cem'in 23 Aralık 1459'daki doğumundan sonra harekete geçer. Cinayet, hedef evrenin zaman akışında bu tarihten sonraki bir anda gerçekleşir. Böylece müdahale Cem'in doğumunu ortadan kaldırmaz.
+2. **Hedef evren:** Zaman Şövalyesi, kendi soy geçmişine daha önce müdahale etmediği, kendi doğal tarihsel akışında ilerleyen başka bir paralel evren dalını seçer. Bu dal, onun geldiği köken evren değildir.
+3. **Öldürülen kişi:** Öldürülen kişi Osmanlı hanedanından veya Cem'in soyundan biri değildir. Zaman Şövalyesi'nin kendi soy zincirinde, hedef dalda kendisinin ikinci bir versiyonunun doğmasına imkân verecek atadır.
+4. **Müdahalenin amacı:** Zaman Şövalyesi kendi kökenindeki varlığını silmeye çalışmaz. Hedef dalda kendisinin ikinci bir versiyonunun doğmasını önler. Bu nedenle kendi geçmişi ile hedef evrendeki soy zinciri birbirine karıştırılmamalıdır.
+5. **Dalın sonucu:** Atanın öldürülmesi hedef evrenin gelecekteki neden-sonuç zincirini değiştirir ve bu müdahalenin devamında yeni bir paralel dal oluşur. Zaman Şövalyesi bundan sonra askerî şehir ve ordu projesini bu yeni dalda yürütür.
+6. **Cem'in tarihi:** Müdahale Cem'in doğumunu ve 1459'daki tarihsel başlangıcını silmez. Alternatif tarih, Cem'in doğumundan sonra başlar; sonraki olaylar bu yeni dalın gelişmeleridir.
+7. **Bilgi sınırı:** Zaman Şövalyesi'nin atasının adı, soy bağının ayrıntısı, öldürme yöntemi ve sahnenin kişisel/duygusal tonu henüz belirlenmiş değildir. Bu ayrıntılar, mevcut neden-sonuç çerçevesiyle çelişmeyecek biçimde daha sonra kararlaştırılacaktır.
+
+Bu açıklamalar, önceki taslaktaki iki muğlaklığı giderir: Müdahalenin Cem'in doğumundan önce gerçekleştiği izlenimi verilemez; ayrıca öldürülen ata Cem'in veya Osmanlı hanedanının atası gibi anlatılamaz.
+
+## 11. Kanonlaştırılmadan önce cevaplanması gereken sorular
+
+Aşağıdaki ayrıntılar hâlâ açık kalmalıdır; mevcut bilgiler bunları kesinleştirmeye yetmez:
+
+- [ ] Atanın adı ve Zaman Şövalyesi'yle kesin soy bağı nedir?
+- [ ] Ata, hedef evrende 23 Aralık 1459'dan sonra hangi tarihsel tarihte ve nerede yaşamaktadır? (Cinayet, Cem'in doğumundan sonra gerçekleşeceği için hedef tarihte hayatta olmalıdır.)
+- [ ] Zaman Şövalyesi atayı hangi somut koşullarda bulur?
 - [ ] Cinayet hangi yöntemle gerçekleştirilir?
 - [ ] Atayla konuşur mu; konuşursa ona gerçeği açıklar mı?
-- [ ] Atanın ölümü aynı dalda Zaman Şövalyesi'nin ikinci versiyonunun doğmasını hangi soy bağlantısı üzerinden engeller?
-- [ ] Cinayetin hemen ardından yeni bir paralel dal mı oluşur, yoksa müdahale mevcut dalın geleceğini mi değiştirir?
-- [ ] Zaman Şövalyesi bu sonucun gerçekleştiğini hangi verilerle doğrular?
+- [ ] Atanın ölümü, hedef dalda Zaman Şövalyesi'nin ikinci versiyonunun doğmasını hangi soy bağlantısı üzerinden engeller?
+- [ ] Yeni paralel dalın oluşumu hedef evrenin hangi zaman/kuantum kuralıyla açıklanır? (Mevcut anlatı, dalın oluştuğunu kabul eder; mekanizmanın teknik açıklaması henüz yazılmamıştır.)
+- [ ] Zaman Şövalyesi ikinci versiyonun doğma ihtimalinin ortadan kalktığını hangi verilerle doğrular?
 - [ ] Bu müdahalenin Zaman Şövalyesi üzerinde duygusal veya psikolojik bir etkisi var mıdır?
 
 ---
+
+**Süreklilik notu:** Bu dosya kanon dışı taslaktır. Yukarıdaki açıklamalar, daha önce kararlaştırılmış “Cem'in doğumundan sonra müdahale” ve “Zaman Şövalyesi'nin kendi atasını öldürmesi” kararlarını tutarlı bir neden-sonuç düzenine yerleştirir; atanın kimliği, cinayet yöntemi veya yeni fizik kuralları hakkında kullanıcı adına karar vermez.
 
 **Belge sonu — kanon dışı ayrıntılı anlatı taslağıdır. Kullanıcı onayı olmadan kanon kayıtlarına aktarılmamalıdır.**
