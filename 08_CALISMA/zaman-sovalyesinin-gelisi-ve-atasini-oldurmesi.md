@@ -116,47 +116,99 @@ Bu nedenle hedef evrende soy zincirinin devam etmesini sağlayacak halkalardan b
 
 Bu kararın arkasında kişisel bir öfke bulunmuyordu. Zaman Şövalyesi'nin soğukluğu da tam olarak burada görünür hâle geliyordu: Karşısındaki insanın hayalleri, ailesi, korkuları veya yaşayabileceği gelecek, onun hesabında belirleyici değildi. Önemli olan, kendi varlığı açısından doğabilecek ihtimalin ortadan kaldırılmasıydı.
 
-## 7. Köye yaklaşma
+## 7. Köye yaklaşma ve köyün yaşam düzeni
 
 Zaman Şövalyesi köye yaklaştıkça evlerden gelen sesleri duyabiliyordu. Bir yerde kap kacak sesi, başka bir yerde alçak sesli bir konuşma vardı. Köpeklerden biri yabancının yaklaşmasını fark edip kısa süre havladı; sonra yeniden sustu.
 
-Adam yürüyüşünü değiştirmedi.
+Köy, verimli bir vadinin geniş alanına dağılmış evlerden oluşuyordu. Evler birbirine bitişik değildi; aileler kendi evlerini, tarlalarına ve günlük işlerine ulaşabilecekleri mesafelerde kurmuşlardı. Her evin yakınında küçük bir bahçe, bazı evlerin çevresinde kümesler ve gündelik işlerin yürütüldüğü avlular bulunuyordu. Ailenin evi de bu dağınık yerleşim düzeninin bir parçasıydı.
 
-Köyün girişinde bir an durdu. Etrafına baktı. Yapıları, sokakların genişliğini ve evlerin birbirine göre konumunu inceledi. Burası onun için bir yuva, bir hatıra veya tanıdık bir çevre değildi. Yalnızca aradığı kişinin yaşadığı yerdi.
+Vadinin içinden geçen akarsu köyün uzağındaydı. Köylüler, akarsuyun suyunu tarım alanlarına ulaştırabilmek için kendi imkânlarıyla bir sulama kanalı açmışlardı. Kanalın temizlenmesi, onarılması ve suyun tarlalara paylaştırılması ortak emek gerektiriyordu. Hedef adamın ailesi de kendi tarlasını sulamak için bu kanaldan yararlanıyordu.
 
-Bir evin önünden geçerken kapı aralığından kendisine bakan yaşlı bir adamla göz göze geldi. Zaman Şövalyesi bakışını kaçırmadı; fakat durup konuşmaya da çalışmadı. Yabancıya bakan köylü, onun kıyafetlerini ve alışılmadık duruşunu anlamlandırmaya çalıştı. Bir şey soracak gibi oldu, sonra vazgeçti.
+Evler birbirinden uzak olsa da köylüler birbirlerinden kopuk yaşamıyordu. Yerleşimin ortak buluşma noktası köy meydanıydı. Meydanda belirli zamanlarda pazar kuruluyor; köylüler ihtiyaçlarını alıp satıyor, haberleşiyor ve sohbet ediyordu. Meydanda ayrıca dinlenip konuşabilecekleri ortak bir toplanma yeri vardı. Bu mekân, 15. yüzyıl İran köyü için anakronizm oluşturabilecek bir kahvehane olarak değil, dönemin koşullarına uygun sade bir buluşma alanı olarak tasarlanmıştır.
 
-Zaman Şövalyesi yoluna devam etti.
+Zaman Şövalyesi meydanın yakınından geçerken insanların alışverişlerini tamamlayıp evlerine dönmeye hazırlandıklarını gördü. Siyah ve koyu gri kıyafetleri dikkat çekiyordu. Bazı bakışların üzerinde durduğunu fark etti; ancak hiçbirine gereğinden fazla karşılık vermedi.
 
-Köyde kimse onun nereden geldiğini bilmiyordu. Kimse arkasında bıraktığı yolculuğu görmemişti. Kimse, bu yabancının birkaç saat içinde yaşanacak olayların ötesinde, yüzyıllara yayılan bir hesabın parçası olduğunu anlayamazdı.
+Bileğindeki düzeneği kısa süreliğine etkinleştirdi. Ekrandaki işaretleri çevredeki yapılar ve kişilerle eşleştirdi. Ardından bakışlarını meydanın dışına, evlerin ve tarlaların bulunduğu yöne çevirdi. Aradığı kişi bu yerleşimdeydi.
+
+Bir evin önünden geçerken kapı aralığından kendisine bakan yaşlı bir adamla göz göze geldi. Zaman Şövalyesi durmadı. Köyde kimse onun nereden geldiğini bilmiyordu; kimse bu yabancının birkaç saat içinde yaşanacak olayların ötesinde, yüzyıllara yayılan bir hesabın parçası olduğunu anlayamazdı.
 
 ## 8. Atayla karşılaşma ve cinayet
 
-Bu bölümün ilk taslağında hedef kişinin adı, yaşı, evi ve Zaman Şövalyesi'yle kesin soy bağı henüz belirlenmemiştir. Bu nedenle karşılaşmanın bütün ayrıntıları kesinleştirilmemelidir.
+Hedef adam, ailesinin tarlasına yakın bir yerde günün işlerini tamamlıyordu. Ailenin geçimi büyük ölçüde kendi emeklerine dayanıyordu. Kendilerine yetecek büyüklükteki tarlalarında ihtiyaçları olan ürünleri yetiştiriyor, evlerinin yakınındaki kümeslerde besledikleri hayvanlardan yumurta ve et elde ediyorlardı. Varlıklı değillerdi; ancak kendi emekleriyle geçinebiliyorlardı.
 
-Zaman Şövalyesi hedefini bulduğunda, karşısındaki adam onun kim olduğunu bilmiyordu. Önünde duran yabancının başka bir çağdan geldiğini, kendisini uzun süredir araştırdığını veya kendi soyunun geleceği hakkında bilgi sahibi olduğunu düşünmesi mümkün değildi.
+Adam, geniş ailesinin ortanca çocuğuydu. Kendinden büyük kardeşleri evlenmiş ve kendi yuvalarını kurmuştu; buna rağmen anne ve babalarıyla bağlarını sürdürüyorlardı. Kendinden küçük kardeşleri ise bekârdı ve aile büyükleriyle birlikte yaşıyordu. Adam da artık evlilik çağına gelmişti. Ailesi onun için uygun bir eş bulunmasını istiyor, kendisi de bir gün evlenip çocuk sahibi olmayı ve kendi yuvasını kurmayı düşünüyordu.
 
-Karşılaşmanın nasıl başlayacağı, hedefin evinde mi yoksa köyün başka bir yerinde mi gerçekleşeceği ve aralarında konuşma geçip geçmeyeceği daha sonra kararlaştırılacaktır.
+O gün tarladaki işlerinin bir bölümünü tamamladıktan sonra sulama kanalının kendi tarlalarına ayrılan kısmını kontrol etmiş, suyun akışını engelleyen toprağı temizlemişti. Kanalın bakımı yalnızca kendi ailesinin değil, suyu kullanan diğer köylülerin de ortak sorumluluğuydu. İşini bitirince aletlerini topladı. Gün batımına doğru köy meydanına uğrayıp birkaç ihtiyaç almak ve ardından evine dönmek niyetindeydi.
 
-Ancak sahnenin temel dramatik karşıtlığı korunmalıdır:
+Meydanda alışverişini tamamladıktan sonra evine giden yola koyuldu. Evleri birbirinden uzak olduğundan yol, tarlaların ve bahçelerin arasından geçiyordu. Zaman Şövalyesi onu uzaktan takip etmiş, hareketlerini ve çevresini gözlemlemişti. Hedefin kimliğini ve soy bağlantısını bileğindeki düzenek üzerinden son kez doğruladı.
 
-- Hedef, kendi hayatının sıradan bir gününü yaşamaktadır.
-- Zaman Şövalyesi, bu insanın hayatına kendi geleceğine ilişkin bir hesabı tamamlamak için müdahale etmektedir.
-- Hedefin Zaman Şövalyesi'ne karşı kişisel bir suçu yoktur.
-- Zaman Şövalyesi, hedefin evlenip çocuk sahibi olmasını beklemeden onu öldürmeyi planlamıştır.
-- Cinayet, hedef evrendeki soy zincirinin devamını kesmeyi amaçlamaktadır.
+Adam, yol üzerinde yabancıyı fark ettiğinde yavaşladı. Siyah ve koyu gri giysileri, alışılmadık görünüşü hemen dikkatini çekmişti. Yine de karşısındaki kişinin kendisine zarar vereceğini düşünmesini gerektirecek açık bir işaret yoktu. Zaman Şövalyesi sakin bir sesle ona kısa bir soru yöneltti. Adam, yolcunun ne istediğini anlamaya çalışarak cevap verdi. Aralarında birkaç cümlelik, sıradan bir konuşma geçti.
 
-Cinayetin yöntemi henüz belirlenmediğinden bu taslakta silah, teknoloji veya fiziksel hareket kesinleştirilmemiştir. Sahnenin yazımında gereksiz gösterişten kaçınılmalı; olayın ağırlığı, hedefin sıradan hayatı ile Zaman Şövalyesi'nin soğuk kararı arasındaki karşıtlıktan doğmalıdır.
+Zaman Şövalyesi'nin yüzünde belirgin bir değişiklik olmadı. Adamın güvenini kazanmak için uzun bir hikâye anlatmadı; kendisi hakkında bilgi vermedi. Bileğindeki düzeneğe kısa bir bakış attıktan sonra yeniden adama döndü.
 
-## 9. Ölümün ardından
+Sonraki hareketi hızlı ve kararlıydı. Yanında taşıdığı küçük düzeneği kullandı. Adam ne olduğunu anlayamadan ağır biçimde yere yığıldı. Kısa süren olayın ardından çevre yeniden sessizliğe büründü.
 
-Hedefin ölümüyle birlikte, o paralel evrende gelecekte yaşanabilecek olayların bir bölümü artık gerçekleşemeyecektir. Adamın evlenmesi, çocuk sahibi olması ve soyunun devam etmesi mümkün olmayacaktır. Böylece Zaman Şövalyesi'nin ikinci bir versiyonunun doğmasına giden soy zinciri kesilecektir.
+Cinayetin yöntemi bu taslakta bilinçli olarak teknik ayrıntılara boğulmamıştır. Kullanılan düzeneğin niteliği, görünüşü ve tam etkisi ileride kararlaştırılacaktır. Şimdilik önemli olan, Zaman Şövalyesi'nin hedefini öldürmekte tereddüt etmemesi ve bunu kişisel bir husumet taşımadan, soğuk bir planın gereği olarak gerçekleştirmesidir.
 
-Bu değişiklik köy halkı açısından sıradan bir ölüm veya açıklanması gereken bir cinayet olarak görülebilir. İnsanlar olayın nedenini anlamaya çalışabilir; fakat yüzyıllar sonrasına uzanan sonucu kavrayamazlar.
+Zaman Şövalyesi yerde hareketsiz yatan adama baktı. Adamın evlenme, çocuk sahibi olma ve ailesinin devamına katkıda bulunma ihtimali artık sona ermişti. Şövalye bileğindeki düzeneği kontrol etti; hedefin yaşam belirtilerinin sona erdiğini doğruladı. Ardından çevresini gözlemleyerek olay yerinden uzaklaştı.
 
-Zaman Şövalyesi içinse müdahalenin anlamı çok daha büyüktür. O, hedef evrendeki kendi ikinci versiyonunun doğma ihtimalini ortadan kaldırmak üzere harekete geçmiştir.
+## 9. Cinayetten sonra köyde yaşananlar
 
-Cinayetten sonra ne yaptığı — köyden nasıl ayrıldığı, geçiş düzeneğini nerede kullandığı ve müdahalenin sonucunu nasıl doğruladığı — sahnenin kesin mekânı ve cinayet yöntemi belirlendikten sonra ayrıntılandırılacaktır.
+### 9.1. Eve dönmeyen evlat
+
+Akşam yaklaşırken aile evinde günlük hazırlıklar sürüyordu. Anne evin işleriyle ilgileniyor, baba ertesi gün yapılacak işleri düşünüyordu. Küçük kardeşlerden biri avludaki işlere yardım ederken diğeri kümeslerin çevresini kontrol ediyordu. Adamın eve dönmesi bekleniyordu.
+
+İlk başta gecikmesi üzerinde durulmadı. Tarladaki işlerinin uzaması veya köy meydanında tanıdıklarıyla karşılaşması olağan bir durumdu. Ancak hava karardığında annesi birkaç kez evin dışına çıkıp yolun bulunduğu tarafa baktı. Babasına oğullarının hâlâ dönmediğini söyledi.
+
+Baba, onun başka bir yerde oyalanmış olabileceğini düşündü. Belki bir kardeşiyle karşılaşmış, belki de köyden birinin işine yardım etmişti. Bir süre daha beklediler. Fakat gece ilerlediğinde aileden biri onu aramak için dışarı çıktı.
+
+Önce tarlaya baktı. Ardından sulama kanalının çevresini kontrol etti. İş aletlerinin bulunduğu yere uğradı. Onu hiçbir yerde bulamayınca diğer aile üyelerine haber verdi. Arayışa birkaç kişi daha katıldı.
+
+Sonunda adamı, eve giden yolun yakınında buldular. Yerde hareketsiz yatıyordu. Yanına eğildiklerinde artık yaşamadığını anladılar.
+
+İlk anda kimse ne söyleyeceğini bilemedi. Ardından ailesinin feryadı vadinin sessizliğini bozdu.
+
+### 9.2. Köyde yayılan haber
+
+Ölüm haberi kısa sürede dağınık evlerden diğer ailelere ulaştı. Köylüler birbirlerine haber vererek olay yerine gelmeye başladı. Kimi kendi evinden doğrudan tarlaların bulunduğu yöne yürüdü, kimi meydanda duyduğu haberi ailesine aktardı.
+
+Olay yerine gelenler ne olduğunu anlamaya çalıştı. Adamın tanıdıkları, onun kimseyle ciddi bir kavgası bulunmadığını söylüyordu. Ailesi gün içinde olağan dışı bir şey yaşanmadığını anlattı. Tarlada veya meydanda onu görenler, günün sıradan geçtiğini doğruluyordu.
+
+Bazıları bunun bir kaza olabileceğini düşündü. Başkaları ise yol üzerinde karşılaştığı birinin ona zarar vermiş olabileceğini söyledi. Ancak kimsenin elinde kesin bilgi yoktu. Karanlık, telaş ve olay yerinde toplanan kalabalık, çevrenin dikkatlice incelenmesini güçleştiriyordu.
+
+Bir süre sonra köylüler arasında yabancı bir adamdan söz edilmeye başlandı. Gün içinde köy meydanında görülen, siyah ve koyu gri kıyafetler giyen bu kişi birkaç kişinin aklında kalmıştı. Bazıları onu bizzat gördüğünü, bazıları ise başkalarından duyduğunu söylüyordu.
+
+Yabancının kim olduğu bilinmiyordu. Köye nereden geldiğini, kimi aradığını veya kiminle konuştuğunu bilen yoktu. Fakat alışılmadık görünüşü, ölüm olayının ardından anlatılan söylentilerin merkezine yerleşmeye başladı.
+
+### 9.3. Ailenin yası
+
+Aile için o gece zaman durmuş gibiydi. Anne, birkaç saat önce eve dönmesini beklediği oğlunun artık aralarında olmayacağını kabullenemiyordu. Baba ise yaşananları anlamaya çalışıyor, oğlunun neden öldürüldüğünü öğrenmek istiyordu.
+
+Evlenmiş büyük kardeşleri kendi yuvalarından kalkıp anne ve babalarının yanına geldiler. Küçük kardeşler ne yapacaklarını bilemiyordu. Onlar için ağabeylerinin ölümü, birlikte çalıştıkları, konuştukları ve gelecekte yanlarında olacağını düşündükleri bir insanı kaybetmekti.
+
+Ailenin bir süre önce konuşmaya başladığı evlilik meselesi de yarım kaldı. Adamın kuracağı yuva, doğacak çocukları ve ailesinin gelecekte büyüyecek kolu artık hiç var olmayacaktı. Fakat aile o gece bu uzak sonuçları düşünemiyordu. Onlar yalnızca oğullarını ve kardeşlerini kaybetmişlerdi.
+
+### 9.4. Köyün sonraki günleri
+
+Ertesi gün köydeki gündelik hayat eskisi gibi başlamadı. Tarlalara gitmesi gerekenler bir süre evlerinde kaldı. Sulama kanalının bakımına katılacak kişiler işlerini erteledi. Köy meydanında kurulan pazarda insanlar alışverişten çok önceki gece yaşananları konuşuyordu.
+
+Köylüler arasında farklı ihtimaller dile getirildi. Bazıları adamın bir yabancıyla karşılaşmış olabileceğini, bazıları olayın önceden planlanmış bir saldırı olduğunu düşünüyordu. Yakın yerleşimlerden gelen kişilerden şüphelenenler de vardı. Ancak ortada kesin bir cevap yoktu.
+
+Ailenin büyükleri olayın araştırılmasını istiyordu. Köyde sözü dinlenen kişiler de ölümün sıradan bir hadise gibi geçiştirilmemesi gerektiği konusunda hemfikirdi. Yabancıyı görenler onun kıyafetlerini, görünüşünü ve meydandaki varlığını tarif ettiler. Ancak bu tarifler, köy halkının tanıdığı herhangi bir kişiye uymuyordu.
+
+Günler geçtikçe yabancıya ilişkin anlatılanlar söylentiye dönüştü. Kimi onun bir tüccar, kimi uzak bir yerden gelen yolcu olduğunu düşündü. Başka birileri ise köyde yalnızca kısa süre kaldığını ve gece olmadan ayrıldığını söyledi. Hiç kimse gerçeği bilmiyordu.
+
+Köylüler kendi dünyalarının sınırları içinde bir cinayeti anlamaya çalışırken, Zaman Şövalyesi'nin kimliği ve gerçek amacı onların ulaşamayacağı kadar uzaktaydı.
+
+### 9.5. Zaman Şövalyesi'nin son kontrolü
+
+Köyden uzaklaştıktan sonra Zaman Şövalyesi bileğindeki düzeneği yeniden etkinleştirdi. Hedefin kimliğine ilişkin kayıtları ve soy zincirine ait verileri kontrol etti. Müdahalenin gerçekleştiğine dair göstergeleri inceledi.
+
+Kendi köken evreninde herhangi bir değişiklik meydana gelmemişti. Aradığı sonuç hedef evrenin geleceğinde ortaya çıkacaktı. O soy zincirinden doğması beklenen ikinci Zaman Şövalyesi artık doğal akış içinde dünyaya gelemeyecekti.
+
+Zaman Şövalyesi için işlem tamamlanmıştı. Köyde geride kalan acı, şüpheler ve cevapsız sorular onun kararını değiştirmiyordu. Bir ailenin hayatı parçalanmış, köyün huzuru bozulmuştu. Ancak onun gözünde bunlar, daha büyük bir ihtimali ortadan kaldırmak için ödenmiş bedellerdi.
+
+Düzeneğin ekranını kapattı. Arkasında bıraktığı köye son kez baktı ve yoluna devam etti.
 
 ## 10. Açılış bölümünün okurda bırakması gereken izlenim
 
@@ -207,21 +259,27 @@ Bu soruların tamamı aynı anda cevaplanmamalıdır. Bilgiler, hikâyenin ilerl
 
 - [ ] İran coğrafyasındaki köyün hangi bölgede bulunduğu.
 - [ ] Köyün gerçek bir tarihsel yerleşim mi yoksa kurgusal bir yer mi olacağı.
-- [ ] Hedef kişinin adı, yaşı, ailesi ve gündelik hayatı.
+- [ ] Hedef kişinin adı ve yaşı.
+- [x] Hedefin aile içindeki konumu: Geniş ailenin ortanca çocuğu; büyük kardeşleri evlenmiş, küçük kardeşleri bekâr.
+- [x] Ailenin geçim biçimi: Kendilerine yetecek büyüklükte tarla ve kümes hayvanları; karma geçim.
+- [x] Köyün doğal çevresi: Verimli vadi; akarsu uzakta.
+- [x] Sulama düzeni: Köylülerin kendi imkânlarıyla açtığı ortak sulama kanalı.
+- [x] Yerleşim düzeni: Evler dağınık; her evin yakınında bahçe ve gündelik kullanım alanı.
+- [x] Ortak yaşam alanı: Köy meydanında pazar ve kahvehane yerine döneme uygun ortak toplanma/dinlenme alanı.
 - [ ] Hedefin Zaman Şövalyesi'yle kesin soy bağı.
 - [x] Zaman Şövalyesi'nin temel fiziksel görünüşü: 35–40 yaşlarında görünen, koyu saçlı, atletik ve karizmatik.
 - [x] Temel giyim tarzı: modern, siyah ve koyu gri tonlarında sade kıyafet.
 - [ ] Kıyafetlerinin 15. yüzyıl köyünde nasıl dikkat çekmeden kullanılacağı veya yabancı görünmesinin bilinçli bir tercih olup olmadığı.
 - [ ] Yolculuk düzeneğinin görünüşü ve çalışma biçimi — açılışta açıklanmadan.
-- [ ] Hedefle karşılaşmanın yeri ve konuşmanın içeriği.
-- [ ] Cinayetin yöntemi.
-- [ ] Cinayetten sonra köyde yaşanacaklar.
-- [ ] Zaman Şövalyesi'nin olay yerinden ayrılışı.
+- [ ] Hedefle karşılaşmanın kesin yeri ve konuşmanın içeriği.
+- [ ] Cinayetin kesin yöntemi ve kullanılan düzeneğin niteliği.
+- [ ] Köydeki soruşturmanın kim tarafından ve nasıl yürütüleceği.
+- [ ] Zaman Şövalyesi'nin olay yerinden ayrılışı ve sonraki durağı.
 - [ ] Müdahalenin yeni paralel dal üzerindeki sonucunun nasıl doğrulanacağı.
 - [ ] Bu olaydan gizli askerî şehrin kuruluşuna geçişin nasıl kurulacağı.
 
 ---
 
-**Süreklilik notu:** Bu dosya, Zaman Şövalyesi'nin okurla ilk karşılaşmasını ve atasını öldürme müdahalesini aynı açılış bölümü içinde ele alan kanon dışı taslaktır. Ana üs ve teşkilat hakkındaki bilgiler yalnızca yazar notunda, ileride kullanılacak bir sır olarak tutulmuştur. Hedef kişinin adı, köyün konumu, kesin soy bağı ve cinayet yöntemi kullanıcı onayı olmadan kesinleştirilmemelidir.
+**Süreklilik notu:** Bu dosya, Zaman Şövalyesi'nin okurla ilk karşılaşmasını, hedefini bulmasını, öldürmesini ve cinayet sonrasında köyde yaşananları aynı açılış bölümü içinde ele alan kanon dışı taslaktır. Köyün yerleşim ve geçim düzeni kullanıcı kararları doğrultusunda işlenmiştir. Ana üs ve teşkilat hakkındaki bilgiler yalnızca yazar notunda, ileride kullanılacak bir sır olarak tutulmuştur. Hedef kişinin adı, köyün kesin konumu, kesin soy bağı ve cinayet düzeneğinin teknik niteliği kullanıcı onayı olmadan kesinleştirilmemelidir.
 
 **Belge sonu — kanon dışı ayrıntılı anlatı taslağıdır. Kullanıcı onayı olmadan kanon kayıtlarına aktarılmamalıdır.**
